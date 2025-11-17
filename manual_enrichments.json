@@ -2084,6 +2084,9 @@
       "educator",
       "republican"
     ]
+  },
+  {
+    "id": 49,
     "position": ["party member"],
     "crime": ["sexual abuse", "child exploitation", "prostitution"],
     "tags": ["party member", "republican"]
@@ -2285,5 +2288,95 @@
     "position": ["state legislator"],
     "crime": ["child molestation", "sexual abuse"],
     "tags": ["state legislator", "republican"]
+  },
+  {
+    "id": 1003,
+    "name": "Daryl Johnson",
+    "year": 2023,
+    "description": "Daryl Eugene Johnson, a January 6 Capitol rioter from St. Ansgar, Iowa, was sentenced to six months in prison for secretly recording women at a tanning salon. He used a cell phone positioned on an 8-foot dividing wall to record women changing clothes. He pleaded guilty to four counts of invasion of privacy and was required to register as a sex offender.",
+    "position": ["insurrectionist", "sex offender"],
+    "crime": ["invasion of privacy", "voyeurism", "insurrection"],
+    "tags": ["insurrectionist", "sex offender", "republican"]
+  },
+  {
+    "id": 1037,
+    "name": "Joshua Wine",
+    "year": 2023,
+    "description": "Sgt. First Class Joshua Wine, an Iowa Army National Guard recruiter, was arrested for sexually abusing a 10-year-old girl at least three times. He was stationed at Ballad (Huxley), Des Moines North and Woodward-Granger high schools. He pleaded guilty to child endangerment and received a suspended sentence and two years probation.",
+    "position": ["military recruiter", "sergeant"],
+    "crime": ["child sexual abuse", "child endangerment"],
+    "tags": ["military", "recruiter", "predator"]
+  },
+  {
+    "id": 1057,
+    "name": "Ali Alexander",
+    "year": 2021,
+    "description": "Ali Alexander (born Ali Abdul-Razaq Akbar), a far-right activist and conspiracy theorist, organized the 'Stop the Steal' campaign and the 'Wild Protest' rally that preceded the January 6 Capitol attack. He planned the rally with Caroline Wren, funded by Publix heiress Julie Jenkins Fancelli. He testified to a grand jury and the House Jan. 6 committee but has not been charged.",
+    "position": ["activist", "organizer"],
+    "crime": ["insurrection"],
+    "tags": ["far-right", "conspiracy theorist", "insurrectionist"]
+  },
+  {
+    "id": 1062,
+    "name": "Daniel Perry",
+    "year": 2024,
+    "description": "Daniel Perry, an Army sergeant, was convicted of murdering Garrett Foster, an Air Force veteran, during a racial justice protest in Austin in July 2020. He made persistent racist comments and threats against Black Lives Matter. He was sentenced to 25 years but pardoned by Gov. Greg Abbott in May 2024 after 18 months in prison.",
+    "position": ["military", "sergeant"],
+    "crime": ["murder", "hate crime", "racial violence"],
+    "tags": ["military", "racist", "murderer", "pardoned"]
+  },
+  {
+    "id": 1274,
+    "name": "Church of Jesus Christ of Latter-day Saints",
+    "year": 2022,
+    "description": "The LDS Church established a secretive helpline for bishops to report child sex abuse claims internally instead of to law enforcement. The church has been accused of systematic coverups, managing abuse claims internally, using non-disclosure agreements, and destroying records. Hundreds of lawsuits have been filed alleging the church harbored abusers.",
+    "position": ["religious organization"],
+    "crime": ["child sexual abuse", "obstruction", "coverup"],
+    "tags": ["religious organization", "institutional abuse", "coverup"]
+  },
+  {
+    "id": 1375,
+    "name": "Andrew Taake",
+    "year": 2024,
+    "description": "Andrew Taake, a Houston resident, was sentenced to six years for assaulting police with bear spray and a whip-like weapon during the January 6 Capitol attack. He was pardoned by Trump on January 20, 2025. He had a pending 2016 charge for online solicitation of a minor involving sexually explicit messages to an undercover officer posing as a 15-year-old. He was arrested after his release.",
+    "position": ["insurrectionist"],
+    "crime": ["assault on police", "insurrection", "child exploitation", "online solicitation"],
+    "tags": ["insurrectionist", "pedophile", "trump pardon"]
+  },
+  {
+    "id": 204,
+    "name": "Jeremy Durham",
+    "year": 2016,
+    "description": "Tennessee State Representative Jeremy Durham (R-65th District) sexually harassed at least 22 women. Investigation revealed he had sex with a 20-year-old college student in his office after plying her with beer. He was expelled from the Tennessee House on September 13, 2016, on a 70-2 vote—the first sitting member expelled since 1980.",
+    "position": ["state legislator"],
+    "crime": ["sexual harassment", "sexual assault"],
+    "tags": ["state legislator", "republican", "expelled"]
+  },
+  {
+    "id": 298,
+    "name": "Rob Brooks",
+    "year": 2018,
+    "description": "Wisconsin State Representative Rob Brooks (R-Saukville) made racist remarks to Hispanic colleague Rep. Jessie Rodriguez, saying he was buying drinks 'except Jessie because she's Hispanic.' He also made sexual comments to female colleagues at a Republican event in Wisconsin Dells while intoxicated. He resigned his position as assistant majority leader but refused calls to resign from the legislature.",
+    "position": ["state legislator"],
+    "crime": ["racial harassment", "sexual harassment"],
+    "tags": ["state legislator", "republican", "racist"]
+  },
+  {
+    "id": 320,
+    "name": "Michael Moates",
+    "year": 2018,
+    "description": "Michael Moates, a conservative writer with 200,000+ followers and White House press room access, was accused by multiple women of sending sexually inappropriate messages to teenagers, including underage girls. Victims aged 16-17 reported he flirted, made sexual comments, and focused on their relationship status. Conservative media outlets suppressed the allegations.",
+    "position": ["conservative writer", "media personality"],
+    "crime": ["sexual harassment of minors", "child grooming"],
+    "tags": ["conservative media", "predator", "qanon"]
+  },
+  {
+    "id": 328,
+    "name": "James Rosen",
+    "year": 2017,
+    "description": "James Rosen, Fox News chief Washington D.C. correspondent for 18 years, left Fox News at the end of 2017 after multiple sexual harassment accusations from female colleagues. In at least three instances, he made overt physical and sexual overtures to colleagues. He later joined Sinclair Broadcast Group and then Newsmax.",
+    "position": ["journalist", "news correspondent"],
+    "crime": ["sexual harassment", "sexual assault"],
+    "tags": ["fox news", "journalist", "sexual harasser"]
   }
 ]
