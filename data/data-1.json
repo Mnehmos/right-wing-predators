@@ -1566,7 +1566,8 @@
     "id": 76,
     "name": "Larry Corrigan",
     "position": [
-      "party member"
+      "party member",
+      "government official"
     ],
     "crime": [
       "child exploitation",
@@ -1578,6 +1579,7 @@
     ],
     "tags": [
       "party member",
+      "government official",
       "republican"
     ],
     "year": 2007
@@ -1586,7 +1588,7 @@
     "id": 77,
     "name": "Scott Eller Cortelyou",
     "position": [
-      "party member"
+      "media personality"
     ],
     "crime": [
       "child exploitation"
@@ -1596,7 +1598,7 @@
       "https://www.9news.com/article/news/local/former-radio-host-must-register-as-a-sex-offender/73-343881126"
     ],
     "tags": [
-      "party member",
+      "media personality",
       "republican"
     ],
     "year": 2007
@@ -1622,7 +1624,7 @@
     "id": 79,
     "name": "Brian Doyle",
     "position": [
-      "party member"
+      "government official"
     ],
     "crime": [
       "child exploitation",
@@ -1633,8 +1635,8 @@
       "https://www.cbsnews.com/news/homeland-cyber-sex-case-causes-concern/"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "federal employee"
     ],
     "year": 2006
   },
@@ -1724,275 +1726,345 @@
   {
     "id": 84,
     "name": "George Roche III",
-    "position": [],
-    "crime": [],
-    "description": "George Roche III resigned as president of conservative Hillsdale College in Michigan after accusations of a quasi- incestuous relationship with his daughter-in-law, Lissa.",
+    "position": [
+      "college president"
+    ],
+    "crime": [
+      "sexual misconduct",
+      "alleged affair with family member"
+    ],
+    "description": "George Roche III was president of conservative Hillsdale College in Michigan from 1971 to 1999. In October 1999, Roche resigned after allegations surfaced of a 19-year sexual affair with his daughter-in-law, Lissa Jackson Roche. The scandal erupted when Lissa publicly disclosed the alleged affair. Hours after making the disclosure, Lissa was found dead from a self-inflicted gunshot wound in the college arboretum. Her death was ruled a suicide, though no suicide note was found. Roche's version claims he never confirmed the affair occurred.",
     "sources": [
       "https://www.salon.com/2000/01/19/hillsdale/"
     ],
-    "tags": [],
-    "year": 2000
+    "tags": [
+      "college president",
+      "conservative"
+    ],
+    "year": 1999
   },
   {
     "id": 85,
-    "name": "B",
+    "name": "Bishop Daniel Paprocki",
     "position": [
-      "religious leader"
+      "religious leader",
+      "church official"
     ],
-    "crime": [],
-    "description": "Bishop Paprocki is not a sexual predator, but he protects them. He protects and enabled pedophile priests. He engages in partisanship to order Democratic politicians be denied communion by all priests in his diocese, including Dick Durbin",
+    "crime": [
+      "child abuse enablement",
+      "obstruction of justice"
+    ],
+    "description": "Bishop Daniel Paprocki of the Diocese of Springfield, Illinois has been accused of protecting pedophile priests and enabling abuse within the Catholic Church. Under Paprocki's leadership, the Springfield Diocese was the last in Illinois to disclose a list of clergy with substantiated child sexual abuse allegations (posted in November 2018). Even when disclosed, the list lacked transparency regarding parish assignments. Illinois Attorney General Kwame Raoul has investigated whether the church properly handled sexual abuse cases. Paprocki has also engaged in partisan political action, ordering priests to deny Democratic politicians communion.",
     "sources": [
       "https://www.bishop-accountability.org/news2015/03_04/2015_03_04_John_Community_Predator_priests.htm"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "church official"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 86,
-    "name": "high level Bush appointee Dr. W. David Hager",
+    "name": "Dr. W. David Hager",
     "position": [
-      "party member"
+      "government official",
+      "medical professional"
     ],
-    "crime": [],
-    "description": "Republican high level Bush appointee Dr. W. David Hager sodomized his wife while she slept. She divorced him for it.",
+    "crime": [
+      "sexual assault",
+      "marital rape",
+      "sodomy"
+    ],
+    "description": "Dr. W. David Hager is a prominent obstetrician-gynecologist from Kentucky and anti-abortion advocate appointed by the Bush administration to the Reproductive Health Drugs Advisory Committee of the FDA in 2002. According to his ex-wife Linda Carruth Davis, Hager repeatedly sodomized her while she slept between 1995 and their divorce in 2002. Linda Davis was narcoleptic, and Hager would forcibly assault her during her sleep. She divorced him citing sexual and emotional abuse. In 2003, Hager remarried physician Kathleen Martin, but she filed for divorce from him in 2007, also citing sexual misconduct.",
     "sources": [
       "https://www.thenation.com/article/archive/dr-hagers-family-values/"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "medical professional",
+      "bush administration"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 87,
     "name": "Don Haidl",
     "position": [
-      "law enforcement",
-      "party member"
+      "law enforcement"
     ],
     "crime": [
-      "rape"
+      "aiding and abetting sexual assault",
+      "obstruction of justice",
+      "abuse of power"
     ],
-    "description": "Republican sheriff Don Haidl used his office to smear the victim who was gang raped. The main perpetrator was Haidl’s son, who poisoned the victim. Sheriff Haidl claims that the girl deserved it because she was a \"slut.\"",
+    "description": "Don Haidl was an assistant sheriff in Orange County, California. His son, Gregory Haidl (age 19 at the time), was one of three men charged in the July 2002 sexual assault of a 16-year-old girl. The victim was drugged and assaulted while unconscious on a pool table; she was penetrated with a lighted cigarette and pool cue, and the assault was videotaped. The first trial ended in a mistrial in June 2004 due to jury deadlock. In the retrial, Gregory Haidl and two co-defendants were convicted in March 2005. Gregory received a six-year prison sentence in 2006. Don Haidl used his position as sheriff to smear the victim and defend his son's actions, claiming the victim 'deserved it' because she was a 'slut.'",
     "sources": [
       "https://patch.com/california/newportbeach/victim-of-notorious-haidl-gang-rape-breaks-silence"
     ],
     "tags": [
       "law enforcement",
-      "party member",
-      "republican"
+      "california"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 88,
-    "name": "activ",
+    "name": "Neal Horsley",
     "position": [
-      "activist",
-      "party member"
+      "activist"
     ],
-    "crime": [],
-    "description": "Republican activist Neal Horsley admits to having had sex with a mule. Horsley also wants all homosexuals arrested and solicited murders of abortion providers on his Nuremberg files site.",
+    "crime": [
+      "bestiality",
+      "drug trafficking",
+      "harassment",
+      "incitement to violence"
+    ],
+    "description": "Neal Horsley (1944-2015) was a militant anti-abortion activist and Christian Reconstructionist. In 2005, Horsley admitted during an interview that he engaged in bestiality as an adolescent, stating 'When you grow up on a farm in Georgia, your first girlfriend is a mule.' He also boasted about having sex with men and abusing drugs. Horsley served a 30-month federal prison sentence in 1973 for possession of three gallons of hashish oil. He created and maintained the 'Nuremberg Files' website, which listed the names, addresses, and other details of abortion providers, health care workers, politicians, and judges who supported abortion rights. He also included a list of providers who had been wounded or killed, effectively creating a target list for violence.",
     "sources": [
       "https://www.esquire.com/news-politics/a1696/esq0299-feb-vollcorbett/"
     ],
     "tags": [
       "activist",
-      "party member",
-      "republican"
+      "anti-abortion extremist",
+      "extremist"
     ],
-    "year": null
+    "year": 1973
   },
   {
     "id": 89,
-    "name": "Conservative cardinal Bernard Law of Boston covered up",
-    "position": [],
-    "crime": [
-      "child molestation"
+    "name": "Cardinal Bernard Francis Law",
+    "position": [
+      "church official"
     ],
-    "description": "Conservative cardinal Bernard Law of Boston covered up thousands of instances of sexual molestation by fellow conservative members of the clergy.",
+    "crime": [
+      "child abuse enablement",
+      "obstruction of justice",
+      "conspiracy to cover up sexual abuse"
+    ],
+    "description": "Cardinal Bernard Francis Law was the Archbishop of Boston from March 1984 until his resignation on December 13, 2002. He is one of the most prominent figures in the Catholic clergy sex abuse crisis. Documents revealed Law's extensive role in covering up incidents of sexual misconduct by priests under his authority. Law repeatedly transferred abusive clergy among parishes despite repeated allegations of child molestation, without alerting parents or police. Notable cases include priest John Geoghan who raped or molested over 130 children in six parishes. In January 2002, The Boston Globe published investigation results revealing Law's systematic cover-up. The archdiocese eventually paid $10 million to Geoghan's victims in 2002 and an additional $85 million to 552 victims and parents in 2003.",
     "sources": [
       "https://t.co/QmVRTkK45w"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "church official",
+      "religious leader"
+    ],
+    "year": 2002
   },
   {
     "id": 90,
-    "name": "Joseph McDade",
+    "name": "Joseph M. McDade",
     "position": [
-      "congress",
-      "party member"
+      "congress"
     ],
-    "crime": [],
-    "description": "Republican congressman Joseph McDade charged with exposing his genitalia to two women on a public beach",
+    "crime": [
+      "indecent exposure",
+      "public lewdness"
+    ],
+    "description": "Joseph M. McDade was an 18-term Republican U.S. Representative from Pennsylvania's 10th congressional district, serving from 1963 to 1998. He was acquitted in 1996 on federal bribery charges. In January 2007, after his retirement from Congress, McDade was accused by at least three women of indecent exposure at a beach resort in Sanibel, Florida. According to the allegations, McDade masturbated in front of female guests on the beach and by the pool. One witness stated she saw McDade masturbating 10-15 feet away from her, another claimed he followed his wife while masturbating, and a third reported he watched her leave her beach chair and followed her while masturbating. McDade was charged with first degree misdemeanor indecent exposure.",
     "sources": [
       "https://t.co/DcVOhWWe0P"
     ],
     "tags": [
       "congress",
-      "party member",
-      "republican"
+      "republican",
+      "florida"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 91,
-    "name": "delegate Robert McKee resigns after police seize",
+    "name": "Robert A. McKee",
     "position": [
-      "law enforcement",
-      "party member"
+      "state legislator"
     ],
-    "crime": [],
-    "description": "Republican delegate Robert McKee resigns after police seize two computers and videotapes from his home pertaining to",
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Robert A. McKee was a member of the Maryland House of Delegates representing District 2A in Washington County since 1994. On January 31, 2008, Washington County Sheriff deputies searched McKee's home and seized several computers, videotapes, and other materials after receiving a tip about child pornography in the residence. A resident of the home had discovered and reported the child pornography to authorities, providing printed images to sheriff deputies. McKee resigned from office in February 2008. He pleaded guilty to possession of child pornography on September 5, 2008, and was sentenced to 37 months in federal prison followed by lifetime supervised probation. According to his plea agreement, McKee had obtained child pornography via the Internet and mail order as early as 2004.",
     "sources": [
       "https://t.co/Ku0HKFrKMB"
     ],
     "tags": [
-      "law enforcement",
-      "party member",
+      "state legislator",
+      "maryland",
       "republican"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 92,
-    "name": "blowhard TV personality Bill O’Reilly paid several",
+    "name": "William Henry O'Reilly",
     "position": [
-      "party member"
+      "media personality",
+      "commentator"
     ],
     "crime": [
-      "sexual harassment"
+      "sexual harassment",
+      "quid pro quo harassment"
     ],
-    "description": "Republican blowhard TV personality Bill O’Reilly paid several million dollars to settle a sexual harassment suit with Andrea",
+    "description": "William Henry O'Reilly is a prominent conservative television host and political commentator for Fox News. In October 2004, television producer Andrea Mackris filed a sexual harassment lawsuit against O'Reilly, alleging he made sexually provocative phone calls and discussed personal sexual matters despite her discomfort. On the same day, O'Reilly filed a counter-suit accusing Mackris and her attorney of extortion. On October 28, 2004, the case was settled out of court for $9 million. The settlement included highly unusual provisions requiring all parties to disclaim any evidence as 'counterfeit or forgeries' should it become public. Mackris was required to 'lie—even in legal proceedings or under oath' if evidence surfaced. O'Reilly was later fired by Fox News in 2017 after multiple sexual harassment allegations were reported by The New York Times, leading to a major advertiser boycott.",
     "sources": [
       "https://t.co/aQQufQRZil"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "media personality",
+      "fox news",
+      "conservative"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 93,
-    "name": "mega-preacher Marshal Seymour",
+    "name": "Marshal A. Seymour",
     "position": [
-      "party member"
+      "religious leader",
+      "youth minister"
     ],
-    "crime": [],
-    "description": "Republican mega-preacher Marshal Seymour arrested on charges of having sex with underage boys. Seymour had been jailed almost a decade earlier for similar charges in a",
+    "crime": [
+      "sexual abuse",
+      "child molestation",
+      "solicitation of minors"
+    ],
+    "description": "Marshal Seymour is a religious leader and former youth minister who faces charges of sexual abuse of minors. He was first arrested in July 1999 in Mobile, Alabama while working as a youth minister at Parkway Assembly of God, charged with second-degree sodomy and second-degree sexual abuse of a 16-year-old boy. The sodomy charge was dropped, and Seymour pleaded guilty to misdemeanor assault. His one-year jail sentence was suspended and he received one year probation. Nearly a decade later, in November 2007, Seymour was arrested again on charges of molesting three teenage boys (ages 15-17) he met through First Baptist Church at the Mall in Lakeland, Florida. He allegedly met victims through church and paid them money in exchange for sexual favors or silence. He faced charges of unlawful sexual activity with minors and using children in sexual performance. After jury selection began, he pleaded guilty and no contest to five felony charges, potentially facing up to 65 years in prison.",
     "sources": [
       "https://t.co/vdOH25uNFX"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "religious leader",
+      "baptist"
     ],
-    "year": null
+    "year": 1999
   },
   {
     "id": 94,
-    "name": "White supremac",
+    "name": "Kevin Alfred Strom",
     "position": [
-      "party official"
+      "activist",
+      "extremist leader"
     ],
     "crime": [
       "child pornography"
     ],
-    "description": "White supremacist National Vanguard leader Kevin Alfred Strom arrested and charged with child pornography",
+    "description": "Kevin Alfred Strom is an American white nationalist, neo-Nazi, and white supremacist from Virginia who founded the National Vanguard in 2005, a breakaway group from the neo-Nazi National Alliance. On January 4, 2007, Strom was arrested in Greene County, Virginia on charges of possession of child pornography and witness tampering. According to reports, his wife caught him viewing child pornography on his home computer. At his plea hearing in January 2008, Strom pleaded guilty to one count of possession of child pornography in exchange for other charges being dropped. He was sentenced to 23 months in prison in April 2008. Following his arrest and conviction, the National Vanguard was disbanded. Strom had a documented long-time fascination with young girls and exploited his position within the extremist movement.",
     "sources": [
       "https://t.co/GS5vzrMHXG"
     ],
     "tags": [
-      "party official"
+      "white supremacist",
+      "neo-nazi",
+      "extremist"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 95,
-    "name": "Daniel Dean Thompson founded a familly values film",
-    "position": [],
-    "crime": [
-      "child pornography"
+    "name": "Daniel Dean Thompson",
+    "position": [
+      "business owner"
     ],
-    "description": "Daniel Dean Thompson founded a familly values film company that removed all the \"bad parts\" from films to make them family-friendly - front for child porn, arrested for having sex with 14-year-old",
+    "crime": [
+      "child sexual exploitation",
+      "prostitution of minors",
+      "statutory rape"
+    ],
+    "description": "Daniel Dean Thompson, age 31, was arrested in 2008 on charges of unlawful sexual activity with minors and patronizing a minor prostitute. Thompson allegedly operated a film editing business that he claimed sanitized movies to remove objectionable content for family viewing, but the business served as a front for child sexual exploitation. According to police reports, Thompson and co-owner Isaac Lifferth allegedly paid two 14-year-old girls $20 each to perform oral sex. Police found a large quantity of pornographic movies inside the business along with a keg of beer, painkillers, and two cameras hooked up to a television. Thompson told the teen victims his film business was a cover for a pornography studio. He was charged with two counts of unlawful sexual activity with a minor and two counts of patronizing a prostitute. Note: Clean Flicks company later sued Thompson, claiming he falsely connected himself to their company and was never affiliated with it.",
     "sources": [
       "https://consumerist.com/2008/01/31/family-friendly-movie-censors-were-running-porn-business/"
     ],
-    "tags": [],
+    "tags": [
+      "business owner",
+      "child exploitation"
+    ],
     "year": 2008
   },
   {
     "id": 96,
-    "name": "Wharton prof & conservative consultant on media effects on",
-    "position": [],
-    "crime": [],
-    "description": "Wharton prof & conservative consultant on media effects on children Lawrence Scott Ward - video of himself having sex",
+    "name": "Lawrence Scott Ward",
+    "position": [
+      "academic",
+      "professor"
+    ],
+    "crime": [
+      "child pornography production",
+      "child sexual abuse",
+      "importing child pornography"
+    ],
+    "description": "Lawrence Scott Ward was a 63-year-old professor at the Wharton School of Business at the University of Pennsylvania, known for expertise on media effects on children. In August 2006, authorities discovered child pornography in his luggage and laptop computer when he arrived at Dulles International Airport near Washington, D.C., on a flight from Brazil. A search of his office at Wharton's Huntsman Hall uncovered over 80 images of Ward and a young boy (no older than 15) in intimate situations, with the boy featured in a series of pornographic DVDs found in Ward's mail. Ward pleaded guilty on May 17, 2007 to producing child pornography for importation into the United States, receiving 15 years in prison and a $17,500 fine. On November 17, 2008, he pleaded guilty to all four Pennsylvania child pornography and sexual misconduct charges and received an additional 25-year sentence.",
     "sources": [
       "https://t.co/UBbrEeWISl"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "professor",
+      "academic",
+      "pennsylvania"
+    ],
+    "year": 2006
   },
   {
     "id": 97,
-    "name": "Spokane Republican Jim West",
+    "name": "James E. West",
     "position": [
-      "local official",
-      "party member"
+      "mayor",
+      "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "child sexual abuse"
     ],
-    "description": "Spokane Republican homophobic mayor Jim West recalled after evidence surfaced that he molested little boys",
+    "description": "James E. West (Jim West) was a Republican politician from Spokane, Washington who served in the state legislature starting in 1982 and became mayor of Spokane in 2003. In May 2005, a local newspaper investigation published allegations that West had sexually molested young boys more than 20 years earlier, in the late 1970s or early 1980s. West was accused of abusing at least two young men during his time as a sheriff's deputy and while volunteering with the Boy Scouts as a troop leader. Although never formally charged, voters overwhelmingly recalled West from office in a special election on December 6, 2005, with 65% voting to oust him. His term ended on December 16, 2005. The FBI investigated the allegations but closed the case without taking action due to lack of sufficient evidence.",
     "sources": [
       "https://t.co/01rIrLsCdj"
     ],
     "tags": [
-      "local official",
-      "party member",
+      "politician",
+      "washington",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 98,
-    "name": "Focus on the Family's Steve Wilsey -",
-    "position": [],
+    "name": "Steve Wilsey",
+    "position": [
+      "religious counselor",
+      "activist"
+    ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Focus on the Family's Steve Wilsey - molesting an 8 year old boy",
+    "description": "Steve Wilsey was a youth counselor and activist affiliated with Focus on the Family, an evangelical Christian organization, and was reportedly a protégé of James Dobson, the founder of Focus on the Family. Wilsey was charged with and convicted of sexual assault after molesting an 8-year-old boy. His case represented a significant scandal for Focus on the Family and exposed the organization's vulnerability regarding child safety within its youth counseling programs.",
     "sources": [
       "https://capitolhillblue.com/node/982NewspaperAugust"
     ],
-    "tags": [],
+    "tags": [
+      "religious organization",
+      "child abuse"
+    ],
     "year": null
   },
   {
     "id": 99,
-    "name": "Southern Bapt",
+    "name": "Paul Williams",
     "position": [
-      "party member",
-      "religious leader"
+      "religious leader",
+      "church official"
     ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Republican Southern Baptist megachurch pastor Paul Williams faces charges of molesting his son",
+    "description": "Paul Williams was a minister of prayer and special projects at Bellevue Baptist Church, a major Southern Baptist megachurch. In 2006, an internal church investigation revealed that Williams had sexually abused his son over a period of 12-18 months, beginning in 1990 when his son was an adolescent. Williams admitted to and was convicted of the sexual abuse. According to the investigation, church leaders including the current pastor, Reverend Steve Gaines, learned about the abuse but did not immediately report it to authorities. The abuse only came to light in December 2005 after Williams' son prodded Pastor Gaines to explain why his father was still allowed to serve as a minister. Williams was subsequently fired from his position at the church.",
     "sources": [
       "https://t.co/1E5yrAUNp2",
       "https://baptistnews.com/article/bellevue-report-assistant-pastor-guilty-of-sex-abuse-against-son/"
     ],
     "tags": [
-      "party member",
       "religious leader",
-      "republican"
+      "baptist",
+      "child abuse"
     ],
-    "year": null
+    "year": 1990
   }
 ]

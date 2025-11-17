@@ -1566,9 +1566,15 @@
     "id": 76,
     "name": "Larry Corrigan",
     "position": [
-      "party member"
+      "party member",
+      "government official"
     ],
     "crime": [
+      "attempted child molestation",
+      "child exploitation",
+      "embezzlement"
+    ],
+    "description": "GOP activist and director of financial operations at the King County Prosecutor's office for over 25 years, Larry Corrigan was arrested in 2006 in an Internet sting for attempting to arrange sex with a 13-year-old girl. He pleaded guilty in 2007 to one count of second-degree attempted child molestation and one count of communicating with a minor for immoral purposes. He was sentenced to 23 months in prison, received three to four years of probation, must register as a sex offender, and must complete sexual deviancy evaluation and treatment. Corrigan also was accused of embezzling over $70,000 from campaign funds between May 2004 and early 2005.",
       "child exploitation",
       "sexual abuse"
     ],
@@ -1578,17 +1584,23 @@
     ],
     "tags": [
       "party member",
+      "government official",
       "republican"
     ],
+    "year": 2006
     "year": 2007
   },
   {
     "id": 77,
     "name": "Scott Eller Cortelyou",
     "position": [
-      "party member"
+      "media personality"
     ],
     "crime": [
+      "Internet luring",
+      "child exploitation"
+    ],
+    "description": "Republican radio host Scott Eller Cortelyou was the host of 'Business for Breakfast' on KRCN 1060-AM in Colorado. He was arrested for having sexually graphic online conversations with someone he thought was a 12-year-old girl in August 2006. Cortelyou pleaded guilty in 2007 to Internet luring and attempted Internet sexual exploitation of a child (both class 5 felonies). He was sentenced to 18 months of intensive supervised probation and must register as a sex offender.",
       "child exploitation"
     ],
     "description": "Radio host Scott Eller Cortelyou was arrested in January 2007 for using the Internet to lure a child. He engaged in sexually explicit chats with an undercover officer posing as a 12-year-old girl. He pleaded guilty in April 2007 to Internet luring and attempted Internet sexual exploitation of a child. He was sentenced to 18 months intensive probation and required to register as a sex offender. He hosted 'Business for Breakfast' on KRCN 1060-AM.",
@@ -1596,9 +1608,10 @@
       "https://www.9news.com/article/news/local/former-radio-host-must-register-as-a-sex-offender/73-343881126"
     ],
     "tags": [
-      "party member",
+      "media personality",
       "republican"
     ],
+    "year": 2006
     "year": 2007
   },
   {
@@ -1620,12 +1633,16 @@
   },
   {
     "id": 79,
+    "name": "Brian J. Doyle",
     "name": "Brian Doyle",
     "position": [
-      "party member"
+      "government official"
     ],
     "crime": [
       "child exploitation",
+      "sexual solicitation"
+    ],
+    "description": "Brian J. Doyle, 55, was the deputy press secretary for the U.S. Department of Homeland Security. He was arrested on April 4, 2006, at his home in Silver Spring, Maryland, after being caught in an undercover sting attempting to initiate sexually explicit conversation with a 14-year-old girl (actually a sheriff's deputy working undercover). He was indicted on 23 felony counts including seven counts of using a computer to seduce a child and sixteen counts of transmitting harmful materials to a child. He pleaded no contest to the charges.",
       "sexual abuse"
     ],
     "description": "Department of Homeland Security Deputy Press Secretary Brian Doyle was arrested on April 4, 2006, for seducing what he thought was a 14-year-old girl (actually an undercover sheriff's deputy). He revealed his DHS employment and phone numbers during online sexual conversations. He was charged with 23 felony counts and sentenced on November 17, 2006, to 5 years in prison with 10 years probation. Released January 15, 2011.",
@@ -1633,8 +1650,8 @@
       "https://www.cbsnews.com/news/homeland-cyber-sex-case-causes-concern/"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "federal employee"
     ],
     "year": 2006
   },
@@ -1642,6 +1659,13 @@
     "id": 80,
     "name": "Matthew Joseph Elliott",
     "position": [
+      "party official"
+    ],
+    "crime": [
+      "child sexual exploitation",
+      "child abuse"
+    ],
+    "description": "Matthew Joseph Elliott was a consultant for Mitt Romney's Commonwealth political action committee in early 2006, joining the PAC in early 2006 but leaving after only a few weeks. Elliott is a registered sex offender who was convicted in Iowa in October 2006 of exploiting a minor. He was also arrested in connection with the death of a 7-month-old baby girl in Iowa, with autopsy ruling the death a homicide. Elliott was questioned in the baby's death but was not charged at the time of reporting.",
       "party official",
       "candidate"
     ],
@@ -1667,6 +1691,11 @@
       "party official"
     ],
     "crime": [
+      "child enticement",
+      "indecent exposure",
+      "contributing to delinquency of minor"
+    ],
+    "description": "Donald Fleischman was chairman and treasurer of the Brown County (Wisconsin) Republican Party. He was charged in 2007-2008 with child enticement, contributing to the delinquency of a child, and exposing his genitals. The charges related to an incident with a 16-year-old boy from a juvenile facility. Police found the boy hiding in Fleischman's closet in underwear and a T-shirt, and the boy claimed Fleischman gave him beer and marijuana. Fleischman resigned from his post as county GOP chair. State Republicans subsequently disbanded the Green Bay area's Republican Party, citing inability to muster enough officers to pick a new leader.",
       "child exploitation",
       "sexual abuse"
     ],
@@ -1724,394 +1753,478 @@
   {
     "id": 84,
     "name": "George Roche III",
-    "position": [],
-    "crime": [],
-    "description": "George Roche III resigned as president of conservative Hillsdale College in Michigan after accusations of a quasi- incestuous relationship with his daughter-in-law, Lissa.",
+    "position": [
+      "college president"
+    ],
+    "crime": [
+      "sexual misconduct",
+      "alleged affair with family member"
+    ],
+    "description": "George Roche III was president of conservative Hillsdale College in Michigan from 1971 to 1999. In October 1999, Roche resigned after allegations surfaced of a 19-year sexual affair with his daughter-in-law, Lissa Jackson Roche. The scandal erupted when Lissa publicly disclosed the alleged affair. Hours after making the disclosure, Lissa was found dead from a self-inflicted gunshot wound in the college arboretum. Her death was ruled a suicide, though no suicide note was found. Roche's version claims he never confirmed the affair occurred.",
     "sources": [
       "https://www.salon.com/2000/01/19/hillsdale/"
     ],
-    "tags": [],
-    "year": 2000
+    "tags": [
+      "college president",
+      "conservative"
+    ],
+    "year": 1999
   },
   {
     "id": 85,
-    "name": "B",
+    "name": "Bishop Daniel Paprocki",
     "position": [
-      "religious leader"
+      "religious leader",
+      "church official"
     ],
-    "crime": [],
-    "description": "Bishop Paprocki is not a sexual predator, but he protects them. He protects and enabled pedophile priests. He engages in partisanship to order Democratic politicians be denied communion by all priests in his diocese, including Dick Durbin",
+    "crime": [
+      "child abuse enablement",
+      "obstruction of justice"
+    ],
+    "description": "Bishop Daniel Paprocki of the Diocese of Springfield, Illinois has been accused of protecting pedophile priests and enabling abuse within the Catholic Church. Under Paprocki's leadership, the Springfield Diocese was the last in Illinois to disclose a list of clergy with substantiated child sexual abuse allegations (posted in November 2018). Even when disclosed, the list lacked transparency regarding parish assignments. Illinois Attorney General Kwame Raoul has investigated whether the church properly handled sexual abuse cases. Paprocki has also engaged in partisan political action, ordering priests to deny Democratic politicians communion.",
     "sources": [
       "https://www.bishop-accountability.org/news2015/03_04/2015_03_04_John_Community_Predator_priests.htm"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "church official"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 86,
-    "name": "high level Bush appointee Dr. W. David Hager",
+    "name": "Dr. W. David Hager",
     "position": [
-      "party member"
+      "government official",
+      "medical professional"
     ],
-    "crime": [],
-    "description": "Republican high level Bush appointee Dr. W. David Hager sodomized his wife while she slept. She divorced him for it.",
+    "crime": [
+      "sexual assault",
+      "marital rape",
+      "sodomy"
+    ],
+    "description": "Dr. W. David Hager is a prominent obstetrician-gynecologist from Kentucky and anti-abortion advocate appointed by the Bush administration to the Reproductive Health Drugs Advisory Committee of the FDA in 2002. According to his ex-wife Linda Carruth Davis, Hager repeatedly sodomized her while she slept between 1995 and their divorce in 2002. Linda Davis was narcoleptic, and Hager would forcibly assault her during her sleep. She divorced him citing sexual and emotional abuse. In 2003, Hager remarried physician Kathleen Martin, but she filed for divorce from him in 2007, also citing sexual misconduct.",
     "sources": [
       "https://www.thenation.com/article/archive/dr-hagers-family-values/"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "medical professional",
+      "bush administration"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 87,
     "name": "Don Haidl",
     "position": [
-      "law enforcement",
-      "party member"
+      "law enforcement"
     ],
     "crime": [
-      "rape"
+      "aiding and abetting sexual assault",
+      "obstruction of justice",
+      "abuse of power"
     ],
-    "description": "Republican sheriff Don Haidl used his office to smear the victim who was gang raped. The main perpetrator was Haidl’s son, who poisoned the victim. Sheriff Haidl claims that the girl deserved it because she was a \"slut.\"",
+    "description": "Don Haidl was an assistant sheriff in Orange County, California. His son, Gregory Haidl (age 19 at the time), was one of three men charged in the July 2002 sexual assault of a 16-year-old girl. The victim was drugged and assaulted while unconscious on a pool table; she was penetrated with a lighted cigarette and pool cue, and the assault was videotaped. The first trial ended in a mistrial in June 2004 due to jury deadlock. In the retrial, Gregory Haidl and two co-defendants were convicted in March 2005. Gregory received a six-year prison sentence in 2006. Don Haidl used his position as sheriff to smear the victim and defend his son's actions, claiming the victim 'deserved it' because she was a 'slut.'",
     "sources": [
       "https://patch.com/california/newportbeach/victim-of-notorious-haidl-gang-rape-breaks-silence"
     ],
     "tags": [
       "law enforcement",
-      "party member",
-      "republican"
+      "california"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 88,
-    "name": "activ",
+    "name": "Neal Horsley",
     "position": [
-      "activist",
-      "party member"
+      "activist"
     ],
-    "crime": [],
-    "description": "Republican activist Neal Horsley admits to having had sex with a mule. Horsley also wants all homosexuals arrested and solicited murders of abortion providers on his Nuremberg files site.",
+    "crime": [
+      "bestiality",
+      "drug trafficking",
+      "harassment",
+      "incitement to violence"
+    ],
+    "description": "Neal Horsley (1944-2015) was a militant anti-abortion activist and Christian Reconstructionist. In 2005, Horsley admitted during an interview that he engaged in bestiality as an adolescent, stating 'When you grow up on a farm in Georgia, your first girlfriend is a mule.' He also boasted about having sex with men and abusing drugs. Horsley served a 30-month federal prison sentence in 1973 for possession of three gallons of hashish oil. He created and maintained the 'Nuremberg Files' website, which listed the names, addresses, and other details of abortion providers, health care workers, politicians, and judges who supported abortion rights. He also included a list of providers who had been wounded or killed, effectively creating a target list for violence.",
     "sources": [
       "https://www.esquire.com/news-politics/a1696/esq0299-feb-vollcorbett/"
     ],
     "tags": [
       "activist",
-      "party member",
-      "republican"
+      "anti-abortion extremist",
+      "extremist"
     ],
-    "year": null
+    "year": 1973
   },
   {
     "id": 89,
-    "name": "Conservative cardinal Bernard Law of Boston covered up",
-    "position": [],
-    "crime": [
-      "child molestation"
+    "name": "Cardinal Bernard Francis Law",
+    "position": [
+      "church official"
     ],
-    "description": "Conservative cardinal Bernard Law of Boston covered up thousands of instances of sexual molestation by fellow conservative members of the clergy.",
+    "crime": [
+      "child abuse enablement",
+      "obstruction of justice",
+      "conspiracy to cover up sexual abuse"
+    ],
+    "description": "Cardinal Bernard Francis Law was the Archbishop of Boston from March 1984 until his resignation on December 13, 2002. He is one of the most prominent figures in the Catholic clergy sex abuse crisis. Documents revealed Law's extensive role in covering up incidents of sexual misconduct by priests under his authority. Law repeatedly transferred abusive clergy among parishes despite repeated allegations of child molestation, without alerting parents or police. Notable cases include priest John Geoghan who raped or molested over 130 children in six parishes. In January 2002, The Boston Globe published investigation results revealing Law's systematic cover-up. The archdiocese eventually paid $10 million to Geoghan's victims in 2002 and an additional $85 million to 552 victims and parents in 2003.",
     "sources": [
       "https://t.co/QmVRTkK45w"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "church official",
+      "religious leader"
+    ],
+    "year": 2002
   },
   {
     "id": 90,
-    "name": "Joseph McDade",
+    "name": "Joseph M. McDade",
     "position": [
-      "congress",
-      "party member"
+      "congress"
     ],
-    "crime": [],
-    "description": "Republican congressman Joseph McDade charged with exposing his genitalia to two women on a public beach",
+    "crime": [
+      "indecent exposure",
+      "public lewdness"
+    ],
+    "description": "Joseph M. McDade was an 18-term Republican U.S. Representative from Pennsylvania's 10th congressional district, serving from 1963 to 1998. He was acquitted in 1996 on federal bribery charges. In January 2007, after his retirement from Congress, McDade was accused by at least three women of indecent exposure at a beach resort in Sanibel, Florida. According to the allegations, McDade masturbated in front of female guests on the beach and by the pool. One witness stated she saw McDade masturbating 10-15 feet away from her, another claimed he followed his wife while masturbating, and a third reported he watched her leave her beach chair and followed her while masturbating. McDade was charged with first degree misdemeanor indecent exposure.",
     "sources": [
       "https://t.co/DcVOhWWe0P"
     ],
     "tags": [
       "congress",
-      "party member",
-      "republican"
+      "republican",
+      "florida"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 91,
-    "name": "delegate Robert McKee resigns after police seize",
+    "name": "Robert A. McKee",
     "position": [
-      "law enforcement",
-      "party member"
+      "state legislator"
     ],
-    "crime": [],
-    "description": "Republican delegate Robert McKee resigns after police seize two computers and videotapes from his home pertaining to",
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Robert A. McKee was a member of the Maryland House of Delegates representing District 2A in Washington County since 1994. On January 31, 2008, Washington County Sheriff deputies searched McKee's home and seized several computers, videotapes, and other materials after receiving a tip about child pornography in the residence. A resident of the home had discovered and reported the child pornography to authorities, providing printed images to sheriff deputies. McKee resigned from office in February 2008. He pleaded guilty to possession of child pornography on September 5, 2008, and was sentenced to 37 months in federal prison followed by lifetime supervised probation. According to his plea agreement, McKee had obtained child pornography via the Internet and mail order as early as 2004.",
     "sources": [
       "https://t.co/Ku0HKFrKMB"
     ],
     "tags": [
-      "law enforcement",
-      "party member",
+      "state legislator",
+      "maryland",
       "republican"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 92,
-    "name": "blowhard TV personality Bill O’Reilly paid several",
+    "name": "William Henry O'Reilly",
     "position": [
-      "party member"
+      "media personality",
+      "commentator"
     ],
     "crime": [
-      "sexual harassment"
+      "sexual harassment",
+      "quid pro quo harassment"
     ],
-    "description": "Republican blowhard TV personality Bill O’Reilly paid several million dollars to settle a sexual harassment suit with Andrea",
+    "description": "William Henry O'Reilly is a prominent conservative television host and political commentator for Fox News. In October 2004, television producer Andrea Mackris filed a sexual harassment lawsuit against O'Reilly, alleging he made sexually provocative phone calls and discussed personal sexual matters despite her discomfort. On the same day, O'Reilly filed a counter-suit accusing Mackris and her attorney of extortion. On October 28, 2004, the case was settled out of court for $9 million. The settlement included highly unusual provisions requiring all parties to disclaim any evidence as 'counterfeit or forgeries' should it become public. Mackris was required to 'lie—even in legal proceedings or under oath' if evidence surfaced. O'Reilly was later fired by Fox News in 2017 after multiple sexual harassment allegations were reported by The New York Times, leading to a major advertiser boycott.",
     "sources": [
       "https://t.co/aQQufQRZil"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "media personality",
+      "fox news",
+      "conservative"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 93,
-    "name": "mega-preacher Marshal Seymour",
+    "name": "Marshal A. Seymour",
     "position": [
-      "party member"
+      "religious leader",
+      "youth minister"
     ],
-    "crime": [],
-    "description": "Republican mega-preacher Marshal Seymour arrested on charges of having sex with underage boys. Seymour had been jailed almost a decade earlier for similar charges in a",
+    "crime": [
+      "sexual abuse",
+      "child molestation",
+      "solicitation of minors"
+    ],
+    "description": "Marshal Seymour is a religious leader and former youth minister who faces charges of sexual abuse of minors. He was first arrested in July 1999 in Mobile, Alabama while working as a youth minister at Parkway Assembly of God, charged with second-degree sodomy and second-degree sexual abuse of a 16-year-old boy. The sodomy charge was dropped, and Seymour pleaded guilty to misdemeanor assault. His one-year jail sentence was suspended and he received one year probation. Nearly a decade later, in November 2007, Seymour was arrested again on charges of molesting three teenage boys (ages 15-17) he met through First Baptist Church at the Mall in Lakeland, Florida. He allegedly met victims through church and paid them money in exchange for sexual favors or silence. He faced charges of unlawful sexual activity with minors and using children in sexual performance. After jury selection began, he pleaded guilty and no contest to five felony charges, potentially facing up to 65 years in prison.",
     "sources": [
       "https://t.co/vdOH25uNFX"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "religious leader",
+      "baptist"
     ],
-    "year": null
+    "year": 1999
   },
   {
     "id": 94,
-    "name": "White supremac",
+    "name": "Kevin Alfred Strom",
     "position": [
-      "party official"
+      "activist",
+      "extremist leader"
     ],
     "crime": [
       "child pornography"
     ],
-    "description": "White supremacist National Vanguard leader Kevin Alfred Strom arrested and charged with child pornography",
+    "description": "Kevin Alfred Strom is an American white nationalist, neo-Nazi, and white supremacist from Virginia who founded the National Vanguard in 2005, a breakaway group from the neo-Nazi National Alliance. On January 4, 2007, Strom was arrested in Greene County, Virginia on charges of possession of child pornography and witness tampering. According to reports, his wife caught him viewing child pornography on his home computer. At his plea hearing in January 2008, Strom pleaded guilty to one count of possession of child pornography in exchange for other charges being dropped. He was sentenced to 23 months in prison in April 2008. Following his arrest and conviction, the National Vanguard was disbanded. Strom had a documented long-time fascination with young girls and exploited his position within the extremist movement.",
     "sources": [
       "https://t.co/GS5vzrMHXG"
     ],
     "tags": [
-      "party official"
+      "white supremacist",
+      "neo-nazi",
+      "extremist"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 95,
-    "name": "Daniel Dean Thompson founded a familly values film",
-    "position": [],
-    "crime": [
-      "child pornography"
+    "name": "Daniel Dean Thompson",
+    "position": [
+      "business owner"
     ],
-    "description": "Daniel Dean Thompson founded a familly values film company that removed all the \"bad parts\" from films to make them family-friendly - front for child porn, arrested for having sex with 14-year-old",
+    "crime": [
+      "child sexual exploitation",
+      "prostitution of minors",
+      "statutory rape"
+    ],
+    "description": "Daniel Dean Thompson, age 31, was arrested in 2008 on charges of unlawful sexual activity with minors and patronizing a minor prostitute. Thompson allegedly operated a film editing business that he claimed sanitized movies to remove objectionable content for family viewing, but the business served as a front for child sexual exploitation. According to police reports, Thompson and co-owner Isaac Lifferth allegedly paid two 14-year-old girls $20 each to perform oral sex. Police found a large quantity of pornographic movies inside the business along with a keg of beer, painkillers, and two cameras hooked up to a television. Thompson told the teen victims his film business was a cover for a pornography studio. He was charged with two counts of unlawful sexual activity with a minor and two counts of patronizing a prostitute. Note: Clean Flicks company later sued Thompson, claiming he falsely connected himself to their company and was never affiliated with it.",
     "sources": [
       "https://consumerist.com/2008/01/31/family-friendly-movie-censors-were-running-porn-business/"
     ],
-    "tags": [],
+    "tags": [
+      "business owner",
+      "child exploitation"
+    ],
     "year": 2008
   },
   {
     "id": 96,
-    "name": "Wharton prof & conservative consultant on media effects on",
-    "position": [],
-    "crime": [],
-    "description": "Wharton prof & conservative consultant on media effects on children Lawrence Scott Ward - video of himself having sex",
+    "name": "Lawrence Scott Ward",
+    "position": [
+      "academic",
+      "professor"
+    ],
+    "crime": [
+      "child pornography production",
+      "child sexual abuse",
+      "importing child pornography"
+    ],
+    "description": "Lawrence Scott Ward was a 63-year-old professor at the Wharton School of Business at the University of Pennsylvania, known for expertise on media effects on children. In August 2006, authorities discovered child pornography in his luggage and laptop computer when he arrived at Dulles International Airport near Washington, D.C., on a flight from Brazil. A search of his office at Wharton's Huntsman Hall uncovered over 80 images of Ward and a young boy (no older than 15) in intimate situations, with the boy featured in a series of pornographic DVDs found in Ward's mail. Ward pleaded guilty on May 17, 2007 to producing child pornography for importation into the United States, receiving 15 years in prison and a $17,500 fine. On November 17, 2008, he pleaded guilty to all four Pennsylvania child pornography and sexual misconduct charges and received an additional 25-year sentence.",
     "sources": [
       "https://t.co/UBbrEeWISl"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "professor",
+      "academic",
+      "pennsylvania"
+    ],
+    "year": 2006
   },
   {
     "id": 97,
-    "name": "Spokane Republican Jim West",
+    "name": "James E. West",
     "position": [
-      "local official",
-      "party member"
+      "mayor",
+      "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "child sexual abuse"
     ],
-    "description": "Spokane Republican homophobic mayor Jim West recalled after evidence surfaced that he molested little boys",
+    "description": "James E. West (Jim West) was a Republican politician from Spokane, Washington who served in the state legislature starting in 1982 and became mayor of Spokane in 2003. In May 2005, a local newspaper investigation published allegations that West had sexually molested young boys more than 20 years earlier, in the late 1970s or early 1980s. West was accused of abusing at least two young men during his time as a sheriff's deputy and while volunteering with the Boy Scouts as a troop leader. Although never formally charged, voters overwhelmingly recalled West from office in a special election on December 6, 2005, with 65% voting to oust him. His term ended on December 16, 2005. The FBI investigated the allegations but closed the case without taking action due to lack of sufficient evidence.",
     "sources": [
       "https://t.co/01rIrLsCdj"
     ],
     "tags": [
-      "local official",
-      "party member",
+      "politician",
+      "washington",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 98,
-    "name": "Focus on the Family's Steve Wilsey -",
-    "position": [],
+    "name": "Steve Wilsey",
+    "position": [
+      "religious counselor",
+      "activist"
+    ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Focus on the Family's Steve Wilsey - molesting an 8 year old boy",
+    "description": "Steve Wilsey was a youth counselor and activist affiliated with Focus on the Family, an evangelical Christian organization, and was reportedly a protégé of James Dobson, the founder of Focus on the Family. Wilsey was charged with and convicted of sexual assault after molesting an 8-year-old boy. His case represented a significant scandal for Focus on the Family and exposed the organization's vulnerability regarding child safety within its youth counseling programs.",
     "sources": [
       "https://capitolhillblue.com/node/982NewspaperAugust"
     ],
-    "tags": [],
+    "tags": [
+      "religious organization",
+      "child abuse"
+    ],
     "year": null
   },
   {
     "id": 99,
-    "name": "Southern Bapt",
+    "name": "Paul Williams",
     "position": [
-      "party member",
-      "religious leader"
+      "religious leader",
+      "church official"
     ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Republican Southern Baptist megachurch pastor Paul Williams faces charges of molesting his son",
+    "description": "Paul Williams was a minister of prayer and special projects at Bellevue Baptist Church, a major Southern Baptist megachurch. In 2006, an internal church investigation revealed that Williams had sexually abused his son over a period of 12-18 months, beginning in 1990 when his son was an adolescent. Williams admitted to and was convicted of the sexual abuse. According to the investigation, church leaders including the current pastor, Reverend Steve Gaines, learned about the abuse but did not immediately report it to authorities. The abuse only came to light in December 2005 after Williams' son prodded Pastor Gaines to explain why his father was still allowed to serve as a minister. Williams was subsequently fired from his position at the church.",
     "sources": [
       "https://t.co/1E5yrAUNp2",
       "https://baptistnews.com/article/bellevue-report-assistant-pastor-guilty-of-sex-abuse-against-son/"
     ],
     "tags": [
-      "party member",
       "religious leader",
-      "republican"
+      "baptist",
+      "child abuse"
     ],
-    "year": null
+    "year": 1990
   },
   {
     "id": 100,
-    "name": "Chairman",
+    "name": "Glenn Murphy Jr.",
     "position": [
-      "party member",
       "party official"
     ],
     "crime": [
-      "assault"
+      "sexual assault"
     ],
-    "description": "Chairman of the Young Republican National Federation, Glenn Murphy Jr., from Indiana was busted for assaulting another man. Not the first time it's happened.",
+    "description": "Glenn Murphy Jr. was a prominent Republican politician who served as president of the Young Republican National Federation. In August 2007, he resigned from his position after being accused of sexually assaulting another man. The assault allegedly occurred on July 29, 2007, when Murphy, age 33, performed oral sex on a 22-year-old man without consent while the victim slept. The assault happened following a Young Republicans gathering and after a night of drinking at the victim's sister's house. Murphy pleaded not guilty to the charges but was convicted of class B felony sexual assault. He was sentenced to six years in prison and is now a registered sex offender. Additionally, another man had accused Murphy of sexual assault in 1998, though no charges were filed at that time.",
     "sources": [
       "https://t.co/orCe48HdFe"
     ],
     "tags": [
-      "party member",
       "party official",
-      "republican"
+      "republican",
+      "registered sex offender"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 101,
-    "name": "Township Superv",
+    "name": "Robert Holland",
     "position": [
-      "party member"
+      "government official",
+      "supervisor"
     ],
     "crime": [
-      "assault",
-      "child molestation"
+      "sexual assault",
+      "institutional sexual abuse",
+      "abuse of elderly person"
     ],
-    "description": "Republican Township Supervisor Robert Holland pleaded guilty to sexually assaulting a 92-year-old nursing home resident in 2006. He was given a two-to-four year sentence. Ex-town official sentenced for molesting patient",
+    "description": "Robert Holland, 76, was a longtime Republican Township Supervisor in Bedminster Township, Pennsylvania and head of groundskeeper services at Pine Run Community Assisted Living Facility, where he supervised five employees. Holland was charged with multiple felony and misdemeanor counts of sexual assault after admitting to sexually assaulting a 92-year-old nursing home resident who was unable to give meaningful consent. Holland moved the victim from her alarmed wheelchair to a nearby sofa where he fondled and engaged in other sexual acts. Nursing assistant Martha Palena witnessed the assault and reported it. Holland's assaults spanned approximately six months from November 2005 until his discovery. He was arraigned on charges including aggravated indecent assault (2nd degree felony), institutional sexual assault (3rd degree felony), and three counts of misdemeanor indecent assault.",
     "sources": [
       "http://findarticles.eom/p/articles/mi_kmtpi/is_200703/ai_nl8699927"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "republican",
+      "pennsylvania"
     ],
     "year": 2006
   },
   {
     "id": 102,
-    "name": "Antigay Leonard Ray Owens",
+    "name": "Leonard Ray Owens",
     "position": [
-      "religious leader"
+      "religious leader",
+      "pastor"
     ],
-    "crime": [],
-    "description": "Antigay pastor Leonard Ray Owens told a woman who had miscarriage she was possessed by a sex spirit and lesbian",
+    "crime": [
+      "sexual assault",
+      "rape"
+    ],
+    "description": "Leonard Ray Owens is a pastor and antigay activist from Fort Worth, Texas. He was indicted on charges of sexual assault (a second-degree felony) after being accused of raping a church member who came to him for counseling following a miscarriage. According to police reports, Owens told the woman that she was possessed by a sex spirit and lesbian demon that needed to be cast out. He then allegedly asked her to lie on the floor where he conducted what he described as an exorcism, yelling at her as if performing a demonic casting, saying 'Loose her in the name of Jesus,' before he raped her. The alleged assaults occurred twice at his Fort Worth home. Owens was arrested in November 2006 and held on $25,000 bail, facing charges that could result in 2-20 years in prison.",
     "sources": [
       "https://t.co/b3F5ziujHa"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "pastor",
+      "texas",
+      "antigay activist"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 103,
-    "name": "State Rep & House Minority Leader Galen Fox",
+    "name": "Galen Fox",
     "position": [
-      "congress",
-      "party official"
+      "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "sexual assault",
+      "indecent assault"
     ],
-    "description": "GOP State Rep & House Minority Leader Galen Fox convicted of molesting a woman who was a flight with him",
+    "description": "Galen Fox was a Hawaiian Republican State Representative and House Minority Leader. On December 17-18, 2004, the 61-year-old Fox took a late night flight from Honolulu to Los Angeles. During the flight, Fox committed a sex crime against the sleeping 27-year-old woman sitting beside him by groping her. He was convicted of misdemeanor sex abuse. Fox resigned from the Hawaii legislature on December 1, 2005. He was sentenced to three months of house arrest, three years probation, and a $2,500 fine. Fox was also ordered to register as a sex offender and to undergo a psychiatric examination or sex offender treatment program.",
     "sources": [
       "https://t.co/Y83V89qrF7"
     ],
     "tags": [
-      "congress",
-      "party official",
-      "republican"
+      "state legislator",
+      "republican",
+      "hawaii",
+      "registered sex offender"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 104,
-    "name": "Albert Andre Zimmerman, GOP-appointed spokesperson for",
+    "name": "Albert Andre Zimmerman",
     "position": [
-      "party official"
+      "government official",
+      "spokesperson"
     ],
     "crime": [
-      "child pornography"
+      "child pornography production",
+      "child sexual exploitation"
     ],
-    "description": "Albert Andre Zimmerman, GOP-appointed spokesperson for the State of Florida Department of Children and Families, producing child porn",
+    "description": "Albert Andre Zimmerman, 41, was the former spokesman for the Florida Department of Children and Families (DCF), the state agency responsible for child protection and welfare. In February 2008, Zimmerman was indicted on charges of producing child pornography. According to investigators, Zimmerman solicited two teenagers, ages 16 and 17, to perform lewd acts that he photographed and videotaped for the purpose of creating pornography. Specifically, Zimmerman paid the boys to photograph themselves while masturbating with the intention of publishing and reselling the images as pornography. A former TV newsman, Zimmerman was fired by DCF following his arrest. In January 2009, he pleaded guilty to one count of producing child pornography. Other charges were dropped as part of a plea agreement. Zimmerman was sentenced to 24 years and four months in federal prison.",
     "sources": [
       "http://www.newsweek.com/id/110658"
     ],
     "tags": [
-      "party official",
-      "republican"
+      "government official",
+      "florida",
+      "child pornography"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 105,
-    "name": "The Republican",
+    "name": "Allen D. Kauffman",
     "position": [
-      "local official",
-      "party member",
+      "government official",
       "religious leader"
     ],
-    "crime": [],
-    "description": "The Republican Mayor of Collins Missouri, and Pastor of the Temple Lot Church in Collins, Allen D. Kauffman caught in internet sting by adult pretending to be 13",
+    "crime": [
+      "enticement of a child",
+      "solicitation of a minor"
+    ],
+    "description": "Allen D. Kauffman, 63, was the mayor of Collins, Missouri (a small town of about 200 people) and pastor of the Temple Lot Church in Collins. In late 2007, Kauffman was arrested on four counts of felony enticement of a child following an Internet sting operation. According to prosecutors, Kauffman believed he was communicating with a 13-year-old girl in a Yahoo chat room during November and December 2007. In reality, he was communicating with Jim Murray, a retired detective from Diamond, Missouri who conducts online child sex predator stings. Murray's sting operations have led to over 20 arrests with more than half resulting in prison time for adults convicted of soliciting sex from minors. Kauffman resigned from his positions as mayor of Collins and pastor of Temple Lot Church following the charges.",
     "sources": [
       "https://t.co/gDNZVBjzXd"
     ],
     "tags": [
-      "local official",
-      "party member",
+      "government official",
       "religious leader",
-      "republican"
+      "missouri"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 106,
@@ -2460,7 +2573,7 @@
   },
   {
     "id": 125,
-    "name": "Republican WY Sec of State Ed Murray - sexual",
+    "name": "WY Sec of State Ed Murray - sexual",
     "position": [
       "party member"
     ],
@@ -3985,7 +4098,7 @@
   },
   {
     "id": 209,
-    "name": "GOP Schaeffer Cox",
+    "name": "Schaeffer Cox",
     "position": [
       "candidate",
       "congress",
@@ -5001,7 +5114,7 @@
   },
   {
     "id": 261,
-    "name": "GOP Walton Co. Comm",
+    "name": "Walton Co. Comm",
     "position": [
       "local official",
       "party official"
@@ -5425,7 +5538,7 @@
   },
   {
     "id": 283,
-    "name": "GOP State Shawn Hamerlinck,",
+    "name": "State Shawn Hamerlinck,",
     "position": [
       "party official",
       "state legislator"
@@ -6929,7 +7042,7 @@
   },
   {
     "id": 366,
-    "name": "Republican Congressional Daniel",
+    "name": "Congressional Daniel",
     "position": [
       "candidate",
       "congress",
@@ -11127,7 +11240,7 @@
   },
   {
     "id": 586,
-    "name": "Republican Lt. David Dewhurst",
+    "name": "Lt. David Dewhurst",
     "position": [
       "governor",
       "party member"
@@ -12800,7 +12913,7 @@
   },
   {
     "id": 673,
-    "name": "Republican Speaker of Michigan House Lee",
+    "name": "Speaker of Michigan House Lee",
     "position": [
       "congress",
       "party member"
@@ -17585,7 +17698,10 @@
       "judge",
       "candidate"
     ],
-    "crime": [],
+    "crime": [
+      "sexual assault",
+      "assault"
+    ],
     "description": "Former Alabama Chief Justice Roy Moore faced multiple allegations of sexual misconduct in 2017. Multiple women accused Moore of sexual assault when they were teenagers and he was in his 30s. The allegations first surfaced in November 2017 during his U.S. Senate campaign. Moore lost the special election to Democrat Doug Jones.",
     "sources": [],
     "tags": [
