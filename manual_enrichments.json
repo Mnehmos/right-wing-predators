@@ -177,5 +177,32 @@
     "position": ["activist", "religious leader"],
     "crime": ["sexual abuse", "child molestation"],
     "tags": ["activist", "religious leader", "republican"]
+  },
+  {
+    "id": 36,
+    "name": "Keola Childs",
+    "year": 2000,
+    "description": "Hawaii County Councilman Keola Childs pleaded guilty in 2000 to first-degree sexual assault for molesting a male child. The charge carried a possible sentence of 20 years in prison.",
+    "position": ["local official"],
+    "crime": ["sexual assault", "child molestation"],
+    "tags": ["local official", "republican"]
+  },
+  {
+    "id": 42,
+    "name": "Parker J. Bena",
+    "year": 2001,
+    "description": "Republican activist Parker J. Bena was a presidential elector for George W. Bush in 2000. In 2001, he pleaded guilty to possession of child pornography, including images of children as young as 3 years old, on his home computer. He was sentenced to 30 months in federal prison and fined $18,000.",
+    "position": ["activist", "party official"],
+    "crime": ["child pornography"],
+    "tags": ["activist", "party official", "republican"]
+  },
+  {
+    "id": 47,
+    "name": "Richard A. Dasen Sr.",
+    "year": 2005,
+    "description": "Montana businessman and Republican benefactor Richard A. Dasen Sr. was convicted in May 2005 of promotion of prostitution, sexual abuse of children, and multiple felony prostitution counts. He paid women and girls for sex, took sexual photographs of girls under 18, and had sex with a 15-year-old girl. He was sentenced to 20 years with 18 suspended in September 2005.",
+    "position": ["party member"],
+    "crime": ["sexual abuse", "child exploitation", "prostitution"],
+    "tags": ["party member", "republican"]
   }
 ]

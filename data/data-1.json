@@ -741,21 +741,20 @@
   },
   {
     "id": 36,
-    "name": "County Childs**",
+    "name": "Keola Childs",
     "position": [
-      "local official",
-      "party member"
+      "local official"
     ],
     "crime": [
+      "sexual assault",
       "child molestation"
     ],
-    "description": "Republican County Councilman *Keola Childs** pleaded guilty to molesting a male child.",
+    "description": "Hawaii County Councilman Keola Childs pleaded guilty in 2000 to first-degree sexual assault for molesting a male child. The charge carried a possible sentence of 20 years in prison.",
     "sources": [
       "https://archives.starbulletin.com/2000/07/20/news/briefs.html"
     ],
     "tags": [
       "local official",
-      "party member",
       "republican"
     ],
     "year": 2000
@@ -871,21 +870,21 @@
     "name": "Parker J. Bena",
     "position": [
       "activist",
-      "party member"
+      "party official"
     ],
     "crime": [
       "child pornography"
     ],
-    "description": "Parker J. Bena was a prominent Republican activist and an elector for Bush in 2000. A year later, Bena pleaded guilty to possession of child pornography in a plea dea",
+    "description": "Republican activist Parker J. Bena was a presidential elector for George W. Bush in 2000. In 2001, he pleaded guilty to possession of child pornography, including images of children as young as 3 years old, on his home computer. He was sentenced to 30 months in federal prison and fined $18,000.",
     "sources": [
       "https://www.columbiatribune.com/story/news/politics/2014/04/02/bill-targets-missouri-lobbyist-with/21723997007/"
     ],
     "tags": [
       "activist",
-      "party member",
+      "party official",
       "republican"
     ],
-    "year": 2000
+    "year": 2001
   },
   {
     "id": 43,
@@ -969,24 +968,24 @@
   },
   {
     "id": 47,
-    "name": "benefactor of conservative Chr",
+    "name": "Richard A. Dasen Sr.",
     "position": [
-      "law enforcement",
       "party member"
     ],
     "crime": [
-      "rape"
+      "sexual abuse",
+      "child exploitation",
+      "prostitution"
     ],
-    "description": "Republican benefactor of conservative Christian groups, Richard A. Dasen Sr. rape Dasen has allegedly told police that over the past decade he paid more than $1 million to have sex with a large number of young women",
+    "description": "Montana businessman and Republican benefactor Richard A. Dasen Sr. was convicted in May 2005 of promotion of prostitution, sexual abuse of children, and multiple felony prostitution counts. He paid women and girls for sex, took sexual photographs of girls under 18, and had sex with a 15-year-old girl. He was sentenced to 20 years with 18 suspended in September 2005.",
     "sources": [
       "https://missoulian.com/news/kalispell-businessman-richard-dasen-charged-with-prostitution-related-crimes/article_f04ce8a9-fa02-54fa-addd-267d2357a4a9.html"
     ],
     "tags": [
-      "law enforcement",
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 48,
