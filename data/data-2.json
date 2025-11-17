@@ -1,193 +1,223 @@
 [
   {
     "id": 100,
-    "name": "Chairman",
+    "name": "Glenn Murphy Jr.",
     "position": [
-      "party member",
       "party official"
     ],
     "crime": [
-      "assault"
+      "sexual assault"
     ],
-    "description": "Chairman of the Young Republican National Federation, Glenn Murphy Jr., from Indiana was busted for assaulting another man. Not the first time it's happened.",
+    "description": "Glenn Murphy Jr. was a prominent Republican politician who served as president of the Young Republican National Federation. In August 2007, he resigned from his position after being accused of sexually assaulting another man. The assault allegedly occurred on July 29, 2007, when Murphy, age 33, performed oral sex on a 22-year-old man without consent while the victim slept. The assault happened following a Young Republicans gathering and after a night of drinking at the victim's sister's house. Murphy pleaded not guilty to the charges but was convicted of class B felony sexual assault. He was sentenced to six years in prison and is now a registered sex offender. Additionally, another man had accused Murphy of sexual assault in 1998, though no charges were filed at that time.",
     "sources": [
       "https://t.co/orCe48HdFe"
     ],
     "tags": [
-      "party member",
       "party official",
-      "republican"
+      "republican",
+      "registered sex offender"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 101,
-    "name": "Township Superv",
+    "name": "Robert Holland",
     "position": [
-      "party member"
+      "government official",
+      "supervisor"
     ],
     "crime": [
-      "assault",
-      "child molestation"
+      "sexual assault",
+      "institutional sexual abuse",
+      "abuse of elderly person"
     ],
-    "description": "Republican Township Supervisor Robert Holland pleaded guilty to sexually assaulting a 92-year-old nursing home resident in 2006. He was given a two-to-four year sentence. Ex-town official sentenced for molesting patient",
+    "description": "Robert Holland, 76, was a longtime Republican Township Supervisor in Bedminster Township, Pennsylvania and head of groundskeeper services at Pine Run Community Assisted Living Facility, where he supervised five employees. Holland was charged with multiple felony and misdemeanor counts of sexual assault after admitting to sexually assaulting a 92-year-old nursing home resident who was unable to give meaningful consent. Holland moved the victim from her alarmed wheelchair to a nearby sofa where he fondled and engaged in other sexual acts. Nursing assistant Martha Palena witnessed the assault and reported it. Holland's assaults spanned approximately six months from November 2005 until his discovery. He was arraigned on charges including aggravated indecent assault (2nd degree felony), institutional sexual assault (3rd degree felony), and three counts of misdemeanor indecent assault.",
     "sources": [
       "http://findarticles.eom/p/articles/mi_kmtpi/is_200703/ai_nl8699927"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "republican",
+      "pennsylvania"
     ],
     "year": 2006
   },
   {
     "id": 102,
-    "name": "Antigay Leonard Ray Owens",
+    "name": "Leonard Ray Owens",
     "position": [
-      "religious leader"
+      "religious leader",
+      "pastor"
     ],
-    "crime": [],
-    "description": "Antigay pastor Leonard Ray Owens told a woman who had miscarriage she was possessed by a sex spirit and lesbian",
+    "crime": [
+      "sexual assault",
+      "rape"
+    ],
+    "description": "Leonard Ray Owens is a pastor and antigay activist from Fort Worth, Texas. He was indicted on charges of sexual assault (a second-degree felony) after being accused of raping a church member who came to him for counseling following a miscarriage. According to police reports, Owens told the woman that she was possessed by a sex spirit and lesbian demon that needed to be cast out. He then allegedly asked her to lie on the floor where he conducted what he described as an exorcism, yelling at her as if performing a demonic casting, saying 'Loose her in the name of Jesus,' before he raped her. The alleged assaults occurred twice at his Fort Worth home. Owens was arrested in November 2006 and held on $25,000 bail, facing charges that could result in 2-20 years in prison.",
     "sources": [
       "https://t.co/b3F5ziujHa"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "pastor",
+      "texas",
+      "antigay activist"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 103,
-    "name": "State Rep & House Minority Leader Galen Fox",
+    "name": "Galen Fox",
     "position": [
-      "congress",
-      "party official"
+      "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "sexual assault",
+      "indecent assault"
     ],
-    "description": "GOP State Rep & House Minority Leader Galen Fox convicted of molesting a woman who was a flight with him",
+    "description": "Galen Fox was a Hawaiian Republican State Representative and House Minority Leader. On December 17-18, 2004, the 61-year-old Fox took a late night flight from Honolulu to Los Angeles. During the flight, Fox committed a sex crime against the sleeping 27-year-old woman sitting beside him by groping her. He was convicted of misdemeanor sex abuse. Fox resigned from the Hawaii legislature on December 1, 2005. He was sentenced to three months of house arrest, three years probation, and a $2,500 fine. Fox was also ordered to register as a sex offender and to undergo a psychiatric examination or sex offender treatment program.",
     "sources": [
       "https://t.co/Y83V89qrF7"
     ],
     "tags": [
-      "congress",
-      "party official",
-      "republican"
+      "state legislator",
+      "republican",
+      "hawaii",
+      "registered sex offender"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 104,
-    "name": "Albert Andre Zimmerman, GOP-appointed spokesperson for",
+    "name": "Albert Andre Zimmerman",
     "position": [
-      "party official"
+      "government official",
+      "spokesperson"
     ],
     "crime": [
-      "child pornography"
+      "child pornography production",
+      "child sexual exploitation"
     ],
-    "description": "Albert Andre Zimmerman, GOP-appointed spokesperson for the State of Florida Department of Children and Families, producing child porn",
+    "description": "Albert Andre Zimmerman, 41, was the former spokesman for the Florida Department of Children and Families (DCF), the state agency responsible for child protection and welfare. In February 2008, Zimmerman was indicted on charges of producing child pornography. According to investigators, Zimmerman solicited two teenagers, ages 16 and 17, to perform lewd acts that he photographed and videotaped for the purpose of creating pornography. Specifically, Zimmerman paid the boys to photograph themselves while masturbating with the intention of publishing and reselling the images as pornography. A former TV newsman, Zimmerman was fired by DCF following his arrest. In January 2009, he pleaded guilty to one count of producing child pornography. Other charges were dropped as part of a plea agreement. Zimmerman was sentenced to 24 years and four months in federal prison.",
     "sources": [
       "http://www.newsweek.com/id/110658"
     ],
     "tags": [
-      "party official",
-      "republican"
+      "government official",
+      "florida",
+      "child pornography"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 105,
-    "name": "The Republican",
+    "name": "Allen D. Kauffman",
     "position": [
-      "local official",
-      "party member",
+      "government official",
       "religious leader"
     ],
-    "crime": [],
-    "description": "The Republican Mayor of Collins Missouri, and Pastor of the Temple Lot Church in Collins, Allen D. Kauffman caught in internet sting by adult pretending to be 13",
+    "crime": [
+      "enticement of a child",
+      "solicitation of a minor"
+    ],
+    "description": "Allen D. Kauffman, 63, was the mayor of Collins, Missouri (a small town of about 200 people) and pastor of the Temple Lot Church in Collins. In late 2007, Kauffman was arrested on four counts of felony enticement of a child following an Internet sting operation. According to prosecutors, Kauffman believed he was communicating with a 13-year-old girl in a Yahoo chat room during November and December 2007. In reality, he was communicating with Jim Murray, a retired detective from Diamond, Missouri who conducts online child sex predator stings. Murray's sting operations have led to over 20 arrests with more than half resulting in prison time for adults convicted of soliciting sex from minors. Kauffman resigned from his positions as mayor of Collins and pastor of Temple Lot Church following the charges.",
     "sources": [
       "https://t.co/gDNZVBjzXd"
     ],
     "tags": [
-      "local official",
-      "party member",
+      "government official",
       "religious leader",
-      "republican"
+      "missouri"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 106,
-    "name": "Dana Rorabacher's aide Jeffrey Nielson, sex with underage",
-    "position": [],
-    "crime": [],
-    "description": "Dana Rorabacher's aide Jeffrey Nielson, sex with underage",
+    "name": "Jeffrey Ray Nielsen",
+    "position": [
+      "government official",
+      "congressional aide"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child pornography",
+      "lewd acts with child"
+    ],
+    "description": "Jeffrey Ray Nielsen was a congressional aide to U.S. Representative Dana Rohrabacher (R-CA). Rohrabacher personally recommended Nielsen to USC Law School. Nielsen used his position as a Washington, D.C. congressional aide to lure and sexually abuse underage boys, particularly targeting children from church youth groups. One victim, Billy, was 12 years old when Nielsen began his abuse in the mid-1990s. For two years, Nielsen sexually exploited Billy, including in public settings, while working directly for Congressman Rohrabacher. Nielsen brainwashed his victims into these sexual relationships. In March 2008, the 37-year-old Nielsen pleaded guilty to two felony counts of lewd acts upon a child and was sentenced to 36 months in California prison. A police search of his Ladera Ranch home recovered hundreds of graphic images of man-boy and boy-boy sexual abuse material on his computers.",
     "sources": [
       "https://t.co/kAikbXTEwJ"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "government official",
+      "republican",
+      "california"
+    ],
+    "year": 2008
   },
   {
     "id": 107,
-    "name": "SD State GOP Rep Ted Klaudt: rape, sexual exploitation of",
+    "name": "Ted Klaudt",
     "position": [
-      "party official"
+      "state legislator"
     ],
     "crime": [
-      "child exploitation",
-      "rape"
+      "rape",
+      "sexual abuse",
+      "witness tampering"
     ],
-    "description": "SD State GOP Rep Ted Klaudt: rape, sexual exploitation of a minor, witness tampering, stalking. Five victims, three foster children who lived with Klaudt.",
+    "description": "Ted Alvin Klaudt was a Republican member of the South Dakota House of Representatives (1999-2006). On May 19, 2007, he was arrested on charges of raping and sexually abusing his 17 and 19-year-old foster daughters as part of a fake 'egg donor examination' scam. As part of a bogus fertility program, Klaudt touched his foster daughters' breasts, penetrated them with his fingers and a vibrator while pretending to conduct examinations in his motel suite in Pierre during the 2005 and 2006 legislative sessions. The foster daughters had been placed in Klaudt's home through a state program for youth transitioning from the juvenile corrections system. Klaudt was convicted on all four counts of second-degree rape and sentenced on January 17, 2008, to 44 years in prison (11 years per count, served consecutively). He also pleaded guilty to witness tampering and received an additional 10-year sentence. The victims later settled a civil lawsuit against him.",
     "sources": [
       "https://en.wikipedia.org/wiki/Ted_Klaudt"
     ],
     "tags": [
-      "party official",
-      "republican"
+      "state legislator",
+      "republican",
+      "south dakota"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 108,
-    "name": "Elyria Ohio Republican Joseph Monteleone",
+    "name": "Joseph Monteleone Jr.",
     "position": [
-      "local official",
-      "party member"
+      "government official",
+      "business owner"
     ],
     "crime": [
+      "sexual imposition",
       "child molestation"
     ],
-    "description": "Elyria Ohio city councilman, Republican Joseph Monteleone Jr. was found guilty of fondling underage girls",
+    "description": "Joseph Monteleone Jr. was a Republican city councilman in Elyria, Ohio, and owner of Master Pizza. He was charged with sexually imposition and impor for inappropriately touching and molesting three teen girls who worked at his pizza shop. The three victims were ages 13, 15, and 17 at the time of the assaults. After a bench trial in May 2007, he was found guilty of three counts of sexual imposition and two counts of impportuning. Monteleone was sentenced to three years probation and ordered to pay $9,000 in fines or donate $7,500 to Genesis House, a local shelter for women and children who are victims of domestic violence. Following his conviction, Monteleone resigned from the Elyria City Council and sold Master Pizza.",
     "sources": [
       "https://t.co/9BDj1kBpQA"
     ],
     "tags": [
-      "local official",
-      "party member",
-      "republican"
+      "government official",
+      "republican",
+      "ohio"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 109,
-    "name": "County Comm",
+    "name": "Patrick Lee McGuire",
     "position": [
-      "local official",
-      "party official"
+      "government official"
     ],
-    "crime": [],
-    "description": "GOP County Commissioner Patrick Lee McGuire child",
+    "crime": [
+      "child sexual abuse",
+      "molestation of adopted children"
+    ],
+    "description": "Patrick Lee McGuire was a Flagler County, Florida commissioner (2001-2004) and former director of the Central Florida Police Benevolent Association. In January 2007, he was arrested and charged with molesting his two adopted daughters. One daughter was 16, another was 24 when they disclosed abuse to authorities. McGuire had repeatedly molested one of the girls beginning when she was between 8-9 years old. He was convicted in 2007 and sentenced to 60 months in federal prison, of which he served 52 months and was released in October 2011. McGuire remains on a 10-year felony probation term with severe restrictions on travel (limited to county), internet access, and contact with minors, plus mandatory curfew.",
     "sources": [
       "https://t.co/osEUFN3FxK"
     ],
     "tags": [
-      "local official",
-      "party official",
-      "republican"
+      "government official",
+      "republican",
+      "florida"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 110,
@@ -212,37 +242,46 @@
     "id": 111,
     "name": "Donald Thompson",
     "position": [
-      "judge",
-      "party member"
+      "judge"
     ],
-    "crime": [],
-    "description": "Republican Judge Donald Thompson from Oklahoma, was found guilty on four counts of indecent exposure after using a penis pump while presiding over court cases.",
+    "crime": [
+      "indecent exposure",
+      "lewdness in court"
+    ],
+    "description": "Donald Thompson was a Creek County District Judge in Oklahoma who was convicted in June 2006 of four counts of indecent exposure. Between 2001 and 2003, his court reporter testified that she witnessed Thompson expose himself at least 15 times while on the bench. The allegations became public when a police officer in Thompson's courtroom heard suspicious pumping sounds and discovered that Thompson was using a 'penis pump' during proceedings. Thompson was sentenced to four years in prison and served 20 months before his release. He was required to register as a sex offender and was disbarred by the Oklahoma Supreme Court, which also stripped him of his pension. Thompson claimed the device was a joke from a hunting buddy and that he may have absentmindedly squeezed it, but never intentionally used it to masturbate.",
     "sources": [
       "http://www.usatoday.com/news/nation/2006-08-18-judge-sentenced_x.htm"
     ],
     "tags": [
       "judge",
-      "party member",
+      "oklahoma",
       "republican"
     ],
     "year": 2006
   },
   {
     "id": 112,
-    "name": "Ohio GOP Caucus lawyer Stephen Linnen - \"Naked",
+    "name": "Stephen P. Linnen",
     "position": [
-      "party official"
+      "government official",
+      "attorney"
     ],
-    "crime": [],
-    "description": "Ohio GOP Caucus lawyer Stephen Linnen - \"Naked Photographer\" a moniker suggesting his snapping pics of women in the nude was harmless. It was not",
+    "crime": [
+      "indecent exposure",
+      "sexual imposition",
+      "public indecency"
+    ],
+    "description": "Stephen P. Linnen, 32, worked as legal counsel for taxation and education for the Ohio House of Representatives and was a member of the Ohio GOP. In 2003, Linnen was arrested for indecent exposure after approaching women while nude. In a September 2004 plea agreement, Linnen admitted to being responsible for 38 separate incidents in which he confronted women across Central Ohio while naked, wearing only athletic shoes and a knit cap, with a camera, photographing their reactions. He pleaded guilty to 53 counts of misdemeanor public indecency, sexual imposition, and criminal trespassing. Linnen was sentenced to 18 months in jail on September 27, 2004. The Ohio Supreme Court indefinitely suspended his law license in 2006. However, in 2017, the Ohio Supreme Court ruled to reinstate his license, requiring him to remain on probation for three years and be monitored by the Columbus Bar Association.",
     "sources": [
       "https://t.co/Q5JCjHkBYh"
     ],
     "tags": [
-      "party official",
-      "republican"
+      "government official",
+      "attorney",
+      "republican",
+      "ohio"
     ],
-    "year": null
+    "year": 2003
   },
   {
     "id": 113,
@@ -464,7 +503,7 @@
   },
   {
     "id": 125,
-    "name": "Republican WY Sec of State Ed Murray - sexual",
+    "name": "WY Sec of State Ed Murray - sexual",
     "position": [
       "party member"
     ],
@@ -481,23 +520,25 @@
   },
   {
     "id": 126,
-    "name": "KY GOP state leg",
+    "name": "Dan Johnson",
     "position": [
-      "party official"
+      "state legislator",
+      "religious leader"
     ],
     "crime": [
-      "assault",
-      "sexual assault"
+      "sexual assault",
+      "assault of minor"
     ],
-    "description": "KY GOP state legislator Dan Johnson accused of sexual assault of 17 year-old. Killed himself",
+    "description": "Dan Johnson was a Kentucky Republican state legislator and pastor. In December 2017, the Kentucky Center for Investigative Reporting published allegations that Johnson had sexually assaulted a 17-year-old member of his church on New Year's Eve 2012. According to victim Maranda Richmond, Johnson drunkenly sexually assaulted her in his basement. She reported the incident to Louisville Metro Police in April 2013, and they opened an investigation but closed it without charges. When the investigative report was published, Johnson initially denied the allegations on Tuesday, calling them 'totally false' and refusing to resign. On December 13, 2017—days later—Johnson drove onto a bridge in rural Mount Washington, parked his vehicle, and shot himself in the head. He was 57 years old. Johnson had gained national notoriety during his 2016 election campaign for posting racist images of President Barack Obama and his family.",
     "sources": [
       "http://www.wdrb.com/story/37062873/rep-dan-johnson-commits-suicide-on-bridge-in-mt-washington"
     ],
     "tags": [
-      "party official",
-      "republican"
+      "state legislator",
+      "republican",
+      "kentucky"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 127,
@@ -641,22 +682,23 @@
   },
   {
     "id": 135,
-    "name": "Idaho GOP state rep Brandon Hixon - child molestation,",
+    "name": "Brandon Hixon",
     "position": [
-      "party official"
+      "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "child sexual abuse"
     ],
-    "description": "Idaho GOP state rep Brandon Hixon - child molestation, committed suicide",
+    "description": "Brandon Hixon was a 36-year-old Republican state legislator in Idaho, elected to the House of Representatives in 2012. He was among the youngest lawmakers elected to the Idaho Legislature. On January 9, 2018, while under investigation for possible sexual abuse, Hixon died by suicide—a self-inflicted gunshot wound to the head in his Caldwell home. He resigned from the legislature in October 2017 when the allegations surfaced. According to documents released by the Idaho Attorney General's Office, Hixon was accused of sexually abusing two young girls. His ex-wife told police that Hixon had raped and inappropriately touched one alleged victim for approximately 11 years. Hixon was never charged with any crime, as he took his own life before the case could be presented to a grand jury. Police reports indicate Hixon had attempted suicide at least three other times in the recent past.",
     "sources": [
       "https://www.nbcnews.com/storyline/sexual-misconduct/idaho-politician-who-resigned-following-sexual-assault-allegations-found-dead-n836211"
     ],
     "tags": [
-      "party official",
-      "republican"
+      "state legislator",
+      "republican",
+      "idaho"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 136,
@@ -929,19 +971,26 @@
   },
   {
     "id": 150,
-    "name": "Alabama RW religious leader - Ralph Lee Aaron - child",
+    "name": "Ralph Lee Aaron",
     "position": [
-      "party official"
+      "religious leader",
+      "pastor"
     ],
-    "crime": [],
-    "description": "Alabama RW religious leader - Ralph Lee Aaron - child",
+    "crime": [
+      "child pornography",
+      "sodomy",
+      "child sexual abuse"
+    ],
+    "description": "Ralph Lee Aaron, 54, was a pastor of Grace Christian Fellowship in Andalusia, Alabama, and previously served as pastor of Victory Baptist Church in the same community. He faced 152 criminal counts including 152 counts of possessing child pornography, three counts of sexual torture, three counts of first-degree sodomy, and eight counts of sexual abuse of children younger than 12 years old. Aaron targeted and sexually abused multiple boys ages 8-12. In 2009, he agreed to consecutive life terms in prison for production of child pornography and first-degree sodomy of multiple child victims under 12 years old. While at his former church in 2005, Aaron was investigated for allegedly making a verbal sexual advance to another youngster, but no charges were filed due to statute of limitations. Aaron was a retired Navy man and had lived in the Andalusia community for about 7 years before his crimes were exposed.",
     "sources": [
       "http://www.wsfa.com/story/11942700/covington-county-pastor-agrees-to-consecutive-life-terms-in-prison/"
     ],
     "tags": [
-      "party official"
+      "religious leader",
+      "pastor",
+      "alabama"
     ],
-    "year": null
+    "year": 2009
   },
   {
     "id": 151,
