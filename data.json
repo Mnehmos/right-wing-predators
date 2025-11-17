@@ -675,58 +675,69 @@
   },
   {
     "id": 33,
-    "name": "politician *Andrew Buhr**",
+    "name": "Andrew Buhr",
     "position": [
-      "party member"
+      "candidate",
+      "party official"
     ],
     "crime": [
+      "sexual abuse",
       "sodomy"
     ],
-    "description": "Republican politician *Andrew Buhr** was charged with two counts of first degree sodomy with a 13-year old boy. Admitted it, but claimed he thought 13 yr was 18. Mistrial.",
+    "description": "Republican politician and Missouri House candidate Andrew Buhr was charged in 2002 with two counts of first-degree sodomy with a 13-year-old boy. He was appointed by President Bush to the Commission on Presidential Scholars in November 2002 but lost the position within a month when the charges were filed. A mistrial was declared in January 2004 after he claimed he thought the boy was older.",
     "sources": [
       "https://news.google.com/newspapers?nid=1908&dat=20040108&id=SNwfAAAAIBAJ&sjid=ZNkEAAAAIBAJ&pg=2505"
     ],
     "tags": [
-      "party member",
+      "candidate",
+      "party official",
       "republican"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 34,
-    "name": "politician Keith Westmoreland",
+    "name": "Keith Westmoreland",
     "position": [
-      "party member"
+      "state legislator",
+      "local official"
     ],
-    "crime": [],
-    "description": "Republican politician Keith Westmoreland was arrested on seven felony counts of lewd and lascivious exhibition to girls under the age of 16. He committed suicide",
+    "crime": [
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "description": "Tennessee state representative and former Sullivan County executive Keith Westmoreland was arrested in 2002 on seven felony counts of lewd and lascivious exhibition to girls under age 16. He exposed his genitals to children at a hotel pool in Sandestin, Florida. He later committed suicide.",
     "sources": [
       "https://www.chattanoogan.com/2002/6/21/23202/Tennessee-Legislator-Commits-Suicide.aspx"
     ],
     "tags": [
-      "party member",
+      "state legislator",
+      "local official",
       "republican"
     ],
     "year": 2002
   },
   {
     "id": 35,
-    "name": "anti-abortion activ",
+    "name": "John Allen Burt",
     "position": [
       "activist",
-      "party member"
+      "religious leader"
     ],
-    "crime": [],
-    "description": "Republican anti-abortion activist John Allen Burt was charged with sexual misconduct involving a 15-year old girl.",
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "description": "Anti-abortion activist and Christian fundamentalist John Allen Burt was arrested in 2003 for molesting a 15-year-old girl living at his shelter 'Our Father's House.' He was convicted on April 1, 2004, of five counts of lewd and lascivious molestation and conduct. He was sentenced to 18 years in prison and died while serving his sentence in 2013.",
     "sources": [
       "https://en.wikipedia.org/wiki/John_Burt_"
     ],
     "tags": [
       "activist",
-      "party member",
+      "religious leader",
       "republican"
     ],
-    "year": null
+    "year": 2003
   },
   {
     "id": 36,

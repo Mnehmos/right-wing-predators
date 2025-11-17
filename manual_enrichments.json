@@ -150,5 +150,32 @@
     "position": ["local official", "state legislator"],
     "crime": ["sexual abuse", "child molestation"],
     "tags": ["local official", "state legislator", "republican"]
+  },
+  {
+    "id": 33,
+    "name": "Andrew Buhr",
+    "year": 2002,
+    "description": "Republican politician and Missouri House candidate Andrew Buhr was charged in 2002 with two counts of first-degree sodomy with a 13-year-old boy. He was appointed by President Bush to the Commission on Presidential Scholars in November 2002 but lost the position within a month when the charges were filed. A mistrial was declared in January 2004 after he claimed he thought the boy was older.",
+    "position": ["candidate", "party official"],
+    "crime": ["sexual abuse", "sodomy"],
+    "tags": ["candidate", "party official", "republican"]
+  },
+  {
+    "id": 34,
+    "name": "Keith Westmoreland",
+    "year": 2002,
+    "description": "Tennessee state representative and former Sullivan County executive Keith Westmoreland was arrested in 2002 on seven felony counts of lewd and lascivious exhibition to girls under age 16. He exposed his genitals to children at a hotel pool in Sandestin, Florida. He later committed suicide.",
+    "position": ["state legislator", "local official"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["state legislator", "local official", "republican"]
+  },
+  {
+    "id": 35,
+    "name": "John Allen Burt",
+    "year": 2003,
+    "description": "Anti-abortion activist and Christian fundamentalist John Allen Burt was arrested in 2003 for molesting a 15-year-old girl living at his shelter 'Our Father's House.' He was convicted on April 1, 2004, of five counts of lewd and lascivious molestation and conduct. He was sentenced to 18 years in prison and died while serving his sentence in 2013.",
+    "position": ["activist", "religious leader"],
+    "crime": ["sexual abuse", "child molestation"],
+    "tags": ["activist", "religious leader", "republican"]
   }
 ]
