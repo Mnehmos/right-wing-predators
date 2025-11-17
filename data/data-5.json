@@ -1,138 +1,5 @@
 [
   {
-    "id": 394,
-    "name": "AZ GOP Rules Committee Chair Rep. Anthony Kern - for",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "AZ GOP Rules Committee Chair Rep. Anthony Kern - for protecting sexual predators, preventing testimony from child sex abuse survivors",
-    "sources": [
-      "https://www.phoenixnewtimes.com/news/republicans-block-survivor-testimony-on-arizona-child-sex-abuse-bill-11298548",
-      "https://www.azfamily.com/news/politics/arizona_politics/gop-kills-measure-that-gives-childhood-sex-abuse-victims-more/article_bf64d53c-5741-11e9-987d-f33ae73c5d22.html"
-    ],
-    "tags": [
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 395,
-    "name": "Anti-gay bigot B",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "Anti-gay bigot Bishop Thomas Tobin knew about children being raped but didn’t tell anyone because his job was accounting - ignoring his duty of care.",
-    "sources": [
-      "https://turnto10.com/news/local/bishop-tobin-says-he-was-aware-of-abuse-in-pennsylvania-but-didnt-report-it",
-      "https://www.catholicnewsagency.com/news/43567/after-priest-says-pedophilia-doesnt-kill-anyone-bishop-tobin-responds"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 396,
-    "name": "Shawn Brooks, Trump social media super fan behind",
-    "position": [],
-    "crime": [
-      "domestic violence",
-      "violence"
-    ],
-    "description": "Shawn Brooks, Trump social media super fan behind doctored Pelosi video - domestic violence",
-    "sources": [
-      "https://www.thedailybeast.com/we-found-shawn-brooks-the-guy-behind-the-viral-drunk-pelosi-video"
-    ],
-    "tags": [
-      "maga"
-    ],
-    "year": null
-  },
-  {
-    "id": 397,
-    "name": "George Nader, lia",
-    "position": [],
-    "crime": [
-      "child pornography"
-    ],
-    "description": "George Nader, liaison to the Trump transition - child pornography",
-    "sources": [
-      "https://www.washingtonpost.com/world/national-security/figure-linked-to-trump-transition-charged-with-transporting-child-pornography/2019/06/03/caee8aca-862a-11e9-98c1-e945ae5db8fb_story.html?noredirect=on&utm_term=.78e676b2817c"
-    ],
-    "tags": [
-      "maga"
-    ],
-    "year": 2019
-  },
-  {
-    "id": 398,
-    "name": "Douglas Perlitz",
-    "position": [
-      "religious leader",
-      "activist"
-    ],
-    "crime": [
-      "child molestation",
-      "sexual abuse"
-    ],
-    "description": "Douglas Perlitz founded a Haitian orphanage called Project Pierre Toussaint with support from the rightwing Order of Malta. He was arrested in 2009 and charged with sexually abusing boys at the orphanage he ran in Cap-Haitien, Haiti. Federal prosecutors alleged he molested as many as 170 boys over several years. Perlitz pleaded guilty in 2010 and was sentenced to nearly 20 years in federal prison.",
-    "sources": [
-      "http://www.cnn.com/2009/CRIME/09/17/us.haiti.sex.abuse.charge/"
-    ],
-    "tags": [
-      "religious leader",
-      "activist",
-      "republican"
-    ],
-    "year": 2009
-  },
-  {
-    "id": 399,
-    "name": "Stephen Bratton",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "child molestation",
-      "sexual abuse"
-    ],
-    "description": "Stephen Bratton was a Texas Baptist minister who advocated charging women who get abortions with murder. He was arrested in 2019 and charged with continuous sexual abuse of a child under 14 years old. The allegations involved multiple incidents of sexual abuse. Bratton had served as pastor at Grace Baptist Church in Texas.",
-    "sources": [
-      "https://thehill.com/homenews/state-watch/448825-former-pastor-in-texas-charged-with-child-sex-abuse"
-    ],
-    "tags": [
-      "religious leader",
-      "republican"
-    ],
-    "year": 2019
-  },
-  {
-    "id": 400,
-    "name": "Valentino DiGiorgio III",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Valentino DiGiorgio III served as chairman of the Pennsylvania Republican Party. He resigned in 2018 after it was revealed he sent an explicit photo to a woman who was running for city council. The incident led to his abrupt departure from party leadership. DiGiorgio had been a prominent figure in Pennsylvania GOP politics.",
-    "sources": [
-      "https://shareblue.com/pennsylvania-val-digiorgio-gop-chair-resign-explicit-photos/"
-    ],
-    "tags": [
-      "party official",
-      "republican"
-    ],
-    "year": 2018
-  },
-  {
     "id": 401,
     "name": "Todd Poole",
     "position": [
@@ -1975,6 +1842,145 @@
     "tags": [
       "local official",
       "republican"
+    ],
+    "year": 2020
+  },
+  {
+    "id": 494,
+    "name": "Matt Gaetz",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual trafficking",
+      "child exploitation"
+    ],
+    "description": "Matt Gaetz is a Florida Republican congressman and Trump loyalist who was investigated by the Department of Justice for sex trafficking and having sexual relations with a minor. Fellow Florida Republican Chris Latvala accused Gaetz of creating a game where state legislators got points for sleeping with aides, interns, lobbyists, and married legislators. A witness confirmed Gaetz was told he had sex with a 17-year-old. The investigation examined whether Gaetz violated federal sex trafficking laws.",
+    "sources": [
+      "https://www.sun-sentinel.com/news/politics/fl-ne-gaetz-latvala-twitter-20200114-hrbeklwtxnbvfnbwvu57nlxvpy-story.htmlGaetz",
+      "https://www.nytimes.com/2021/03/30/us/politics/matt-gaetz-sex-trafficking-investigation.html",
+      "https://www.thedailybeast.com/witness-can-confirm-matt-gaetz-was-told-he-had-sex-with-a-minor?ref=home"
+    ],
+    "tags": [
+      "congress",
+      "republican",
+      "maga"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 495,
+    "name": "Ronny Jackson",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Ronny Jackson was White House physician under Trump who later became a Republican congressman from Texas. Multiple allegations surfaced of sexual harassment, creating a hostile work environment, and inappropriate conduct while serving as White House doctor. A scathing Pentagon Inspector General report in 2021 found he engaged in inappropriate conduct including sexual harassment and drinking on duty. Despite the allegations, he was elected to Congress.",
+    "sources": [
+      "https://www.cnn.com/2018/04/24/politics/ronny-jackson-door-allegations/index.html",
+      "https://www.nbcnews.com/politics/congress/scathing-report-finds-rep-ronny-jackson-engaged-inappropriate-conduct-white-n1259437",
+      "https://www.dodig.mil/reports.html/Article/2522300/report-of-investigation-rear-admiral-lower-half-ronny-lynn-jackson-md-us-navy-r/"
+    ],
+    "tags": [
+      "congress",
+      "republican",
+      "maga"
+    ],
+    "year": 2018
+  },
+  {
+    "id": 496,
+    "name": "Michael Allen Letts",
+    "position": [
+      "candidate"
+    ],
+    "crime": [
+      "rape",
+      "child molestation"
+    ],
+    "description": "Michael Allen Letts was a South Carolina state senate candidate and CEO of a bulletproof vest charity who was charged with rape and incest involving a minor between the ages of 11 and 14, and a minor under 16. The serious felony charges included multiple counts. Letts had positioned himself as a law enforcement supporter while allegedly committing heinous crimes against children.",
+    "sources": [
+      "https://www.cbs17.com/news/south/sc-senate-candidate-bulletproof-vest-charity-ceo-charged-with-incest-rape/"
+    ],
+    "tags": [
+      "candidate",
+      "republican"
+    ],
+    "year": 2020
+  },
+  {
+    "id": 497,
+    "name": "Anthony Moore",
+    "position": [
+      "religious leader",
+      "educator"
+    ],
+    "crime": [
+      "sexual harassment",
+      "child exploitation"
+    ],
+    "description": "Anthony Moore worked at The Village Church, an anti-gay conservative evangelical church, where he was fired for secretly filming his youth pastor in the shower. Despite his disturbing behavior, Cedarville University gave him a second chance and hired him as a professor. When the university learned the full extent of his misconduct and that they had been lied to, they fired Moore and the president apologized.",
+    "sources": [
+      "https://www.christianpost.com/news/cedarville-university-fires-professor-with-history-of-sex-abuse-president-apologizes.html"
+    ],
+    "tags": [
+      "religious leader",
+      "educator",
+      "republican"
+    ],
+    "year": 2020
+  },
+  {
+    "id": 498,
+    "name": "Michael Tonne",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "child molestation",
+      "rape"
+    ],
+    "description": "Michael Tonne was the associate children’s minister at The Village Church and staff at the Children’s Bible Camp. While at the camp, he allegedly raped an eleven-year-old girl. The Village Church was more concerned about protecting its reputation than the little girl. In the end, the prosecution declined to move forward with only the child’s testimony and dismissed the charges Her Evangelical Megachurch Was Her World. Then Her Daughter Said She Was Molested by a Minister.",
+    "sources": [],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 499,
+    "name": "AZ Republican Sen. Eddie Farnsworth has a long h",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "AZ Republican Sen. Eddie Farnsworth has a long history of defending spousal rape.",
+    "sources": [
+      "https://www.azmirror.com/blog/farnsworth-accused-of-trying-to-protect-spousal-rape-not-for-the-first-time/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 500,
+    "name": "Michael Caputo, Trump HHS spokesman abused and",
+    "position": [],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Michael Caputo, Trump HHS spokesman abused and harassed women with crude sexual comments on Twitter",
+    "sources": [
+      "https://www.cnn.com/2020/05/01/politics/michael-caputo-sexist-tweets/"
+    ],
+    "tags": [
+      "maga"
     ],
     "year": 2020
   }

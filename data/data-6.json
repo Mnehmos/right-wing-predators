@@ -1,144 +1,5 @@
 [
   {
-    "id": 494,
-    "name": "Matt Gaetz",
-    "position": [
-      "congress"
-    ],
-    "crime": [
-      "sexual trafficking",
-      "child exploitation"
-    ],
-    "description": "Matt Gaetz is a Florida Republican congressman and Trump loyalist who was investigated by the Department of Justice for sex trafficking and having sexual relations with a minor. Fellow Florida Republican Chris Latvala accused Gaetz of creating a game where state legislators got points for sleeping with aides, interns, lobbyists, and married legislators. A witness confirmed Gaetz was told he had sex with a 17-year-old. The investigation examined whether Gaetz violated federal sex trafficking laws.",
-    "sources": [
-      "https://www.sun-sentinel.com/news/politics/fl-ne-gaetz-latvala-twitter-20200114-hrbeklwtxnbvfnbwvu57nlxvpy-story.htmlGaetz",
-      "https://www.nytimes.com/2021/03/30/us/politics/matt-gaetz-sex-trafficking-investigation.html",
-      "https://www.thedailybeast.com/witness-can-confirm-matt-gaetz-was-told-he-had-sex-with-a-minor?ref=home"
-    ],
-    "tags": [
-      "congress",
-      "republican",
-      "maga"
-    ],
-    "year": 2021
-  },
-  {
-    "id": 495,
-    "name": "Ronny Jackson",
-    "position": [
-      "congress"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Ronny Jackson was White House physician under Trump who later became a Republican congressman from Texas. Multiple allegations surfaced of sexual harassment, creating a hostile work environment, and inappropriate conduct while serving as White House doctor. A scathing Pentagon Inspector General report in 2021 found he engaged in inappropriate conduct including sexual harassment and drinking on duty. Despite the allegations, he was elected to Congress.",
-    "sources": [
-      "https://www.cnn.com/2018/04/24/politics/ronny-jackson-door-allegations/index.html",
-      "https://www.nbcnews.com/politics/congress/scathing-report-finds-rep-ronny-jackson-engaged-inappropriate-conduct-white-n1259437",
-      "https://www.dodig.mil/reports.html/Article/2522300/report-of-investigation-rear-admiral-lower-half-ronny-lynn-jackson-md-us-navy-r/"
-    ],
-    "tags": [
-      "congress",
-      "republican",
-      "maga"
-    ],
-    "year": 2018
-  },
-  {
-    "id": 496,
-    "name": "Michael Allen Letts",
-    "position": [
-      "candidate"
-    ],
-    "crime": [
-      "rape",
-      "child molestation"
-    ],
-    "description": "Michael Allen Letts was a South Carolina state senate candidate and CEO of a bulletproof vest charity who was charged with rape and incest involving a minor between the ages of 11 and 14, and a minor under 16. The serious felony charges included multiple counts. Letts had positioned himself as a law enforcement supporter while allegedly committing heinous crimes against children.",
-    "sources": [
-      "https://www.cbs17.com/news/south/sc-senate-candidate-bulletproof-vest-charity-ceo-charged-with-incest-rape/"
-    ],
-    "tags": [
-      "candidate",
-      "republican"
-    ],
-    "year": 2020
-  },
-  {
-    "id": 497,
-    "name": "Anthony Moore",
-    "position": [
-      "religious leader",
-      "educator"
-    ],
-    "crime": [
-      "sexual harassment",
-      "child exploitation"
-    ],
-    "description": "Anthony Moore worked at The Village Church, an anti-gay conservative evangelical church, where he was fired for secretly filming his youth pastor in the shower. Despite his disturbing behavior, Cedarville University gave him a second chance and hired him as a professor. When the university learned the full extent of his misconduct and that they had been lied to, they fired Moore and the president apologized.",
-    "sources": [
-      "https://www.christianpost.com/news/cedarville-university-fires-professor-with-history-of-sex-abuse-president-apologizes.html"
-    ],
-    "tags": [
-      "religious leader",
-      "educator",
-      "republican"
-    ],
-    "year": 2020
-  },
-  {
-    "id": 498,
-    "name": "Michael Tonne",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "child molestation",
-      "rape"
-    ],
-    "description": "Michael Tonne was the associate children’s minister at The Village Church and staff at the Children’s Bible Camp. While at the camp, he allegedly raped an eleven-year-old girl. The Village Church was more concerned about protecting its reputation than the little girl. In the end, the prosecution declined to move forward with only the child’s testimony and dismissed the charges Her Evangelical Megachurch Was Her World. Then Her Daughter Said She Was Molested by a Minister.",
-    "sources": [],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 499,
-    "name": "AZ Republican Sen. Eddie Farnsworth has a long h",
-    "position": [
-      "party member"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "AZ Republican Sen. Eddie Farnsworth has a long history of defending spousal rape.",
-    "sources": [
-      "https://www.azmirror.com/blog/farnsworth-accused-of-trying-to-protect-spousal-rape-not-for-the-first-time/"
-    ],
-    "tags": [
-      "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 500,
-    "name": "Michael Caputo, Trump HHS spokesman abused and",
-    "position": [],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Michael Caputo, Trump HHS spokesman abused and harassed women with crude sexual comments on Twitter",
-    "sources": [
-      "https://www.cnn.com/2020/05/01/politics/michael-caputo-sexist-tweets/"
-    ],
-    "tags": [
-      "maga"
-    ],
-    "year": 2020
-  },
-  {
     "id": 501,
     "name": "Josh Moore, NH Republican said that if breastfeeding",
     "position": [
@@ -1822,6 +1683,131 @@
     "tags": [
       "party member",
       "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 594,
+    "name": "Chad Perkins, a M",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Chad Perkins, a Missouri Republican state representative, abused his power as a cop to solicit sexual favors from a drunk teenager when she was in his custody.",
+    "sources": [
+      "https://www.stltoday.com/news/local/crime-and-courts/report-alleges-missouri-lawmaker-had-sex-with-teen-when-he-was-a-cop/article_ef1ad1be-704d-5654-a044-c9e6eed7d7ac.html"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 595,
+    "name": "Insurrection",
+    "position": [],
+    "crime": [
+      "assault",
+      "sexual assault",
+      "violence"
+    ],
+    "description": "Insurrectionist Ryan Samsel Has a history Of violenceand sexual assault",
+    "sources": [
+      "https://www.thedailybeast.com/ryan-samsel-rioter-who-gave-capitol-cop-a-concussion-has-horrific-history-of-beating-women?ref=home"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 596,
+    "name": "Athens, TX James Montgomery,",
+    "position": [
+      "candidate",
+      "local official"
+    ],
+    "crime": [],
+    "description": "Athens, TX Mayor James Montgomery, who credited his 2017 victory to being the most conservative candidate, was arrested during a sting operation for online solicitation of a minor",
+    "sources": [
+      "https://tylerpaper.com/news/local/athens-mayor-resigns-after-soliciting-minors-arrest/article_3dc8301a-c4df-11eb-9b0a-13054127faca.html",
+      "https://1073kissfmtexas.com/former-mayor-of-athens-tx-guilty-of-federal-child-obscenity-violations/"
+    ],
+    "tags": [
+      "candidate",
+      "local official"
+    ],
+    "year": 2017
+  },
+  {
+    "id": 597,
+    "name": "Consensual adult sex",
+    "position": [
+      "congress",
+      "party official"
+    ],
+    "crime": [],
+    "description": "Consensual adult sex is not included, but this intern said it was consensual though she “felt pressured into it.” Brian Bosma, long-time GOP Speaker of Indiana House was accused of affair in 1992. The accusation came in 2018",
+    "sources": [
+      "https://nuvo.newsnirvana.com/news/republicans-express-support-for-speaker-brian-bosma-after-recent-allegations/article_9e91cbda-ce34-11e8-8b4d-eff97e5076bc.html"
+    ],
+    "tags": [
+      "congress",
+      "party official",
+      "republican"
+    ],
+    "year": 1992
+  },
+  {
+    "id": 598,
+    "name": "Rep Rocky Miller of Illino",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Rep Rocky Miller of Illinois was ordered to attend sexual harassment training after making up false allegations of an affair about a state House employee.",
+    "sources": [
+      "https://www.newstribune.com/news/missouri/story/2019/apr/05/report-says-missouri-rep-rocky-miller-created-false-affair-rumor/773008/"
+    ],
+    "tags": [
+      "congress"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 599,
+    "name": "WV state Rep. Danny Hamrick’s consensual affair",
+    "position": [],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "WV state Rep. Danny Hamrick’s consensual affair is included because it was with a legislative intern, a clear violation of sexual harassment policies and good ethics. It makes consensual iffy",
+    "sources": [
+      "https://wvmetronews.com/2019/05/01/hamricks-relationship-with-female-staff-intern-triggered-resignation/"
+    ],
+    "tags": [],
+    "year": 2019
+  },
+  {
+    "id": 600,
+    "name": "Insurrection",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Insurrectionist Sean McHugh, who on ⅙ accused Capitol Police of protecting pedophiles, was convicted of raping a 14-year-old girl. 240 days in jail? SMH",
+    "sources": [
+      "https://news.yahoo.com/accused-capitol-rioter-yelled-police-"
+    ],
+    "tags": [
+      "law enforcement"
     ],
     "year": null
   }

@@ -1,122 +1,5 @@
 [
   {
-    "id": 994,
-    "name": "Thomas Gilman Hartman, founding",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "Thomas Gilman Hartman, founding pastor of Wings of Peace NW, in Arkansas, used his position to manipulate a man into sex out of fear of bond being revoked, Arrested for sexual assault third degree",
-    "sources": [
-      "https://www.4029tv.com/amp/article/thomas-gilman-hartman-pastor-accused/42691019"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 995,
-    "name": "Richard E. Jacklin, Kankakee County, Illino",
-    "position": [],
-    "crime": [
-      "assault"
-    ],
-    "description": "Richard E. Jacklin, Kankakee County, Illinois - was sentenced to 18 years for sexually assaulting a Shapiro Developmental Center resident in 2017.",
-    "sources": [
-      "https://www.daily-journal.com/news/crime/jacklin-sentenced-to-18-years-in-sexual-assault-conviction/article_7074974a-9db1-11ed-8fff-7fce2c235490.html"
-    ],
-    "tags": [],
-    "year": 2017
-  },
-  {
-    "id": 996,
-    "name": "David Stone, a police office in Virginia has been",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "child exploitation"
-    ],
-    "description": "David Stone, a police office in Virginia has been arrested for 50 counts of possessing child sexual exploitation material",
-    "sources": [
-      "https://www.nbc12.com/2023/01/27/richmond-police-officer-charged-with-possession-child-pornography/"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": 2023
-  },
-  {
-    "id": 997,
-    "name": "Erich A. Bennett, a NJ police officer, used police databases",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Erich A. Bennett, a NJ police officer, used police databases to stalk and harass a woman who ended their relationship in",
-    "sources": [],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 998,
-    "name": "Adam James Maass, an Arkansas doctor",
-    "position": [],
-    "crime": [
-      "assault"
-    ],
-    "description": "Adam James Maass, an Arkansas doctor is accused of sexually assaulting his patients.",
-    "sources": [
-      "https://www.arkansasonline.com/news/2022/jun/09/cave-springs-doctor-arrested-on-sexual-assault/"
-    ],
-    "tags": [],
-    "year": 2022
-  },
-  {
-    "id": 999,
-    "name": "Scott Chr",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "Scott Christner, a youth pastor at Goshen First Baptist Church, was sentenced to 20 years for child molestation.",
-    "sources": [
-      "https://ministrywatch.com/former-indiana-youth-pastor-sentenced-to-20-years-in-prison-for-child-molestation/"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1000,
-    "name": "Tony Ernest Bunton, Statesville NC",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "child exploitation"
-    ],
-    "description": "Tony Ernest Bunton, a Statesville NC pastor, was arrested with 4 counts of child sexual exploitation in August 2021. While out on bail, he was arrested again for 30 counts of child sexual exploitation in October 2021.",
-    "sources": [
-      "https://flipboard.com/topic/metrolina/statesville-pastor-arrested-for-second-time-on-child-pornography-charges/f-2c7423a574%2Fstatesville.com"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": 2021
-  },
-  {
     "id": 1001,
     "name": "Joshua Grover of Rockford, IL,",
     "position": [],
@@ -1744,5 +1627,133 @@
       "party official"
     ],
     "year": 2023
+  },
+  {
+    "id": 1094,
+    "name": "Faith Academy in Mobile, AL, will not allow a student to",
+    "position": [
+      "coach"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Faith Academy in Mobile, AL, will not allow a student to play softball without signing a “hold harmless” waiver after that student was sexually abused by soccer coach",
+    "sources": [
+      "https://1819news.com/news/item/faith-academy-accused-of-"
+    ],
+    "tags": [
+      "coach"
+    ],
+    "year": null
+  },
+  {
+    "id": 1095,
+    "name": "Maryville Apostolic Church not only did not report sexual",
+    "position": [],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Maryville Apostolic Church not only did not report sexual abuse of children, they told families not to report it. They encouraged young girls to date older men.",
+    "sources": [
+      "https://www.knoxnews.com/story/news/local/2023/05/30/maryville-apostolic-church-did-not-tell-police-about-teens-sex-abuse-allegations/69994111007/"
+    ],
+    "tags": [],
+    "year": 2023
+  },
+  {
+    "id": 1096,
+    "name": "Mel Gibson, actor/activ",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Mel Gibson, actor/activist, pleaded no contest to domestic violence. Conviction vacated after he completed three years probation, took classes.",
+    "sources": [
+      "https://www.latimes.com/local/la-xpm-2011-mar-12-la-me-mel-gibson-20110312-story.html"
+    ],
+    "tags": [
+      "activist"
+    ],
+    "year": 2011
+  },
+  {
+    "id": 1097,
+    "name": "Brian Hawkins, San",
+    "position": [
+      "local official"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "description": "Brian Hawkins, San Jacinto City councilmember, was arrested on suspicion of assaulting two children.",
+    "sources": [
+      "https://www.riversidesheriff.org/CivicAlerts.aspx?aid=4634&utm_source=dlvr.it&utm_medium=twitter",
+      "https://www.pressenterprise.com/2023/07/03/brian-hawkins-san-jacinto-city-councilmember-arrested-in-assault-case/"
+    ],
+    "tags": [
+      "local official"
+    ],
+    "year": 2023
+  },
+  {
+    "id": 1098,
+    "name": "Bradley Putnam, Freedom Fellowship",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Bradley Putnam, pastor at Freedom Fellowship in Keizer, OR, was sentenced to 27 months for child rape.",
+    "sources": [
+      "https://www.joemygod.com/2022/11/or-pastor-sentenced-to-27-years-for-child-rape/"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": 2022
+  },
+  {
+    "id": 1099,
+    "name": "Daniel Savala, former",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Daniel Savala, former youth pastor in Ketchikan Alaska where he was convicted for the sexual abuse of a child has been an itenierent pastor traveling from ministry to ministry. He was arrested in June 2023 for forcing kids to perform sex act in the home of a mentee.",
+    "sources": [
+      "https://www.click2houston.com/news/local/2023/07/03/2-ministers-one-with-ties-to-baylor-university-accused-of-forcing-kids-to-perform-sex-acts-in-sauna-at-houston-home/",
+      "https://ministrywatch.com/leader-of-church-connected-to-chi-alpha-scandal-charged-with-abusing-minor/",
+      "https://wacotrib.com/news/local/crime-and-courts/more-details-emerge-on-sex-abuse-scandal-that-snared-waco-campus-minister/article_ccea1980-fc2c-11ed-883a-b75931bb0ec1.html"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": 2023
+  },
+  {
+    "id": 1100,
+    "name": "Joseph Charles Golinske - Proud Boy leader",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Joseph Charles Golinske - Proud Boy leader convicted of lewd conduct with a minor in Florida, of sexual assault in Michigan",
+    "sources": [
+      "https://mdocweb.state.mi.us/otis2/otis2profile.aspx?mdocNumber=734776",
+      "https://twitter.com/SOSCSAorg/status/1674430678241538049?s=20"
+    ],
+    "tags": [
+      "party official"
+    ],
+    "year": null
   }
 ]

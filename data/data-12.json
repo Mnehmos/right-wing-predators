@@ -1,133 +1,5 @@
 [
   {
-    "id": 1094,
-    "name": "Faith Academy in Mobile, AL, will not allow a student to",
-    "position": [
-      "coach"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Faith Academy in Mobile, AL, will not allow a student to play softball without signing a “hold harmless” waiver after that student was sexually abused by soccer coach",
-    "sources": [
-      "https://1819news.com/news/item/faith-academy-accused-of-"
-    ],
-    "tags": [
-      "coach"
-    ],
-    "year": null
-  },
-  {
-    "id": 1095,
-    "name": "Maryville Apostolic Church not only did not report sexual",
-    "position": [],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Maryville Apostolic Church not only did not report sexual abuse of children, they told families not to report it. They encouraged young girls to date older men.",
-    "sources": [
-      "https://www.knoxnews.com/story/news/local/2023/05/30/maryville-apostolic-church-did-not-tell-police-about-teens-sex-abuse-allegations/69994111007/"
-    ],
-    "tags": [],
-    "year": 2023
-  },
-  {
-    "id": 1096,
-    "name": "Mel Gibson, actor/activ",
-    "position": [
-      "activist"
-    ],
-    "crime": [
-      "domestic violence",
-      "violence"
-    ],
-    "description": "Mel Gibson, actor/activist, pleaded no contest to domestic violence. Conviction vacated after he completed three years probation, took classes.",
-    "sources": [
-      "https://www.latimes.com/local/la-xpm-2011-mar-12-la-me-mel-gibson-20110312-story.html"
-    ],
-    "tags": [
-      "activist"
-    ],
-    "year": 2011
-  },
-  {
-    "id": 1097,
-    "name": "Brian Hawkins, San",
-    "position": [
-      "local official"
-    ],
-    "crime": [
-      "assault"
-    ],
-    "description": "Brian Hawkins, San Jacinto City councilmember, was arrested on suspicion of assaulting two children.",
-    "sources": [
-      "https://www.riversidesheriff.org/CivicAlerts.aspx?aid=4634&utm_source=dlvr.it&utm_medium=twitter",
-      "https://www.pressenterprise.com/2023/07/03/brian-hawkins-san-jacinto-city-councilmember-arrested-in-assault-case/"
-    ],
-    "tags": [
-      "local official"
-    ],
-    "year": 2023
-  },
-  {
-    "id": 1098,
-    "name": "Bradley Putnam, Freedom Fellowship",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "Bradley Putnam, pastor at Freedom Fellowship in Keizer, OR, was sentenced to 27 months for child rape.",
-    "sources": [
-      "https://www.joemygod.com/2022/11/or-pastor-sentenced-to-27-years-for-child-rape/"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": 2022
-  },
-  {
-    "id": 1099,
-    "name": "Daniel Savala, former",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Daniel Savala, former youth pastor in Ketchikan Alaska where he was convicted for the sexual abuse of a child has been an itenierent pastor traveling from ministry to ministry. He was arrested in June 2023 for forcing kids to perform sex act in the home of a mentee.",
-    "sources": [
-      "https://www.click2houston.com/news/local/2023/07/03/2-ministers-one-with-ties-to-baylor-university-accused-of-forcing-kids-to-perform-sex-acts-in-sauna-at-houston-home/",
-      "https://ministrywatch.com/leader-of-church-connected-to-chi-alpha-scandal-charged-with-abusing-minor/",
-      "https://wacotrib.com/news/local/crime-and-courts/more-details-emerge-on-sex-abuse-scandal-that-snared-waco-campus-minister/article_ccea1980-fc2c-11ed-883a-b75931bb0ec1.html"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": 2023
-  },
-  {
-    "id": 1100,
-    "name": "Joseph Charles Golinske - Proud Boy leader",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "Joseph Charles Golinske - Proud Boy leader convicted of lewd conduct with a minor in Florida, of sexual assault in Michigan",
-    "sources": [
-      "https://mdocweb.state.mi.us/otis2/otis2profile.aspx?mdocNumber=734776",
-      "https://twitter.com/SOSCSAorg/status/1674430678241538049?s=20"
-    ],
-    "tags": [
-      "party official"
-    ],
-    "year": null
-  },
-  {
     "id": 1101,
     "name": "Dwight C. John, on governing board of the Chr",
     "position": [],
@@ -1766,5 +1638,144 @@
       "religious leader"
     ],
     "year": 2024
+  },
+  {
+    "id": 1194,
+    "name": "Adolphus “Dick” Pelley, has sat on the Athens City Council",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Adolphus “Dick” Pelley, has sat on the Athens City Council since 2002. He’s also a member of the Republican National Committee. He lost his professional counselors license after a woman complained he made sexual comments and ranted at the woman for not attending church",
+    "sources": [
+      "https://www.timesfreepress.com/news/2023/nov/03/athens-council-members-professional-counseling/",
+      "https://ground.news/article/judge-finds-pelley-irion-actions-fraud-upon-the-court-in-ouster-case",
+      "https://wehco.media.clients.ellingtoncms.com/news/documents/2023/11/03/Pelley-order.pdf"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": 2002
+  },
+  {
+    "id": 1195,
+    "name": "John Justin McCall, Grace River",
+    "position": [
+      "party official",
+      "religious leader"
+    ],
+    "crime": [
+      "child pornography",
+      "sexual abuse"
+    ],
+    "description": "John Justin McCall, pastor/worship leader at Grace River Community Church in Decatur, AL. Soliciting a minor, Child Sexual Abuse Material, failing to register as a sex offender",
+    "sources": [
+      "https://www.waff.com/2023/10/26/former-worship-leader-jailed-again-faces-child-pornography-charges/",
+      "https://www.waff.com/2023/10/12/man-arrested-accused-trying-convince-child-have-sex/"
+    ],
+    "tags": [
+      "party official",
+      "religious leader"
+    ],
+    "year": 2023
+  },
+  {
+    "id": 1196,
+    "name": "Ashley Crouse, New V",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Ashley Crouse, pastor at New Vision Baptist Fellowship Church, in Granite Falls, NC, arrested for possession of child sex abuse material. Bail is $1 milion : X",
+    "sources": [
+      "https://www.wsoctv.com/news/local/caldwell-county-pastor-charged-with-sex-crimes-against-children-deputies-say/2NXRB6VE7RAMJFF4AWMPHIUX4I/"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 1197,
+    "name": "David Scott, the head of Exxon’s shale oil and gas",
+    "position": [],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "David Scott, the head of Exxon’s shale oil and gas business has been arrested and charged with sexual assault in Houston, TX. Charges were dropped in February",
+    "sources": [
+      "https://www.reuters.com/world/us/head-exxons-shale-oil-business-faces-sexual-assault-charge-texas-2023-10-08/",
+      "https://www.thedailybeast.com/exxonmobil-head-of-shale-oil-and-gas-david-scott-arrested-on-sexual-assault-charge",
+      "https://www.reuters.com/legal/charges-dropped-against-former-exxon-executive-2024-02-14/"
+    ],
+    "tags": [],
+    "year": 2024
+  },
+  {
+    "id": 1198,
+    "name": "Tom Garrett, VA GOP",
+    "position": [
+      "congress",
+      "party official"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Tom Garrett, VA GOP Congressman - domestic violence",
+    "sources": [
+      "https://dailyprogress.com/news/local/government-politics/ex-congressman-tom-garrett-accused-of-abuse-in-bitter-divorce-proceedings/article_089acc92-3597-11ee-a6cc-ab651913520c.html"
+    ],
+    "tags": [
+      "congress",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 1199,
+    "name": "Thomas Garrett, a Milwaukie, OR, police officer has been",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "assault",
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Thomas Garrett, a Milwaukie, OR, police officer has been charged with domestic violence, assaulting the mother of his 1 year-old in front of her children",
+    "sources": [
+      "https://www.oregonlive.com/clackamascounty/2010/02/milwaukie_detective_accused_of.html"
+    ],
+    "tags": [
+      "law enforcement"
+    ],
+    "year": 2010
+  },
+  {
+    "id": 1200,
+    "name": "Del. Matt Far",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican Del. Matt Fariss, a member of the VA House since 2012,is charged with hit-and-run and accused of swerving to strike a woman he had been dating with his vehicle. She was injured.",
+    "sources": [
+      "https://wset.com/news/local/hit-and-run-case-involving-delegate-matt-fariss-headed-to-trial-campbell-county-grand-jury-special-prosecutor-roanoke-city-felony-charges-virginia-september-2023"
+    ],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": 2012
   }
 ]

@@ -1,143 +1,5 @@
 [
   {
-    "id": 294,
-    "name": "ME GOP Chr",
-    "position": [
-      "candidate",
-      "congress",
-      "party official"
-    ],
-    "crime": [
-      "assault",
-      "domestic violence",
-      "violence"
-    ],
-    "description": "ME GOP state house candidate Chris Hoy- violating protective order, domestic violence, assault, pled guilty",
-    "sources": [
-      "http://bangordailynews.com/2018/09/12/politics/maine-gop-asks-candidate-to-drop-out-amid-domestic-violence-allegations/"
-    ],
-    "tags": [
-      "candidate",
-      "congress",
-      "party official",
-      "republican"
-    ],
-    "year": 2018
-  },
-  {
-    "id": 295,
-    "name": "Voters - More Republican voters would vote for a",
-    "position": [
-      "candidate",
-      "party member",
-      "party official"
-    ],
-    "crime": [
-      "sexual abuse",
-      "sexual harassment"
-    ],
-    "description": "GOP Voters - More Republican voters would vote for a candidate accused of sexual harassment than would not. They have embraced their role as the party of sexual abuse.",
-    "sources": [
-      "http://theweek.com/speedreads/738999/poll-finds-more-republicans-vote-candidate-accused-sexual-harassment-than-not"
-    ],
-    "tags": [
-      "candidate",
-      "party member",
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 296,
-    "name": "John Boswell, Republican donor-activ",
-    "position": [
-      "activist",
-      "party member"
-    ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "John Boswell, Republican donor-activist - sexual assault. Arrested twice, first time at Trump inauguration, paid a $50",
-    "sources": [
-      "https://www.palmbeachpost.com/news/crime--law/updated-arrested-gop-donor-and-philanthropist-has-alzheimer/3sflk2qt9bg0MIWjMYWvvO/"
-    ],
-    "tags": [
-      "activist",
-      "maga",
-      "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 297,
-    "name": "OK Republican George Faught makes the l",
-    "position": [
-      "party member"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "OK Republican George Faught makes the list for claiming rape and incest are God’s will. Rape culture on steroids. : X",
-    "sources": [
-      "https://madison365.com/oklahoma-lawmaker-defends-anti-abortion-bill-says-rape-incest-will-god/"
-    ],
-    "tags": [
-      "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 298,
-    "name": "State Rep. Rob Brooks - R-WI - rac",
-    "position": [],
-    "crime": [],
-    "description": "State Rep. Rob Brooks - R-WI - racist remarks and sexual",
-    "sources": [
-      "https://www.wisn.com/article/wisconsin-governor-walker-calls-resignation-assembly-leader-brooks-racist-sexist-comments/23475889"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 299,
-    "name": "US Rep Ralph Norman thinks sexual assault",
-    "position": [],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "US Rep Ralph Norman thinks sexual assault is a joke, cracking a joke about it during a debate",
-    "sources": [
-      "https://www.thedailybeast.com/gop-congressman-ralph-norman-makes-sexual-assault-joke-during-debate"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 300,
-    "name": "executive director",
-    "position": [
-      "party member"
-    ],
-    "crime": [
-      "domestic violence",
-      "violence"
-    ],
-    "description": "Former executive director of SC Republican Party Todd Kincannon - domestic violence. He may be mentally ill.",
-    "sources": [
-      "https://www.washingtonpost.com/news/post-nation/wp/2018/08/03/former-state-gop-leader-kills-mothers-dog-claims-hes-the-second-coming-of-christ-police-say/?noredirect=on&utm_term=.a13a104e7146"
-    ],
-    "tags": [
-      "party member",
-      "republican"
-    ],
-    "year": 2018
-  },
-  {
     "id": 301,
     "name": "Benjamin Sparks, NV GOP Consultant, WI GOP",
     "position": [
@@ -1842,5 +1704,138 @@
       "republican"
     ],
     "year": 2015
+  },
+  {
+    "id": 394,
+    "name": "AZ GOP Rules Committee Chair Rep. Anthony Kern - for",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "AZ GOP Rules Committee Chair Rep. Anthony Kern - for protecting sexual predators, preventing testimony from child sex abuse survivors",
+    "sources": [
+      "https://www.phoenixnewtimes.com/news/republicans-block-survivor-testimony-on-arizona-child-sex-abuse-bill-11298548",
+      "https://www.azfamily.com/news/politics/arizona_politics/gop-kills-measure-that-gives-childhood-sex-abuse-victims-more/article_bf64d53c-5741-11e9-987d-f33ae73c5d22.html"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 395,
+    "name": "Anti-gay bigot B",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Anti-gay bigot Bishop Thomas Tobin knew about children being raped but didn’t tell anyone because his job was accounting - ignoring his duty of care.",
+    "sources": [
+      "https://turnto10.com/news/local/bishop-tobin-says-he-was-aware-of-abuse-in-pennsylvania-but-didnt-report-it",
+      "https://www.catholicnewsagency.com/news/43567/after-priest-says-pedophilia-doesnt-kill-anyone-bishop-tobin-responds"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 396,
+    "name": "Shawn Brooks, Trump social media super fan behind",
+    "position": [],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Shawn Brooks, Trump social media super fan behind doctored Pelosi video - domestic violence",
+    "sources": [
+      "https://www.thedailybeast.com/we-found-shawn-brooks-the-guy-behind-the-viral-drunk-pelosi-video"
+    ],
+    "tags": [
+      "maga"
+    ],
+    "year": null
+  },
+  {
+    "id": 397,
+    "name": "George Nader, lia",
+    "position": [],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "George Nader, liaison to the Trump transition - child pornography",
+    "sources": [
+      "https://www.washingtonpost.com/world/national-security/figure-linked-to-trump-transition-charged-with-transporting-child-pornography/2019/06/03/caee8aca-862a-11e9-98c1-e945ae5db8fb_story.html?noredirect=on&utm_term=.78e676b2817c"
+    ],
+    "tags": [
+      "maga"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 398,
+    "name": "Douglas Perlitz",
+    "position": [
+      "religious leader",
+      "activist"
+    ],
+    "crime": [
+      "child molestation",
+      "sexual abuse"
+    ],
+    "description": "Douglas Perlitz founded a Haitian orphanage called Project Pierre Toussaint with support from the rightwing Order of Malta. He was arrested in 2009 and charged with sexually abusing boys at the orphanage he ran in Cap-Haitien, Haiti. Federal prosecutors alleged he molested as many as 170 boys over several years. Perlitz pleaded guilty in 2010 and was sentenced to nearly 20 years in federal prison.",
+    "sources": [
+      "http://www.cnn.com/2009/CRIME/09/17/us.haiti.sex.abuse.charge/"
+    ],
+    "tags": [
+      "religious leader",
+      "activist",
+      "republican"
+    ],
+    "year": 2009
+  },
+  {
+    "id": 399,
+    "name": "Stephen Bratton",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "child molestation",
+      "sexual abuse"
+    ],
+    "description": "Stephen Bratton was a Texas Baptist minister who advocated charging women who get abortions with murder. He was arrested in 2019 and charged with continuous sexual abuse of a child under 14 years old. The allegations involved multiple incidents of sexual abuse. Bratton had served as pastor at Grace Baptist Church in Texas.",
+    "sources": [
+      "https://thehill.com/homenews/state-watch/448825-former-pastor-in-texas-charged-with-child-sex-abuse"
+    ],
+    "tags": [
+      "religious leader",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 400,
+    "name": "Valentino DiGiorgio III",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Valentino DiGiorgio III served as chairman of the Pennsylvania Republican Party. He resigned in 2018 after it was revealed he sent an explicit photo to a woman who was running for city council. The incident led to his abrupt departure from party leadership. DiGiorgio had been a prominent figure in Pennsylvania GOP politics.",
+    "sources": [
+      "https://shareblue.com/pennsylvania-val-digiorgio-gop-chair-resign-explicit-photos/"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": 2018
   }
 ]

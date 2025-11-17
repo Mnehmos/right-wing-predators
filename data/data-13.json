@@ -1,144 +1,5 @@
 [
   {
-    "id": 1194,
-    "name": "Adolphus “Dick” Pelley, has sat on the Athens City Council",
-    "position": [
-      "local official",
-      "party member"
-    ],
-    "crime": [],
-    "description": "Adolphus “Dick” Pelley, has sat on the Athens City Council since 2002. He’s also a member of the Republican National Committee. He lost his professional counselors license after a woman complained he made sexual comments and ranted at the woman for not attending church",
-    "sources": [
-      "https://www.timesfreepress.com/news/2023/nov/03/athens-council-members-professional-counseling/",
-      "https://ground.news/article/judge-finds-pelley-irion-actions-fraud-upon-the-court-in-ouster-case",
-      "https://wehco.media.clients.ellingtoncms.com/news/documents/2023/11/03/Pelley-order.pdf"
-    ],
-    "tags": [
-      "local official",
-      "party member",
-      "republican"
-    ],
-    "year": 2002
-  },
-  {
-    "id": 1195,
-    "name": "John Justin McCall, Grace River",
-    "position": [
-      "party official",
-      "religious leader"
-    ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "John Justin McCall, pastor/worship leader at Grace River Community Church in Decatur, AL. Soliciting a minor, Child Sexual Abuse Material, failing to register as a sex offender",
-    "sources": [
-      "https://www.waff.com/2023/10/26/former-worship-leader-jailed-again-faces-child-pornography-charges/",
-      "https://www.waff.com/2023/10/12/man-arrested-accused-trying-convince-child-have-sex/"
-    ],
-    "tags": [
-      "party official",
-      "religious leader"
-    ],
-    "year": 2023
-  },
-  {
-    "id": 1196,
-    "name": "Ashley Crouse, New V",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Ashley Crouse, pastor at New Vision Baptist Fellowship Church, in Granite Falls, NC, arrested for possession of child sex abuse material. Bail is $1 milion : X",
-    "sources": [
-      "https://www.wsoctv.com/news/local/caldwell-county-pastor-charged-with-sex-crimes-against-children-deputies-say/2NXRB6VE7RAMJFF4AWMPHIUX4I/"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1197,
-    "name": "David Scott, the head of Exxon’s shale oil and gas",
-    "position": [],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "David Scott, the head of Exxon’s shale oil and gas business has been arrested and charged with sexual assault in Houston, TX. Charges were dropped in February",
-    "sources": [
-      "https://www.reuters.com/world/us/head-exxons-shale-oil-business-faces-sexual-assault-charge-texas-2023-10-08/",
-      "https://www.thedailybeast.com/exxonmobil-head-of-shale-oil-and-gas-david-scott-arrested-on-sexual-assault-charge",
-      "https://www.reuters.com/legal/charges-dropped-against-former-exxon-executive-2024-02-14/"
-    ],
-    "tags": [],
-    "year": 2024
-  },
-  {
-    "id": 1198,
-    "name": "Tom Garrett, VA GOP",
-    "position": [
-      "congress",
-      "party official"
-    ],
-    "crime": [
-      "domestic violence",
-      "violence"
-    ],
-    "description": "Tom Garrett, VA GOP Congressman - domestic violence",
-    "sources": [
-      "https://dailyprogress.com/news/local/government-politics/ex-congressman-tom-garrett-accused-of-abuse-in-bitter-divorce-proceedings/article_089acc92-3597-11ee-a6cc-ab651913520c.html"
-    ],
-    "tags": [
-      "congress",
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1199,
-    "name": "Thomas Garrett, a Milwaukie, OR, police officer has been",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "assault",
-      "domestic violence",
-      "violence"
-    ],
-    "description": "Thomas Garrett, a Milwaukie, OR, police officer has been charged with domestic violence, assaulting the mother of his 1 year-old in front of her children",
-    "sources": [
-      "https://www.oregonlive.com/clackamascounty/2010/02/milwaukie_detective_accused_of.html"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": 2010
-  },
-  {
-    "id": 1200,
-    "name": "Del. Matt Far",
-    "position": [
-      "congress",
-      "party member"
-    ],
-    "crime": [],
-    "description": "Republican Del. Matt Fariss, a member of the VA House since 2012,is charged with hit-and-run and accused of swerving to strike a woman he had been dating with his vehicle. She was injured.",
-    "sources": [
-      "https://wset.com/news/local/hit-and-run-case-involving-delegate-matt-fariss-headed-to-trial-campbell-county-grand-jury-special-prosecutor-roanoke-city-felony-charges-virginia-september-2023"
-    ],
-    "tags": [
-      "congress",
-      "party member",
-      "republican"
-    ],
-    "year": 2012
-  },
-  {
     "id": 1201,
     "name": "Brad Benson, GOP Granbury, TX, City Council",
     "position": [
@@ -1811,6 +1672,114 @@
     "description": "Zack Scrivner, Kern County Supervisor (CA) and Kevin McCarthy protege, is being investigated for sexual assault of his daughter after one of his other children stabbed him in the chest to defend her.",
     "sources": [
       "https://lamag.com/news/kevin-mccarthy-protege-under-investigation-sexually-assaulting-daughter"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 1294,
+    "name": "NH State Rep. Jess Edwards fought to retain child",
+    "position": [],
+    "crime": [],
+    "description": "NH State Rep. Jess Edwards fought to retain child marriage, thinking if they were of “ripe and fertile age” they should be able to be married.",
+    "sources": [
+      "https://newhampshirebulletin.com/2024/05/02/house-passes-bill-to-raise-minimum-marriage-age-to-18-sending-it-to-governor/"
+    ],
+    "tags": [],
+    "year": 2024
+  },
+  {
+    "id": 1295,
+    "name": "David Love, Kentucky retired police officer and member of",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "David Love, Kentucky retired police officer and member of Patriots Guard Riders was arrested, charged with raping 13- year-old",
+    "sources": [
+      "https://www.thenewsenterprise.com/news/crime_and_courts/former-rpd-officer-facing-rape-sodomy-charges-dies/article_da767800-1aec-5b67-a7dc-d1427ea2d361.html"
+    ],
+    "tags": [
+      "law enforcement"
+    ],
+    "year": null
+  },
+  {
+    "id": 1296,
+    "name": "Bill Halle, Butler school board member and founder of the",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Bill Halle, Butler school board member and founder of the Patriot Party, a PA GOP extremist offshoot, charged with grooming, sexual assault, corruption of minor",
+    "sources": [
+      "https://www.wpxi.com/news/local/new-charges-filed-against-former-butler-school-board-member-accused-sexual-relationship-with-teen/HYLZOY3CJZD2RCSC5F6ZI55V5A/"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 1297,
+    "name": "Seth Waxman, Mason, MI VP of Planning Comm",
+    "position": [],
+    "crime": [
+      "prostitution"
+    ],
+    "description": "Seth Waxman, Mason, MI VP of Planning Commission, arrested for soliciting a minor. : X",
+    "sources": [
+      "https://www.lansingstatejournal.com/story/news/2024/05/08/seth-waxman-arrest-mason-predator-catchers-inc-child-solicitation/73612707007/"
+    ],
+    "tags": [],
+    "year": 2024
+  },
+  {
+    "id": 1298,
+    "name": "Victor Franklin, Wysox Township Superv",
+    "position": [],
+    "crime": [
+      "child pornography",
+      "sexual abuse"
+    ],
+    "description": "Victor Franklin, Wysox Township Supervisor, (Pennsylvania) charged with possession of Child Sexual Abuse Material",
+    "sources": [
+      "https://www.rocket-courier.com/articles/wysox-supervisor-faces-child-pornography-charges/"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 1299,
+    "name": "Jerry Dan Heflin, a Deacon at Unity Bapt",
+    "position": [],
+    "crime": [
+      "child molestation",
+      "sodomy"
+    ],
+    "description": "Jerry Dan Heflin, a Deacon at Unity Baptist Church - a far- right conservative church, in Sylvester, Georgia, was charged with 66 felony counts, including child molestation, aggravated sodomy and incest. : X",
+    "sources": [
+      "https://www.albanyherald.com/news/sylvester-shaken-by-arrest-of-church-deacon-on-child-molestation-incest-charges/article_e80e59cc-0e39-11ef-be32-8bdc79ac2b54.html"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 1300,
+    "name": "Retired Air Force General Mike McClendon (TX) has been",
+    "position": [],
+    "crime": [
+      "rape"
+    ],
+    "description": "Retired Air Force General Mike McClendon (TX) has been charged with the continuous rape of a child under 14.",
+    "sources": [
+      "https://www.yahoo.com/news/former-us-air-force-general-"
     ],
     "tags": [],
     "year": null

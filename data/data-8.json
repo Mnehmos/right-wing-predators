@@ -1,136 +1,5 @@
 [
   {
-    "id": 694,
-    "name": "Joe Dan Dwyer",
-    "position": [
-      "local official"
-    ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "Mayor Joe Dan Dwyer of Reeds Spring, MO, was convicted of criminal sexual assault for having a “relationship” with a 15-year-old child. Also convicted of obstruction of justice and trying to influence witnesses.",
-    "sources": [
-      "https://www.missourinet.com/2000/04/13/former-reeds-spring-mayor-ordered-to-prison/"
-    ],
-    "tags": [
-      "local official"
-    ],
-    "year": 2000
-  },
-  {
-    "id": 695,
-    "name": "Virgil Hebert",
-    "position": [
-      "local official"
-    ],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "Mayor Virgil Hebert of Wilmot, OH pleaded guilty to gross sexual imposition and sexual battery for molesting a 15-year- old boy. He was fined $5000 and sentenced from four to ten years in prison.",
-    "sources": [],
-    "tags": [
-      "local official"
-    ],
-    "year": null
-  },
-  {
-    "id": 696,
-    "name": "Byron Campbell",
-    "position": [
-      "local official",
-      "party member"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Former Mayor Byron Campbell of Concord, CA, a “conservative Republican businessman” lost a 1.4 million sexual harassment/retaliation lawsuit.",
-    "sources": [
-      "https://www.sfgate.com/news/article/1-3-Million-Sex-Harass-Case-Award-Concord-2985999.php"
-    ],
-    "tags": [
-      "local official",
-      "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 697,
-    "name": "Fran Coombs, editor of",
-    "position": [],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Fran Coombs, editor of Washington Times, has sexually harassed so many women it’s an open secret in Washington, DC.",
-    "sources": [
-      "https://www.huffpost.com/entry/resign-mr-editor_b_30894"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 698,
-    "name": "Jim Maloof",
-    "position": [
-      "local official",
-      "party member"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Republican Mayor Jim Maloof of Peoria, IL, and the City of Peoria settled a sexual harassment suit -",
-    "sources": [
-      "https://www.chicagotribune.com/news/ct-xpm-1997-05-28-9705280271-story.html"
-    ],
-    "tags": [
-      "local official",
-      "party member",
-      "republican"
-    ],
-    "year": 1997
-  },
-  {
-    "id": 699,
-    "name": "Bernie Alimenti, Republican",
-    "position": [
-      "local official",
-      "party member",
-      "party official"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Bernie Alimenti, Republican Councilman in Fort Meyers, pleaded no contest to offering influence in exchange for sex. This is after it was also revealed he had been fired from the lottery for sexual harassment. When the Clemency Board refused to restore his voting rights, he threatened to leave the GOP and become independent.",
-    "sources": [
-      "https://www.tampabay.com/archive/1996/04/07/city-council-member-arrested-on-sex-charge/",
-      "https://infoweb-newsbank-com.proxy2.multcolib.org/iw-search/we/InfoWeb?p_action=doc&p_docid=10A77A6C61E3CA96&p_docnum=1&p_nbid=B75V58MWMTY0MzU5MDkyNzYzNToxOjE0OjIwN"
-    ],
-    "tags": [
-      "local official",
-      "party member",
-      "party official",
-      "republican"
-    ],
-    "year": 1996
-  },
-  {
-    "id": 700,
-    "name": "Michigan Garrett Soldano",
-    "position": [
-      "candidate"
-    ],
-    "crime": [],
-    "description": "Michigan gubernatorial candidate Garrett Soldano thinks women impregnated by a rapist should be inspired that “god put them in this moment.”",
-    "sources": [
-      "https://talkingpointsmemo.com/morning-memo/gop-candidate-argues-pregnant-rape-survivors-should-be-inspired-by-situation-god-put-them-in"
-    ],
-    "tags": [
-      "candidate"
-    ],
-    "year": null
-  },
-  {
     "id": 701,
     "name": "Kr",
     "position": [
@@ -1910,6 +1779,149 @@
     ],
     "tags": [
       "state legislator"
+    ],
+    "year": 2022
+  },
+  {
+    "id": 794,
+    "name": "Phillip Gunn, Speaked of the House in M",
+    "position": [
+      "congress",
+      "religious leader"
+    ],
+    "crime": [
+      "child molestation",
+      "rape"
+    ],
+    "description": "Phillip Gunn, Speaked of the House in Mississippi, says 12- year-olds raped by their fathers must be forced to bear those children. What about when they are raped by their pastor? Gunn is accused of helping to cover up the sexual molestation of young boys by a former music minister, James Langworthy.",
+    "sources": [
+      "https://mississippitoday.org/2022/05/24/philip-gunn-southern-baptist-convention-scandal/"
+    ],
+    "tags": [
+      "congress",
+      "religious leader"
+    ],
+    "year": 2022
+  },
+  {
+    "id": 795,
+    "name": "Michigan Republican",
+    "position": [
+      "candidate",
+      "governor",
+      "party member"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Michigan Republican primary candidate for governor, Kevin Rinke, was sued for discrimination and sexual harassment by several employees at his auto dealership. Standard harassment fare, though saying he had “golden genitals” does stand out.",
+    "sources": [
+      "https://apnews.com/article/abortion-2022-midterm-elections-covid-entertainment-health-e7dc780b9b5c2edb02ba5af0eff8bd3d?taid=62c75fd2db37ee0001226a08&utm_campaign"
+    ],
+    "tags": [
+      "candidate",
+      "governor",
+      "party member",
+      "republican"
+    ],
+    "year": 2022
+  },
+  {
+    "id": 796,
+    "name": "Richard Fritz, the elected Republican state’s attorney (DA) in",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Richard Fritz, the elected Republican state’s attorney (DA) in St. Mary’s County, Maryland was convicted in a gang rape which he described as doing what comes naturally. Seriously, this guy is a piece of work. Corrupt, incompetent, and still elected despite everyone knowing this.",
+    "sources": [
+      "https://defector.com/meet-richard-fritz-americas-most-unelectable-elected-official/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 797,
+    "name": "Vince McMahon, Trump’s good friend and former WWE",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Vince McMahon, Trump’s good friend and former WWE leader and wife of Linda McMahon (Trump admin SBA head) paid $12 million in sexual harassment/misconduct settlements",
+    "sources": [
+      "https://www.wsj.com/articles/wwes-vince-mcmahon-agreed-to-pay-12-million-in-hush-money-to-four-women-11657289742?mod=djemalertNEWS"
+    ],
+    "tags": [
+      "maga",
+      "party official"
+    ],
+    "year": null
+  },
+  {
+    "id": 798,
+    "name": "Kevin Smith, GOP",
+    "position": [
+      "candidate",
+      "party official"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Kevin Smith, GOP primary candidate for US Senate (NH), was accused of retaliating against a woman who filed a sexual harassment complaint, failing to protect employees. Called subordinate porkchop. Case was settled.",
+    "sources": [
+      "https://www.huffpost.com/entry/kevin-smith-senate-new-hampshire_n_62c850e2e4b02e0ac913a7cc"
+    ],
+    "tags": [
+      "candidate",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 799,
+    "name": "Jonathan Hernandez,",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [],
+    "description": "Jonathan Hernandez, Chairman of the Oklahoma College Republicans was arrested for sex acts with a minor.",
+    "sources": [
+      "https://tulsaworld.com/news/state-and-regional/govt-and-politics/chairman-of-oklahoma-college-republicans-arrested-on-charges-alleging-sex-acts-with-minor/article_e891b9a6-ff23-11ec-87f4-6f313493cb4e.html"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 800,
+    "name": "Joel Sartori, ass",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Joel Sartori, assistant treasurer and custodian of records for NY Republican Carl Paladino’s congressional campaign, was convicted of possessing and promoting child pornography",
+    "sources": [
+      "https://nypost.com/2022/07/13/carl-paladino-has-convicted-pedophile-on-campaign-staff/"
+    ],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
     ],
     "year": 2022
   }

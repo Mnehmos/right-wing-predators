@@ -1,113 +1,5 @@
 [
   {
-    "id": 1294,
-    "name": "NH State Rep. Jess Edwards fought to retain child",
-    "position": [],
-    "crime": [],
-    "description": "NH State Rep. Jess Edwards fought to retain child marriage, thinking if they were of “ripe and fertile age” they should be able to be married.",
-    "sources": [
-      "https://newhampshirebulletin.com/2024/05/02/house-passes-bill-to-raise-minimum-marriage-age-to-18-sending-it-to-governor/"
-    ],
-    "tags": [],
-    "year": 2024
-  },
-  {
-    "id": 1295,
-    "name": "David Love, Kentucky retired police officer and member of",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "David Love, Kentucky retired police officer and member of Patriots Guard Riders was arrested, charged with raping 13- year-old",
-    "sources": [
-      "https://www.thenewsenterprise.com/news/crime_and_courts/former-rpd-officer-facing-rape-sodomy-charges-dies/article_da767800-1aec-5b67-a7dc-d1427ea2d361.html"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1296,
-    "name": "Bill Halle, Butler school board member and founder of the",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "Bill Halle, Butler school board member and founder of the Patriot Party, a PA GOP extremist offshoot, charged with grooming, sexual assault, corruption of minor",
-    "sources": [
-      "https://www.wpxi.com/news/local/new-charges-filed-against-former-butler-school-board-member-accused-sexual-relationship-with-teen/HYLZOY3CJZD2RCSC5F6ZI55V5A/"
-    ],
-    "tags": [
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1297,
-    "name": "Seth Waxman, Mason, MI VP of Planning Comm",
-    "position": [],
-    "crime": [
-      "prostitution"
-    ],
-    "description": "Seth Waxman, Mason, MI VP of Planning Commission, arrested for soliciting a minor. : X",
-    "sources": [
-      "https://www.lansingstatejournal.com/story/news/2024/05/08/seth-waxman-arrest-mason-predator-catchers-inc-child-solicitation/73612707007/"
-    ],
-    "tags": [],
-    "year": 2024
-  },
-  {
-    "id": 1298,
-    "name": "Victor Franklin, Wysox Township Superv",
-    "position": [],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "Victor Franklin, Wysox Township Supervisor, (Pennsylvania) charged with possession of Child Sexual Abuse Material",
-    "sources": [
-      "https://www.rocket-courier.com/articles/wysox-supervisor-faces-child-pornography-charges/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1299,
-    "name": "Jerry Dan Heflin, a Deacon at Unity Bapt",
-    "position": [],
-    "crime": [
-      "child molestation",
-      "sodomy"
-    ],
-    "description": "Jerry Dan Heflin, a Deacon at Unity Baptist Church - a far- right conservative church, in Sylvester, Georgia, was charged with 66 felony counts, including child molestation, aggravated sodomy and incest. : X",
-    "sources": [
-      "https://www.albanyherald.com/news/sylvester-shaken-by-arrest-of-church-deacon-on-child-molestation-incest-charges/article_e80e59cc-0e39-11ef-be32-8bdc79ac2b54.html"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1300,
-    "name": "Retired Air Force General Mike McClendon (TX) has been",
-    "position": [],
-    "crime": [
-      "rape"
-    ],
-    "description": "Retired Air Force General Mike McClendon (TX) has been charged with the continuous rape of a child under 14.",
-    "sources": [
-      "https://www.yahoo.com/news/former-us-air-force-general-"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
     "id": 1301,
     "name": "Chr",
     "position": [
@@ -1819,6 +1711,131 @@
       "judge",
       "party official",
       "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 1394,
+    "name": "Nicholas Hacker, ND State",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [],
+    "description": "Nicholas Hacker, ND State Senator and on state university board, received communications from convicted pedophile colleague Ray Holmberg with detailed descriptions of sexual encounters with underage sex worker in Taiwan. Failed to report Holmberg’s activities though he has not been prosecuted.",
+    "sources": [
+      "https://www.valleynewslive.com/2025/04/27/north-dakota-university-system-responds-recent-reports-regarding-former-sen-ray-holmberg/"
+    ],
+    "tags": [
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 1395,
+    "name": "Nathan Rees, UND professor, received emails from",
+    "position": [
+      "educator"
+    ],
+    "crime": [],
+    "description": "Nathan Rees, UND professor, received emails from pedophile Ray Holmber describing his grooming of a student and made no report even though he is a teacher.",
+    "sources": [
+      "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2431/files/2025/04/holmberg-reports-redacted.pdf"
+    ],
+    "tags": [
+      "educator"
+    ],
+    "year": null
+  },
+  {
+    "id": 1396,
+    "name": "Jovante Teague, newly elected GOP Party vice’chair in",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Jovante Teague, newly elected GOP Party vice’chair in Florida, pleaded guilty to smuggling contraband as a prison guard in a plea deal that let him off the hook for the more serious allegations of pursuing a sexual relationship with a prisoner, an abuse of power.",
+    "sources": [
+      "https://www.miamiherald.com/news/politics-government/state-politics/article305518121.html"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 1397,
+    "name": "Stephen Kamnik, a PA State Police Corporal, has been",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "child pornography",
+      "sexual abuse"
+    ],
+    "description": "Stephen Kamnik, a PA State Police Corporal, has been arrested for creation of child sexual abuse material.using AI, secretly recording women’s locker room of colleagues.",
+    "sources": [
+      "https://meidasnews.com/news/pennsylvania-state-police-corporal-charged-with-ai-generated-child-porn-is-registered-republican"
+    ],
+    "tags": [
+      "law enforcement"
+    ],
+    "year": null
+  },
+  {
+    "id": 1398,
+    "name": "Rodney Creech, Ohio",
+    "position": [
+      "party official",
+      "state legislator"
+    ],
+    "crime": [],
+    "description": "Rodney Creech, Ohio state representative (GOP) was stripped of committee assignments after an investigation found he inappropriately touched a minor family member and crawled into that minor’s bed with an erection. No criminal complaint filed.",
+    "sources": [
+      "https://www.cleveland.com/news/2025/05/republican-representative-sanctioned-by-ohio-house-following-sexual-misconduct-investigation.html"
+    ],
+    "tags": [
+      "party official",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 1399,
+    "name": "Jeremy Franc",
+    "position": [],
+    "crime": [
+      "child pornography",
+      "rape",
+      "sexual abuse"
+    ],
+    "description": "Jeremy Francis Plonski, a MN state trooper, was arrested for production of child sexual abuse material of himself raping an infant.",
+    "sources": [
+      "https://www.justice.gov/usao-mn/pr/minnesota-state-trooper-charged-production-child-pornography",
+      "https://www.mprnews.org/story/2025/05/16/trooper-jeremy-f-plonski-faces-new-counts-in-child-sex-abuse-image-case"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 1400,
+    "name": "David G. McConkie, El Paso County, CO, Deputy D",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "David G. McConkie, El Paso County, CO, Deputy District Atty and Mormon Bishop, was charged with sexual assault of a child. He avoided jail with a plea deal in spite of his confession. : X",
+    "sources": [
+      "https://gazette.com/news/local/former-colorado-springs-deputy-district-attorney-church-leader-accepts-plea-agreement-in-child-sex-assault/article_456eed4d-d06e-488e-8322-f4fa924ebb34.html"
+    ],
+    "tags": [
+      "religious leader"
     ],
     "year": null
   }

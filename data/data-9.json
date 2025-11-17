@@ -1,148 +1,5 @@
 [
   {
-    "id": 794,
-    "name": "Phillip Gunn, Speaked of the House in M",
-    "position": [
-      "congress",
-      "religious leader"
-    ],
-    "crime": [
-      "child molestation",
-      "rape"
-    ],
-    "description": "Phillip Gunn, Speaked of the House in Mississippi, says 12- year-olds raped by their fathers must be forced to bear those children. What about when they are raped by their pastor? Gunn is accused of helping to cover up the sexual molestation of young boys by a former music minister, James Langworthy.",
-    "sources": [
-      "https://mississippitoday.org/2022/05/24/philip-gunn-southern-baptist-convention-scandal/"
-    ],
-    "tags": [
-      "congress",
-      "religious leader"
-    ],
-    "year": 2022
-  },
-  {
-    "id": 795,
-    "name": "Michigan Republican",
-    "position": [
-      "candidate",
-      "governor",
-      "party member"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Michigan Republican primary candidate for governor, Kevin Rinke, was sued for discrimination and sexual harassment by several employees at his auto dealership. Standard harassment fare, though saying he had “golden genitals” does stand out.",
-    "sources": [
-      "https://apnews.com/article/abortion-2022-midterm-elections-covid-entertainment-health-e7dc780b9b5c2edb02ba5af0eff8bd3d?taid=62c75fd2db37ee0001226a08&utm_campaign"
-    ],
-    "tags": [
-      "candidate",
-      "governor",
-      "party member",
-      "republican"
-    ],
-    "year": 2022
-  },
-  {
-    "id": 796,
-    "name": "Richard Fritz, the elected Republican state’s attorney (DA) in",
-    "position": [
-      "party member"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "Richard Fritz, the elected Republican state’s attorney (DA) in St. Mary’s County, Maryland was convicted in a gang rape which he described as doing what comes naturally. Seriously, this guy is a piece of work. Corrupt, incompetent, and still elected despite everyone knowing this.",
-    "sources": [
-      "https://defector.com/meet-richard-fritz-americas-most-unelectable-elected-official/"
-    ],
-    "tags": [
-      "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 797,
-    "name": "Vince McMahon, Trump’s good friend and former WWE",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Vince McMahon, Trump’s good friend and former WWE leader and wife of Linda McMahon (Trump admin SBA head) paid $12 million in sexual harassment/misconduct settlements",
-    "sources": [
-      "https://www.wsj.com/articles/wwes-vince-mcmahon-agreed-to-pay-12-million-in-hush-money-to-four-women-11657289742?mod=djemalertNEWS"
-    ],
-    "tags": [
-      "maga",
-      "party official"
-    ],
-    "year": null
-  },
-  {
-    "id": 798,
-    "name": "Kevin Smith, GOP",
-    "position": [
-      "candidate",
-      "party official"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Kevin Smith, GOP primary candidate for US Senate (NH), was accused of retaliating against a woman who filed a sexual harassment complaint, failing to protect employees. Called subordinate porkchop. Case was settled.",
-    "sources": [
-      "https://www.huffpost.com/entry/kevin-smith-senate-new-hampshire_n_62c850e2e4b02e0ac913a7cc"
-    ],
-    "tags": [
-      "candidate",
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 799,
-    "name": "Jonathan Hernandez,",
-    "position": [
-      "party member",
-      "party official"
-    ],
-    "crime": [],
-    "description": "Jonathan Hernandez, Chairman of the Oklahoma College Republicans was arrested for sex acts with a minor.",
-    "sources": [
-      "https://tulsaworld.com/news/state-and-regional/govt-and-politics/chairman-of-oklahoma-college-republicans-arrested-on-charges-alleging-sex-acts-with-minor/article_e891b9a6-ff23-11ec-87f4-6f313493cb4e.html"
-    ],
-    "tags": [
-      "party member",
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 800,
-    "name": "Joel Sartori, ass",
-    "position": [
-      "congress",
-      "party member"
-    ],
-    "crime": [
-      "child pornography"
-    ],
-    "description": "Joel Sartori, assistant treasurer and custodian of records for NY Republican Carl Paladino’s congressional campaign, was convicted of possessing and promoting child pornography",
-    "sources": [
-      "https://nypost.com/2022/07/13/carl-paladino-has-convicted-pedophile-on-campaign-staff/"
-    ],
-    "tags": [
-      "congress",
-      "party member",
-      "republican"
-    ],
-    "year": 2022
-  },
-  {
     "id": 801,
     "name": "Eric Carlson, Republican",
     "position": [
@@ -1845,5 +1702,121 @@
     ],
     "tags": [],
     "year": 2022
+  },
+  {
+    "id": 894,
+    "name": "Michael Alan Jones, Patriot Front member in NC, sexual",
+    "position": [],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Michael Alan Jones, Patriot Front member in NC, sexual assault of 14 and 15 year old girls. Was a Jan 6 insurrectionist.",
+    "sources": [
+      "https://myfox8.com/news/alamance-county-deputies-charge-man-with-three-counts-of-statutory-sex-offense/",
+      "https://www.rawstory.com/he-stormed-the-capitol-with-the-proud-boys-and-organized-comms-for-patriot-front-but-it-took-a-traffic-stop-to-expose-michael-jones/"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 895,
+    "name": "Jonathan Charles Koch, Iowa white supremac",
+    "position": [],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Jonathan Charles Koch, Iowa white supremacist, child pornography",
+    "sources": [
+      "https://littlevillagemag.com/ped-mall-sticker-man-id/",
+      "https://law.justia.com/cases/federal/appellate-courts/ca8/10-1789/101789p-2011-02-25.html"
+    ],
+    "tags": [],
+    "year": 2011
+  },
+  {
+    "id": 896,
+    "name": "August Kre",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "August Kreis, former leader of Aryan Nations - SC, was sentenced to 50 years for child molestation",
+    "sources": [
+      "https://idavox.com/index.php/2015/11/08/former-aryan-nations-leader-gets-50-years-for-child-molestation/"
+    ],
+    "tags": [
+      "party official"
+    ],
+    "year": 2015
+  },
+  {
+    "id": 897,
+    "name": "Warren Jeffs",
+    "position": [],
+    "crime": [
+      "rape"
+    ],
+    "description": "FLDS (Fundamentalist Church of Jesus Christ of Latter Day Saints) leader Warren Jeffs was convicted in August 2011 of child rape and aggravated sexual assault of a minor for raping a 15-year-old child bride and a 12-year-old child bride. He was sentenced to life in prison plus 20 years. Texas authorities discovered over 700 pieces of evidence including priesthood records and audio tape of sexual assault.",
+    "sources": [
+      "https://abcnews.go.com/US/warren-jeffs-guilty-child-rape/story?id=14228198"
+    ],
+    "tags": [],
+    "year": 2011
+  },
+  {
+    "id": 898,
+    "name": "Michael Scott Langton, Ferndale,",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [],
+    "description": "Michael Scott Langton, Ferndale, WA, police officer (fired), tried to join Oath Keepers AFTER insurrection. Contacted woman he met as a witness on the job and asked her to bring her child for the two of them to have sex with him.",
+    "sources": [
+      "https://www.bellinghamherald.com/news/local/crime/article263979811.html"
+    ],
+    "tags": [
+      "law enforcement"
+    ],
+    "year": null
+  },
+  {
+    "id": 899,
+    "name": "James Comer",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "U.S. Representative James Comer (R-KY) was accused by ex-girlfriend Marilyn Thomas of domestic violence in the 1990s. Thomas claimed Comer hit her, was controlling and abusive, impregnated her, and forced her to get an abortion in November 1991. Comer denied allegations but later admitted to leaking emails to discredit her story.",
+    "sources": [
+      "https://www.tumblr.com/youwantbloodyouvegotit/146593145803/allegation-of-james-comers-domestic-violence-the",
+      "https://www.facebook.com/250986546777/photos/a.298472761777.145340.250986546777/10152793648761778/?type=3&theater"
+    ],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": 1991
+  },
+  {
+    "id": 900,
+    "name": "Nathan Larson",
+    "position": [],
+    "crime": [
+      "kidnapping"
+    ],
+    "description": "Far-right white supremacist and self-described pedophilia advocate Nathan Larson served 14 months in prison in 2008 for threatening the president. He created websites to facilitate sharing of child sexual abuse material and pedophilia advocacy. In 2020, he was arrested for kidnapping a 12-year-old girl. He died in custody in September 2021 while facing federal charges for soliciting child pornography.",
+    "sources": [
+      "https://www.fauquier.com/news/nathan-larson-of-catlett-dies-in-federal-custody/article_8b0abf48-516d-11ed-81f1-97b152df73b4.html"
+    ],
+    "tags": [],
+    "year": 2008
   }
 ]

@@ -1,121 +1,5 @@
 [
   {
-    "id": 894,
-    "name": "Michael Alan Jones, Patriot Front member in NC, sexual",
-    "position": [],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "Michael Alan Jones, Patriot Front member in NC, sexual assault of 14 and 15 year old girls. Was a Jan 6 insurrectionist.",
-    "sources": [
-      "https://myfox8.com/news/alamance-county-deputies-charge-man-with-three-counts-of-statutory-sex-offense/",
-      "https://www.rawstory.com/he-stormed-the-capitol-with-the-proud-boys-and-organized-comms-for-patriot-front-but-it-took-a-traffic-stop-to-expose-michael-jones/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 895,
-    "name": "Jonathan Charles Koch, Iowa white supremac",
-    "position": [],
-    "crime": [
-      "child pornography"
-    ],
-    "description": "Jonathan Charles Koch, Iowa white supremacist, child pornography",
-    "sources": [
-      "https://littlevillagemag.com/ped-mall-sticker-man-id/",
-      "https://law.justia.com/cases/federal/appellate-courts/ca8/10-1789/101789p-2011-02-25.html"
-    ],
-    "tags": [],
-    "year": 2011
-  },
-  {
-    "id": 896,
-    "name": "August Kre",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "August Kreis, former leader of Aryan Nations - SC, was sentenced to 50 years for child molestation",
-    "sources": [
-      "https://idavox.com/index.php/2015/11/08/former-aryan-nations-leader-gets-50-years-for-child-molestation/"
-    ],
-    "tags": [
-      "party official"
-    ],
-    "year": 2015
-  },
-  {
-    "id": 897,
-    "name": "Warren Jeffs",
-    "position": [],
-    "crime": [
-      "rape"
-    ],
-    "description": "FLDS (Fundamentalist Church of Jesus Christ of Latter Day Saints) leader Warren Jeffs was convicted in August 2011 of child rape and aggravated sexual assault of a minor for raping a 15-year-old child bride and a 12-year-old child bride. He was sentenced to life in prison plus 20 years. Texas authorities discovered over 700 pieces of evidence including priesthood records and audio tape of sexual assault.",
-    "sources": [
-      "https://abcnews.go.com/US/warren-jeffs-guilty-child-rape/story?id=14228198"
-    ],
-    "tags": [],
-    "year": 2011
-  },
-  {
-    "id": 898,
-    "name": "Michael Scott Langton, Ferndale,",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [],
-    "description": "Michael Scott Langton, Ferndale, WA, police officer (fired), tried to join Oath Keepers AFTER insurrection. Contacted woman he met as a witness on the job and asked her to bring her child for the two of them to have sex with him.",
-    "sources": [
-      "https://www.bellinghamherald.com/news/local/crime/article263979811.html"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 899,
-    "name": "James Comer",
-    "position": [
-      "congress",
-      "party member"
-    ],
-    "crime": [
-      "domestic violence",
-      "violence"
-    ],
-    "description": "U.S. Representative James Comer (R-KY) was accused by ex-girlfriend Marilyn Thomas of domestic violence in the 1990s. Thomas claimed Comer hit her, was controlling and abusive, impregnated her, and forced her to get an abortion in November 1991. Comer denied allegations but later admitted to leaking emails to discredit her story.",
-    "sources": [
-      "https://www.tumblr.com/youwantbloodyouvegotit/146593145803/allegation-of-james-comers-domestic-violence-the",
-      "https://www.facebook.com/250986546777/photos/a.298472761777.145340.250986546777/10152793648761778/?type=3&theater"
-    ],
-    "tags": [
-      "congress",
-      "party member",
-      "republican"
-    ],
-    "year": 1991
-  },
-  {
-    "id": 900,
-    "name": "Nathan Larson",
-    "position": [],
-    "crime": [
-      "kidnapping"
-    ],
-    "description": "Far-right white supremacist and self-described pedophilia advocate Nathan Larson served 14 months in prison in 2008 for threatening the president. He created websites to facilitate sharing of child sexual abuse material and pedophilia advocacy. In 2020, he was arrested for kidnapping a 12-year-old girl. He died in custody in September 2021 while facing federal charges for soliciting child pornography.",
-    "sources": [
-      "https://www.fauquier.com/news/nathan-larson-of-catlett-dies-in-federal-custody/article_8b0abf48-516d-11ed-81f1-97b152df73b4.html"
-    ],
-    "tags": [],
-    "year": 2008
-  },
-  {
     "id": 901,
     "name": "James Mason",
     "position": [],
@@ -1901,5 +1785,122 @@
     ],
     "tags": [],
     "year": 2023
+  },
+  {
+    "id": 994,
+    "name": "Thomas Gilman Hartman, founding",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Thomas Gilman Hartman, founding pastor of Wings of Peace NW, in Arkansas, used his position to manipulate a man into sex out of fear of bond being revoked, Arrested for sexual assault third degree",
+    "sources": [
+      "https://www.4029tv.com/amp/article/thomas-gilman-hartman-pastor-accused/42691019"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 995,
+    "name": "Richard E. Jacklin, Kankakee County, Illino",
+    "position": [],
+    "crime": [
+      "assault"
+    ],
+    "description": "Richard E. Jacklin, Kankakee County, Illinois - was sentenced to 18 years for sexually assaulting a Shapiro Developmental Center resident in 2017.",
+    "sources": [
+      "https://www.daily-journal.com/news/crime/jacklin-sentenced-to-18-years-in-sexual-assault-conviction/article_7074974a-9db1-11ed-8fff-7fce2c235490.html"
+    ],
+    "tags": [],
+    "year": 2017
+  },
+  {
+    "id": 996,
+    "name": "David Stone, a police office in Virginia has been",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "child exploitation"
+    ],
+    "description": "David Stone, a police office in Virginia has been arrested for 50 counts of possessing child sexual exploitation material",
+    "sources": [
+      "https://www.nbc12.com/2023/01/27/richmond-police-officer-charged-with-possession-child-pornography/"
+    ],
+    "tags": [
+      "law enforcement"
+    ],
+    "year": 2023
+  },
+  {
+    "id": 997,
+    "name": "Erich A. Bennett, a NJ police officer, used police databases",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Erich A. Bennett, a NJ police officer, used police databases to stalk and harass a woman who ended their relationship in",
+    "sources": [],
+    "tags": [
+      "law enforcement"
+    ],
+    "year": null
+  },
+  {
+    "id": 998,
+    "name": "Adam James Maass, an Arkansas doctor",
+    "position": [],
+    "crime": [
+      "assault"
+    ],
+    "description": "Adam James Maass, an Arkansas doctor is accused of sexually assaulting his patients.",
+    "sources": [
+      "https://www.arkansasonline.com/news/2022/jun/09/cave-springs-doctor-arrested-on-sexual-assault/"
+    ],
+    "tags": [],
+    "year": 2022
+  },
+  {
+    "id": 999,
+    "name": "Scott Chr",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Scott Christner, a youth pastor at Goshen First Baptist Church, was sentenced to 20 years for child molestation.",
+    "sources": [
+      "https://ministrywatch.com/former-indiana-youth-pastor-sentenced-to-20-years-in-prison-for-child-molestation/"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 1000,
+    "name": "Tony Ernest Bunton, Statesville NC",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "child exploitation"
+    ],
+    "description": "Tony Ernest Bunton, a Statesville NC pastor, was arrested with 4 counts of child sexual exploitation in August 2021. While out on bail, he was arrested again for 30 counts of child sexual exploitation in October 2021.",
+    "sources": [
+      "https://flipboard.com/topic/metrolina/statesville-pastor-arrested-for-second-time-on-child-pornography-charges/f-2c7423a574%2Fstatesville.com"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": 2021
   }
 ]
