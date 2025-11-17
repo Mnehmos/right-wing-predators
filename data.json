@@ -1528,54 +1528,51 @@
     "id": 74,
     "name": "John Bryan",
     "position": [
-      "law enforcement",
-      "local official",
-      "party member"
+      "local official"
     ],
     "crime": [
-      "rape"
+      "sexual abuse"
     ],
-    "description": "Republican councilman John Bryan resigned from office and committed suicide several hours later, just a few minutes before police arrived at his home to question him about his alleged rape of his two adoptive daughters, ages 12 and 15",
+    "description": "St. Petersburg City Council Chairman John Bryan resigned and committed suicide on September 7, 2007, as police investigated allegations he sexually abused his two adopted daughters, ages 12 and 15. He inhaled carbon monoxide in his garage hours after resigning. He was first elected to council in 2001 and re-elected in 2005.",
     "sources": [
       "https://www.tbo.com/news/st-petersburg-councilman-resigns-commits-suicide-190377"
     ],
     "tags": [
-      "law enforcement",
       "local official",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 75,
-    "name": "Garrett Ventry-Judiciary Committee communications aide",
+    "name": "Garrett Ventry",
     "position": [
-      "party official"
+      "congressional staffer"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Garrett Ventry-Judiciary Committee communications aide coordinating GOP messaging on Christine Blasey Ford’s allegation forced to resign due to sexual harassment claims.",
+    "description": "Senate Judiciary Committee communications aide Garrett Ventry resigned in September 2018 while coordinating GOP messaging on Brett Kavanaugh's Supreme Court nomination. He faced past sexual harassment allegations from when he worked for NC House Majority Leader John Bell. He was employed by CRC Public Relations on leave to the committee.",
     "sources": [
       "https://www.nbcnews.com/politics/supreme-court/spokesman-gop-kavanaugh-nomination-resigns-has-been-accused-harassment-past-n912156"
     ],
     "tags": [
-      "party official",
+      "congressional staffer",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 76,
-    "name": "staffer and long term director",
+    "name": "Larry Corrigan",
     "position": [
       "party member"
     ],
     "crime": [
-      "rape"
+      "child exploitation",
+      "sexual abuse"
     ],
-    "description": "Republican staffer and long term director of financial operations for Seattle Republicans Larry Corrigan plead guilty for attempted rape of a 13 year old girl",
+    "description": "Larry Corrigan, financial director of King County Prosecuting Attorney's Office and bookkeeper for Prosecutor Norm Maleng's campaign, pleaded guilty in March 2007 to attempted child molestation and communicating with a minor for immoral purposes. He tried to arrange sex with an undercover officer posing as a 13-year-old girl. He was sentenced to 23 months in prison and accused of embezzling $70,000 from campaign funds.",
     "sources": [
       "https://www.seattletimes.com/seattle-news/well-known-gop-activist-held-in-sex-predator-sting/"
     ],
@@ -1583,16 +1580,18 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 77,
-    "name": "talk show host Scott Eller Cortelyou plead guilty",
+    "name": "Scott Eller Cortelyou",
     "position": [
       "party member"
     ],
-    "crime": [],
-    "description": "Republican talk show host Scott Eller Cortelyou plead guilty on charges of using the Internet to try and lure a child into a sexual relationship with him",
+    "crime": [
+      "child exploitation"
+    ],
+    "description": "Radio host Scott Eller Cortelyou was arrested in January 2007 for using the Internet to lure a child. He engaged in sexually explicit chats with an undercover officer posing as a 12-year-old girl. He pleaded guilty in April 2007 to Internet luring and attempted Internet sexual exploitation of a child. He was sentenced to 18 months intensive probation and required to register as a sex offender. He hosted 'Business for Breakfast' on KRCN 1060-AM.",
     "sources": [
       "https://www.9news.com/article/news/local/former-radio-host-must-register-as-a-sex-offender/73-343881126"
     ],
@@ -1600,7 +1599,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 78,
@@ -1621,12 +1620,15 @@
   },
   {
     "id": 79,
-    "name": "spokesman Brian Doyle",
+    "name": "Brian Doyle",
     "position": [
       "party member"
     ],
-    "crime": [],
-    "description": "Republican spokesman Brian Doyle arrested for trying to seduce a 14 year old girl over the Internet. He was later sentenced to 5 years in prison",
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Department of Homeland Security Deputy Press Secretary Brian Doyle was arrested on April 4, 2006, for seducing what he thought was a 14-year-old girl (actually an undercover sheriff's deputy). He revealed his DHS employment and phone numbers during online sexual conversations. He was charged with 23 felony counts and sentenced on November 17, 2006, to 5 years in prison with 10 years probation. Released January 15, 2011.",
     "sources": [
       "https://www.cbsnews.com/news/homeland-cyber-sex-case-causes-concern/"
     ],
@@ -1634,81 +1636,88 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 80,
-    "name": "Romney",
+    "name": "Matthew Joseph Elliott",
     "position": [
-      "party member"
+      "party official",
+      "candidate"
     ],
     "crime": [
-      "child exploitation"
+      "child exploitation",
+      "sexual abuse"
     ],
-    "description": "Republican campaign official and former Romney staffer Matthew Joseph Elliott convicted of sexual exploitation of a child Got great deal, but really went astray, ending up murdering a child",
+    "description": "Republican campaign official and former Romney Iowa presidential campaign staffer Matthew Joseph Elliott was convicted in 2006 of sexual exploitation of a child. He was arrested in April 2006 and pleaded guilty three months later. He briefly worked for Governor Mitt Romney's campaign before leaving to run for Iowa state legislature.",
     "sources": [
       "http://ssristories.net/archive/show0d92.html?item=2504"
     ],
     "tags": [
-      "party member",
+      "party official",
+      "candidate",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 81,
-    "name": "party chair Donald Fle",
+    "name": "Donald Fleischman",
     "position": [
-      "party member",
       "party official"
     ],
-    "crime": [],
-    "description": "Republican party chair Donald Fleischman was charged with two counts of child enticement and one count of exposing himself to a child (Brown County, WI)",
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Brown County Wisconsin Republican Party Chairman Donald Fleischman was charged in September 2007 with child enticement, contributing to delinquency of a child, and exposing his genitals. Police found a 16-year-old boy hiding in his closet in November 2006. Charges were dropped then refiled in February 2008. He stepped down as county GOP chair and the party disbanded after it couldn't find new leadership.",
     "sources": [
       "https://freerepublic.com/focus/news/1911441/posts"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 82,
-    "name": "Michael Flory, former head of the Michigan",
+    "name": "Michael Flory",
     "position": [
-      "party member"
+      "activist"
     ],
     "crime": [
-      "rape"
+      "rape",
+      "sexual assault"
     ],
-    "description": "Republican Michael Flory, former head of the Michigan Young American Foundation, raped a colleague at : X convention",
+    "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
     "sources": [
       "https://www.cleveland.com/metro/2007/07/michigan_young_republican_plea.htmlMichael",
       "http://www.cleveland19.com/2019/03/25/former-teenage-republicans-chairman-convicted-sex-case-indicted-new-rape-charges/"
     ],
     "tags": [
-      "party member",
+      "activist",
       "republican"
     ],
     "year": 2019
   },
   {
     "id": 83,
-    "name": "Richard Gardner, Nevada State",
+    "name": "Richard Gardner",
     "position": [
       "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "child molestation",
+      "sexual abuse"
     ],
-    "description": "Richard Gardner, a Nevada State Representative (R), admitted to molesting his two daughters and 34% of voters still voted for him. That Keyes Constant!",
+    "description": "Nevada State Representative Richard Gardner (R) admitted to molesting his two daughters, including when they were toddlers. The abuse occurred over many years. He was convicted in 2002.",
     "sources": [
       "https://lasvegassun.com/news/2002/oct/14/assembly-candidate-gardner-ruled-ineligible-due-to/"
     ],
     "tags": [
-      "state legislator"
+      "state legislator",
+      "republican"
     ],
     "year": 2002
   },
@@ -21437,15 +21446,23 @@
   },
   {
     "id": 82,
-    "name": "",
-    "position": [],
-    "crime": [],
-    "description": "",
+    "name": "Michael Flory",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape",
+      "sexual assault"
+    ],
+    "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
     "sources": [
       "https://www.star-telegram.com/news/local/crime/article277827533.html"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "activist",
+      "republican"
+    ],
+    "year": 2019
   },
   {
     "id": 1154,

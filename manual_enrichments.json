@@ -321,5 +321,86 @@
     "position": ["party official"],
     "crime": ["sexual abuse", "sexual assault"],
     "tags": ["party official", "republican"]
+  },
+  {
+    "id": 74,
+    "name": "John Bryan",
+    "year": 2007,
+    "description": "St. Petersburg City Council Chairman John Bryan resigned and committed suicide on September 7, 2007, as police investigated allegations he sexually abused his two adopted daughters, ages 12 and 15. He inhaled carbon monoxide in his garage hours after resigning. He was first elected to council in 2001 and re-elected in 2005.",
+    "position": ["local official"],
+    "crime": ["sexual abuse"],
+    "tags": ["local official", "republican"]
+  },
+  {
+    "id": 75,
+    "name": "Garrett Ventry",
+    "year": 2018,
+    "description": "Senate Judiciary Committee communications aide Garrett Ventry resigned in September 2018 while coordinating GOP messaging on Brett Kavanaugh's Supreme Court nomination. He faced past sexual harassment allegations from when he worked for NC House Majority Leader John Bell. He was employed by CRC Public Relations on leave to the committee.",
+    "position": ["congressional staffer"],
+    "crime": ["sexual harassment"],
+    "tags": ["congressional staffer", "republican"]
+  },
+  {
+    "id": 76,
+    "name": "Larry Corrigan",
+    "year": 2007,
+    "description": "Larry Corrigan, financial director of King County Prosecuting Attorney's Office and bookkeeper for Prosecutor Norm Maleng's campaign, pleaded guilty in March 2007 to attempted child molestation and communicating with a minor for immoral purposes. He tried to arrange sex with an undercover officer posing as a 13-year-old girl. He was sentenced to 23 months in prison and accused of embezzling $70,000 from campaign funds.",
+    "position": ["party member"],
+    "crime": ["child exploitation", "sexual abuse"],
+    "tags": ["party member", "republican"]
+  },
+  {
+    "id": 77,
+    "name": "Scott Eller Cortelyou",
+    "year": 2007,
+    "description": "Radio host Scott Eller Cortelyou was arrested in January 2007 for using the Internet to lure a child. He engaged in sexually explicit chats with an undercover officer posing as a 12-year-old girl. He pleaded guilty in April 2007 to Internet luring and attempted Internet sexual exploitation of a child. He was sentenced to 18 months intensive probation and required to register as a sex offender. He hosted 'Business for Breakfast' on KRCN 1060-AM.",
+    "position": ["party member"],
+    "crime": ["child exploitation"],
+    "tags": ["party member", "republican"]
+  },
+  {
+    "id": 79,
+    "name": "Brian Doyle",
+    "year": 2006,
+    "description": "Department of Homeland Security Deputy Press Secretary Brian Doyle was arrested on April 4, 2006, for seducing what he thought was a 14-year-old girl (actually an undercover sheriff's deputy). He revealed his DHS employment and phone numbers during online sexual conversations. He was charged with 23 felony counts and sentenced on November 17, 2006, to 5 years in prison with 10 years probation. Released January 15, 2011.",
+    "position": ["party member"],
+    "crime": ["child exploitation", "sexual abuse"],
+    "tags": ["party member", "republican"]
+  },
+  {
+    "id": 80,
+    "name": "Matthew Joseph Elliott",
+    "year": 2006,
+    "description": "Republican campaign official and former Romney Iowa presidential campaign staffer Matthew Joseph Elliott was convicted in 2006 of sexual exploitation of a child. He was arrested in April 2006 and pleaded guilty three months later. He briefly worked for Governor Mitt Romney's campaign before leaving to run for Iowa state legislature.",
+    "position": ["party official", "candidate"],
+    "crime": ["child exploitation", "sexual abuse"],
+    "tags": ["party official", "candidate", "republican"]
+  },
+  {
+    "id": 81,
+    "name": "Donald Fleischman",
+    "year": 2007,
+    "description": "Brown County Wisconsin Republican Party Chairman Donald Fleischman was charged in September 2007 with child enticement, contributing to delinquency of a child, and exposing his genitals. Police found a 16-year-old boy hiding in his closet in November 2006. Charges were dropped then refiled in February 2008. He stepped down as county GOP chair and the party disbanded after it couldn't find new leadership.",
+    "position": ["party official"],
+    "crime": ["child exploitation", "sexual abuse"],
+    "tags": ["party official", "republican"]
+  },
+  {
+    "id": 82,
+    "name": "Michael Flory",
+    "year": 2019,
+    "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
+    "position": ["activist"],
+    "crime": ["rape", "sexual assault"],
+    "tags": ["activist", "republican"]
+  },
+  {
+    "id": 83,
+    "name": "Richard Gardner",
+    "year": 2002,
+    "description": "Nevada State Representative Richard Gardner (R) admitted to molesting his two daughters, including when they were toddlers. The abuse occurred over many years. He was convicted in 2002.",
+    "position": ["state legislator"],
+    "crime": ["child molestation", "sexual abuse"],
+    "tags": ["state legislator", "republican"]
   }
 ]
