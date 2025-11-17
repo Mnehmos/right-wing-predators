@@ -170,22 +170,19 @@
   },
   {
     "id": 9,
-    "name": "anti-abortion activ",
+    "name": "Nicholas Morency",
     "position": [
-      "activist",
-      "party member"
+      "activist"
     ],
     "crime": [
-      "child pornography",
-      "sexual abuse"
+      "child pornography"
     ],
-    "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty to possessingChild Sexual Abuse Material on his computer and offering a bounty to anybody who murders an abortion doctor.",
+    "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty in 2001 to possessing child pornography on his computer. In 1999, he used his home computer to set up a website offering $1.5 million to anyone who would kill an abortion provider. He was from Villas, New Jersey.",
     "sources": [
       "https://www.washingtonpost.com/archive/politics/2001/03/10/nation-in-brief/83fbbb01-c7fc-437a-81c4-2f686e3f1e58/"
     ],
     "tags": [
       "activist",
-      "party member",
       "republican"
     ],
     "year": 2001
@@ -407,25 +404,26 @@
   },
   {
     "id": 20,
-    "name": "activ",
+    "name": "Randal David Ankeney",
     "position": [
-      "activist",
-      "party member"
+      "party official",
+      "activist"
     ],
     "crime": [
-      "assault",
-      "sexual assault"
+      "sexual assault",
+      "sexual abuse",
+      "child exploitation"
     ],
-    "description": "Republican activist Randal David Ankeney pleaded guilty to attempted sexual assault on a",
+    "description": "Republican activist and volunteer coordinator for Governor Bill Owens' reelection campaign Randal David Ankeney was convicted in 2001 of attempting to sexually assault a 13-year-old girl he met online. He was sentenced to 2 years in prison. In 2006, he faced additional charges involving a 14-year-old girl and was sentenced to 8 more years.",
     "sources": [
       "https://www.coloradoindependent.com/2008/01/28/onetime-rising-gop-star-back-to-prison-for-sex-assaults/"
     ],
     "tags": [
+      "party official",
       "activist",
-      "party member",
       "republican"
     ],
-    "year": 2008
+    "year": 2001
   },
   {
     "id": 21,
@@ -1034,76 +1032,86 @@
   },
   {
     "id": 50,
-    "name": "Randall Casseday, HR",
-    "position": [],
-    "crime": [],
-    "description": "Randall Casseday, HR Director for right-wing Washington Times - caught in an underage sex sting - \"The Washington Times is the only newspaper where the moral issues of family and faith are proudly reported on the front page on a regular basis\"",
+    "name": "Randall Casseday",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Washington Times HR Director Randall Casseday was arrested on September 29, 2006, for attempting to entice a minor on the Internet. He instigated an online chat with what he believed was a 13-year-old girl (actually an undercover DCPD detective). After sexually explicit conversations and photo exchanges, he went to meet the 'girl' and was arrested.",
     "sources": [
       "https://www.huffpost.com/entry/how-an-accused-child-sex_b_30501"
     ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 51,
-    "name": "chairman",
-    "position": [
-      "party member",
-      "party official"
-    ],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "Republican chairman of the Oregon Christian Coalition Lou Beres confessed to molesting a 13-year old girl",
-    "sources": [
-      "https://www.portlandmercury.com/news/2006/08/10/51719/family-values"
-    ],
     "tags": [
       "party member",
-      "party official",
       "republican"
     ],
     "year": 2006
   },
   {
-    "id": 52,
-    "name": "County Larry Dale Floyd",
+    "id": 51,
+    "name": "Lou Beres",
     "position": [
-      "party member"
+      "party official",
+      "activist"
     ],
     "crime": [
-      "prostitution"
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "Republican County Constable Larry Dale Floyd was arrested on suspicion of soliciting sex with an 8-year old girl. Floyd has repeatedly won elections for Denton County, Texas,",
+    "description": "Oregon Christian Coalition chairman Lou Beres admitted in 2006 to sexually touching multiple girls when they were minors. He confessed to police that he molested a 13-year-old girl and touched a 16-17-year-old friend of his daughter in 1976-77. Three women came forward in 2005. No charges were filed due to statute of limitations, but he was sued in civil court.",
+    "sources": [
+      "https://www.portlandmercury.com/news/2006/08/10/51719/family-values"
+    ],
+    "tags": [
+      "party official",
+      "activist",
+      "republican",
+      "religious leader"
+    ],
+    "year": 2005
+  },
+  {
+    "id": 52,
+    "name": "Larry Dale Floyd",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Denton County, Texas, Republican Constable Larry Dale Floyd was arrested in July 2005 for soliciting sex with an 8-year-old girl. He drove to Fremont County, Colorado, to meet a woman he thought would offer him her daughter. He faced charges of soliciting child prostitution, enticement of a child, and attempted sexual assault. He was sentenced in 2016.",
     "sources": [
       "https://www.myplainview.com/news/article/Former-Denton-County-constable-sentenced-in-sex-8506421.php"
     ],
     "tags": [
-      "party member",
+      "law enforcement",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 53,
-    "name": "Party leader Bobby Stumbo",
+    "name": "Bobby Stumbo",
     "position": [
-      "party member",
       "party official"
     ],
     "crime": [
-      "rape"
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "Republican Party leader Bobby Stumbo was arrested for having sex (raping) with a 5-year old boy.",
+    "description": "Robert 'Bobby' Stumbo, Republican Party chairman of Floyd County, Kentucky, was arrested in 2005 and charged with sexual abuse involving a 5-year-old boy. The case was reported in the Lexington Herald-Leader on October 4, 2005.",
     "sources": [
       "https://web.archive.org/web/20051211093004/http"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 54,
@@ -1126,24 +1134,24 @@
   },
   {
     "id": 55,
-    "name": "County Armando Tebano",
+    "name": "Armando Tebano",
     "position": [
-      "party member",
-      "party official"
+      "party official",
+      "local official"
     ],
     "crime": [
-      "child molestation"
+      "sexual abuse"
     ],
-    "description": "Republican County Chairman Armando Tebano was arrested for sexually molesting a 14-year-old girl.",
+    "description": "Schenectady County Republican Chairman and county elections commissioner Armando Tebano pleaded guilty in February 2007 to harassment in connection with allegations he molested a 14-year-old girl at his home. He was sentenced to 250 hours community service and fined $295. The plea was a reduction from original charges of sexual abuse and forcible touching.",
     "sources": [
       "https://www.bishop-accountability.org/news2008/01_02/2008_02_08_Stanforth_SexAbuse.htm"
     ],
     "tags": [
-      "party member",
       "party official",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 56,

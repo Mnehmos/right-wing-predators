@@ -204,5 +204,68 @@
     "position": ["party member"],
     "crime": ["sexual abuse", "child exploitation", "prostitution"],
     "tags": ["party member", "republican"]
+  },
+  {
+    "id": 50,
+    "name": "Randall Casseday",
+    "year": 2006,
+    "description": "Washington Times HR Director Randall Casseday was arrested on September 29, 2006, for attempting to entice a minor on the Internet. He instigated an online chat with what he believed was a 13-year-old girl (actually an undercover DCPD detective). After sexually explicit conversations and photo exchanges, he went to meet the 'girl' and was arrested.",
+    "position": ["party member"],
+    "crime": ["child exploitation", "sexual abuse"],
+    "tags": ["party member", "republican"]
+  },
+  {
+    "id": 51,
+    "name": "Lou Beres",
+    "year": 2005,
+    "description": "Oregon Christian Coalition chairman Lou Beres admitted in 2006 to sexually touching multiple girls when they were minors. He confessed to police that he molested a 13-year-old girl and touched a 16-17-year-old friend of his daughter in 1976-77. Three women came forward in 2005. No charges were filed due to statute of limitations, but he was sued in civil court.",
+    "position": ["party official", "activist"],
+    "crime": ["sexual abuse", "child molestation"],
+    "tags": ["party official", "activist", "republican", "religious leader"]
+  },
+  {
+    "id": 52,
+    "name": "Larry Dale Floyd",
+    "year": 2005,
+    "description": "Denton County, Texas, Republican Constable Larry Dale Floyd was arrested in July 2005 for soliciting sex with an 8-year-old girl. He drove to Fremont County, Colorado, to meet a woman he thought would offer him her daughter. He faced charges of soliciting child prostitution, enticement of a child, and attempted sexual assault. He was sentenced in 2016.",
+    "position": ["law enforcement"],
+    "crime": ["child exploitation", "sexual abuse"],
+    "tags": ["law enforcement", "republican"]
+  },
+  {
+    "id": 53,
+    "name": "Bobby Stumbo",
+    "year": 2005,
+    "description": "Robert 'Bobby' Stumbo, Republican Party chairman of Floyd County, Kentucky, was arrested in 2005 and charged with sexual abuse involving a 5-year-old boy. The case was reported in the Lexington Herald-Leader on October 4, 2005.",
+    "position": ["party official"],
+    "crime": ["sexual abuse", "child molestation"],
+    "tags": ["party official", "republican"]
+  },
+  {
+    "id": 55,
+    "name": "Armando Tebano",
+    "year": 2007,
+    "description": "Schenectady County Republican Chairman and county elections commissioner Armando Tebano pleaded guilty in February 2007 to harassment in connection with allegations he molested a 14-year-old girl at his home. He was sentenced to 250 hours community service and fined $295. The plea was a reduction from original charges of sexual abuse and forcible touching.",
+    "position": ["party official", "local official"],
+    "crime": ["sexual abuse"],
+    "tags": ["party official", "local official", "republican"]
+  },
+  {
+    "id": 9,
+    "name": "Nicholas Morency",
+    "year": 2001,
+    "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty in 2001 to possessing child pornography on his computer. In 1999, he used his home computer to set up a website offering $1.5 million to anyone who would kill an abortion provider. He was from Villas, New Jersey.",
+    "position": ["activist"],
+    "crime": ["child pornography"],
+    "tags": ["activist", "republican"]
+  },
+  {
+    "id": 20,
+    "name": "Randal David Ankeney",
+    "year": 2001,
+    "description": "Republican activist and volunteer coordinator for Governor Bill Owens' reelection campaign Randal David Ankeney was convicted in 2001 of attempting to sexually assault a 13-year-old girl he met online. He was sentenced to 2 years in prison. In 2006, he faced additional charges involving a 14-year-old girl and was sentenced to 8 more years.",
+    "position": ["party official", "activist"],
+    "crime": ["sexual assault", "sexual abuse", "child exploitation"],
+    "tags": ["party official", "activist", "republican"]
   }
 ]
