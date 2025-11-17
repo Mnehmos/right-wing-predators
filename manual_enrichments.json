@@ -2468,5 +2468,95 @@
     "position": ["pastor"],
     "crime": ["lewd acts with a child", "child sexual abuse"],
     "tags": ["religious leader", "predator"]
+  },
+  {
+    "id": 1154,
+    "name": "Ruby Franke",
+    "year": 2024,
+    "description": "Ruby Franke, influential mommy vlogger with over 2 million YouTube subscribers on '8 Passengers', was arrested on August 30, 2023, for child abuse. On August 30, 2023, her 12-year-old son escaped through a window and reported abuse to neighbors. Franke and business partner Jodi Hildebrandt were charged with six counts of felony aggravated child abuse. Franke pleaded guilty to four counts and was sentenced February 20, 2024, to 4-30 years in prison for torturing and physically abusing the children.",
+    "position": ["youtube personality", "content creator"],
+    "crime": ["child abuse", "physical abuse", "child endangerment"],
+    "tags": ["youtuber", "mommy vlogger", "predator"]
+  },
+  {
+    "id": 1156,
+    "name": "Kevin Tomafsky",
+    "year": 2023,
+    "description": "Kevin Tomafsky, a former aide to New Jersey Gov. Chris Christie who worked in the governor's scheduling office, was convicted and sentenced to ten years in prison for raping a six-year-old child. He paid the victim's father to engage in sexual conduct with the child. Tomafsky was charged with engaging in sexual conduct with a child, conspiracy to endanger welfare of a child, permitting a child to engage in pornography, and possession of child pornography. He is subject to lifelong registration under Megan's Law.",
+    "position": ["political operative", "governor aide"],
+    "crime": ["child rape", "child sexual abuse", "child pornography"],
+    "tags": ["political predator", "governor aide", "convicted"]
+  },
+  {
+    "id": 1163,
+    "name": "Jeff Jones",
+    "year": 2023,
+    "description": "Jeff Jones, Monroe County Sheriff in West Virginia, was arrested by West Virginia State Police in September 2023 for interfering with an investigation and obstruction. He was accused of covering up a deputy's inappropriate relationship with a 17-year-old high school student. He was charged with failure to report as a mandated reporter, obstruction, and deceiving the Monroe County Civil Service Commission. He was released on $1,000 bond. Previously, Jones was arrested in 2021 for DUI after a single-vehicle wreck.",
+    "position": ["law enforcement", "sheriff"],
+    "crime": ["obstruction", "failure to report abuse", "cover-up"],
+    "tags": ["sheriff", "coverup"]
+  },
+  {
+    "id": 1168,
+    "name": "John Finley",
+    "year": 2023,
+    "description": "John Finley, a longtime Fox News executive and head of Fox Nation, was fired in 2023 after more than two decades with the network following allegations of sexual harassment and stalking. A woman accused Finley of 'stalking her relentlessly' and pursuing 'a relentless pattern of sexual harassment.' Fox News hired an independent law firm to investigate and reached an undisclosed settlement. Multiple sources reported he pursued romantic relationships with subordinates throughout his tenure, including with a Fox staffer he married then divorced.",
+    "position": ["fox news executive", "media executive"],
+    "crime": ["sexual harassment", "stalking"],
+    "tags": ["fox news", "executive", "sexual harasser"]
+  },
+  {
+    "id": 1173,
+    "name": "Andrew Lynn Overheul",
+    "year": 2024,
+    "description": "Andrew Lynn Overheul, 43, a former Clay County/Orange Park Florida softball coach, was sentenced to 20 years in federal prison followed by lifetime supervised release for production and attempted production of sexually explicit images and videos of children. He secretly recorded a 12-year-old player changing and showering in his home. Forensics found multiple photos of minor female players and evidence of remote camera equipment. He pleaded guilty June 7, 2023, and was detained since arrest on April 20, 2023.",
+    "position": ["sports coach", "softball coach"],
+    "crime": ["production of child sexual abuse material", "voyeurism", "child exploitation"],
+    "tags": ["coach", "predator", "child pornography"]
+  },
+  {
+    "id": 1179,
+    "name": "Phillip Koons",
+    "year": 2023,
+    "description": "Phillip Koons, a Hall of Fame football coach at Ringling High School in Oklahoma with a 47-4 record in his final four years, was charged with outraging public decency following an OSBI investigation. Students accused him of creating a cult-like bullying environment, forcing students to do warm-ups naked, burning their genitals, using racist and homophobic slurs, and inflicting psychological abuse that led some students to suicidal thoughts. The district attorney ultimately withdrew the charges citing insufficient evidence.",
+    "position": ["football coach"],
+    "crime": ["abuse", "harassment", "assault"],
+    "tags": ["coach", "bully"]
+  },
+  {
+    "id": 1188,
+    "name": "Tammy Tyner Moran",
+    "year": 2023,
+    "description": "Tammy Tyner Moran, a former Cape Fear Christian Academy finance officer in North Carolina, pleaded guilty to sexual crimes involving two exchange students in her custody. She was accused of engaging in sexual acts with a 17-year-old exchange student in 2021 and another student in 2020 who both stayed in her home. On October 24, 2023, she pleaded guilty to two misdemeanor counts of sexual battery and was sentenced to 60 days in jail, 24 months probation, and must register as a sex offender.",
+    "position": ["school administrator", "finance officer"],
+    "crime": ["sexual battery", "sexual abuse of a student"],
+    "tags": ["school employee", "predator"]
+  },
+  {
+    "id": 1203,
+    "name": "Paul Schofield",
+    "year": 2022,
+    "description": "Paul Schofield and his wife recorded themselves raping her 4-year-old child. Both pleaded guilty to the horrific charges of child sexual abuse and production of child sexual abuse material. This is one of the most egregious cases of child abuse involving creation of CSAM.",
+    "position": [],
+    "crime": ["child rape", "production of child sexual abuse material", "child sexual abuse"],
+    "tags": ["predator", "child pornography", "couple abuse"]
+  },
+  {
+    "id": 1215,
+    "name": "Patrick Walsh",
+    "year": 2023,
+    "description": "Patrick Walsh, a gym mogul and CEO of an investment group who invested $6.2 million into Trump's Truth Social, is facing two federal sexual harassment lawsuits from female employees. Personal trainer Taryn Baldwin accused him of unwanted groping, texting her daily for explicit photos, kissing her without consent, and trying to pull down her pants during training sessions. Former employee Megan Lange accused him of retaliation after ending a relationship due to her concerns about his behavior with other female employees.",
+    "position": ["gym mogul", "investment executive", "business owner"],
+    "crime": ["sexual harassment", "sexual assault"],
+    "tags": ["business executive", "sexual harasser", "trump investor"]
+  },
+  {
+    "id": 1226,
+    "name": "Brock Fredin",
+    "year": 2023,
+    "description": "Brock Fredin, a 40-year-old Wisconsin resident and MAGA Twitter troll, operates the @JudicialProtest account amplified by Trump. He has a prolific history of criminal litigation and harassment of women, including two jail convictions for violating restraining orders (8 months in jail 2018-2019) and a 50-year restraining order. A U.S. District Judge declared him a 'malicious and vexatious litigant' in 2020. His social media posts about Trump's trial led to Trump receiving a gag order.",
+    "position": ["activist", "social media personality"],
+    "crime": ["stalking", "harassment", "violating restraining orders"],
+    "tags": ["maga activist", "stalker", "vexatious litigant"]
   }
 ]
